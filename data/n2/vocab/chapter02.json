@@ -1,0 +1,851 @@
+{
+  "chapter": 2,
+  "sections": [
+    {
+      "section": 1,
+      "title": "住まい",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "一人住まい",
+          "hiragana": "ひとりずまい",
+          "meaning_burmese": "တစ်ယောက်တည်းနေထိုင်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "賃貸",
+          "hiragana": "ちんたい",
+          "meaning_burmese": "အငှားချထားခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "敷金",
+          "hiragana": "しききん",
+          "meaning_burmese": "အခန်းငှားစပေါ်ငွေ"
+        },
+        {
+          "no": 4,
+          "kanji": "更新",
+          "hiragana": "こうしん",
+          "meaning_burmese": "သက်တမ်းတိုးခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "ローン",
+          "hiragana": "ローン",
+          "meaning_burmese": "အရစ်ကျချေးငွေ"
+        },
+        {
+          "no": 6,
+          "kanji": "決まり",
+          "hiragana": "きまり",
+          "meaning_burmese": "စည်းမျဉ်း၊ စည်းကမ်း"
+        },
+        {
+          "no": 7,
+          "kanji": "一戸建て",
+          "hiragana": "いっこだて",
+          "meaning_burmese": "သီးသန့်လုံးချင်းအိမ်"
+        },
+        {
+          "no": 8,
+          "kanji": "マイホーム",
+          "hiragana": "マイホーム",
+          "meaning_burmese": "ကိုယ်ပိုင်အိမ်"
+        },
+        {
+          "no": 9,
+          "kanji": "我が家",
+          "hiragana": "わがや",
+          "meaning_burmese": "မိမိတို့အိမ်၊ ကိုယ့်အိမ်"
+        },
+        {
+          "no": 10,
+          "kanji": "家屋",
+          "hiragana": "かおく",
+          "meaning_burmese": "နေအိမ်အဆောက်အအုံ"
+        },
+        {
+          "no": 11,
+          "kanji": "屋根",
+          "hiragana": "やね",
+          "meaning_burmese": "အိမ်ခေါင်မိုး"
+        },
+        {
+          "no": 12,
+          "kanji": "洗面所",
+          "hiragana": "せんめんじょ",
+          "meaning_burmese": "မျက်နှာသစ်ခန်း၊ လက်ဆေးခန်း"
+        },
+        {
+          "no": 13,
+          "kanji": "物置",
+          "hiragana": "ものおき",
+          "meaning_burmese": "ပစ္စည်းသိုလှောင်ခန်း"
+        },
+        {
+          "no": 14,
+          "kanji": "間取り",
+          "hiragana": "まどり",
+          "meaning_burmese": "အိမ်ခန်းဖွဲ့စည်းပုံ"
+        },
+        {
+          "no": 15,
+          "kanji": "空間",
+          "hiragana": "くうかん",
+          "meaning_burmese": "နေရာလွတ်၊ ဟင်းလင်းပြင်နေရာ"
+        },
+        {
+          "no": 16,
+          "kanji": "奥",
+          "hiragana": "おく",
+          "meaning_burmese": "အတွင်းပိုင်း၊ အတွင်းအကျဆုံးနေရာ"
+        },
+        {
+          "no": 17,
+          "kanji": "手前",
+          "hiragana": "てまえ",
+          "meaning_burmese": "မိမိဘက်၊ ရှေ့ဘက်"
+        },
+        {
+          "no": 18,
+          "kanji": "南向き",
+          "hiragana": "みなみむき",
+          "meaning_burmese": "တောင်ဘက်လှည့်"
+        },
+        {
+          "no": 19,
+          "kanji": "温もり",
+          "hiragana": "ぬくもり",
+          "meaning_burmese": "နွေးထွေးမှု"
+        },
+        {
+          "no": 20,
+          "kanji": "頑丈な",
+          "hiragana": "がんじょうな",
+          "meaning_burmese": "ခိုင်ခံ့တောင့်တင်းသော"
+        },
+        {
+          "no": 21,
+          "kanji": "点検",
+          "hiragana": "てんけん",
+          "meaning_burmese": "စစ်ဆေးပြုပြင်ခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "停止",
+          "hiragana": "ていし",
+          "meaning_burmese": "ရပ်တန့်ခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "物音",
+          "hiragana": "ものおと",
+          "meaning_burmese": "အသံ၊ အရာဝတ္ထုမှထွက်သောအသံ"
+        },
+        {
+          "no": 24,
+          "kanji": "防犯",
+          "hiragana": "ぼうはん",
+          "meaning_burmese": "ပြစ်မှုကာကွယ်ရေး"
+        },
+        {
+          "no": 25,
+          "kanji": "ぞっと",
+          "hiragana": "ぞっと",
+          "meaning_burmese": "ကြက်သီးထဖွယ်လန့်ဖြန့်သွားခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "警備",
+          "hiragana": "けいび",
+          "meaning_burmese": "လုံခြုံရေးစောင့်ကြပ်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "新築",
+          "hiragana": "しんちく",
+          "meaning_burmese": "အသစ်ဆောက်လုပ်ထားသောအိမ်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "お金",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "収入",
+          "hiragana": "しゅうにゅう",
+          "meaning_burmese": "ဝင်ငွေ"
+        },
+        {
+          "no": 2,
+          "kanji": "ごく",
+          "hiragana": "ごく",
+          "meaning_burmese": "အလွန်၊ အင်မတန်"
+        },
+        {
+          "no": 3,
+          "kanji": "せいぜい",
+          "hiragana": "せいぜい",
+          "meaning_burmese": "အများဆုံးရှိမှ၊ တတ်နိုင်သမျှ"
+        },
+        {
+          "no": 4,
+          "kanji": "出費",
+          "hiragana": "しゅっぴ",
+          "meaning_burmese": "ကုန်ကျစရိတ်၊ အသုံးစရိတ်"
+        },
+        {
+          "no": 5,
+          "kanji": "赤字",
+          "hiragana": "あかじ",
+          "meaning_burmese": "လိုငွေပြမှု၊ အရှုံးပေါ်ခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "大金",
+          "hiragana": "たいきん",
+          "meaning_burmese": "ငွေပမာဏအမြောက်အမြား"
+        },
+        {
+          "no": 7,
+          "kanji": "税金",
+          "hiragana": "ぜいきん",
+          "meaning_burmese": "အခွန်"
+        },
+        {
+          "no": 8,
+          "kanji": "納める",
+          "hiragana": "おさめる",
+          "meaning_burmese": "ပေးသွင်းသည်၊ အခွန်ဆောင်သည်"
+        },
+        {
+          "no": 9,
+          "kanji": "含む",
+          "hiragana": "ふくむ",
+          "meaning_burmese": "ပါဝင်သည်၊ အကျုံးဝင်သည်"
+        },
+        {
+          "no": 10,
+          "kanji": "公共料金",
+          "hiragana": "こうきょうりょうきん",
+          "meaning_burmese": "အများသုံးမီတာခ (မီး/ရေ/ဂတ်စ်)"
+        },
+        {
+          "no": 11,
+          "kanji": "払い込む",
+          "hiragana": "はらいこむ",
+          "meaning_burmese": "ငွေပေးသွင်းသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "引き落とし",
+          "hiragana": "ひきおとし",
+          "meaning_burmese": "ဘဏ်အကောင့်မှအလိုအလျောက်ငွေဖြတ်တောက်ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "手数料",
+          "hiragana": "てすうりょう",
+          "meaning_burmese": "ဝန်ဆောင်ခ၊ ကော်မရှင်ခ"
+        },
+        {
+          "no": 14,
+          "kanji": "出し入れ",
+          "hiragana": "だしいれ",
+          "meaning_burmese": "ငွေသွင်းငွေထုတ်ပြုလုပ်ခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "高くつく",
+          "hiragana": "たかくつく",
+          "meaning_burmese": "ကုန်ကျစရိတ်များသွားသည်၊ စျေးကြီးသွားသည်"
+        },
+        {
+          "no": 16,
+          "kanji": "残高",
+          "hiragana": "ざんだか",
+          "meaning_burmese": "ဘဏ်စာရင်းလက်ကျန်ငွေ"
+        },
+        {
+          "no": 17,
+          "kanji": "せっせと",
+          "hiragana": "せっせと",
+          "meaning_burmese": "မနားမနေကြိုးစား၍၊ အားသွန်ခွန်စိုက်"
+        },
+        {
+          "no": 18,
+          "kanji": "大まかな",
+          "hiragana": "おおまかな",
+          "meaning_burmese": "ခန့်မှန်းခြေအားဖြင့်၊ အကြမ်းဖျင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "差し引く",
+          "hiragana": "さしひく",
+          "meaning_burmese": "နှုတ်ပယ်သည်၊ ဖယ်ထုတ်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "努める",
+          "hiragana": "つとめる",
+          "meaning_burmese": "ကြိုးစားအားထုတ်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "立て替える",
+          "hiragana": "たてかえる",
+          "meaning_burmese": "စိုက်ထုတ်ပေးချေသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "援助",
+          "hiragana": "えんじょ",
+          "meaning_burmese": "ထောက်ပံ့ကူညီမှု"
+        },
+        {
+          "no": 23,
+          "kanji": "返済",
+          "hiragana": "へんさい",
+          "meaning_burmese": "အကြွေးပြန်ဆပ်ခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "安定",
+          "hiragana": "あんてい",
+          "meaning_burmese": "တည်ငြိမ်မှု"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "食事",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "好き嫌い",
+          "hiragana": "すききらい",
+          "meaning_burmese": "အကြိုက်အမုန်းရွေးခြင်း၊ အစားရွေးခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "好物",
+          "hiragana": "こうぶつ",
+          "meaning_burmese": "ကြိုက်နှစ်သက်သောအရာ/အစားအစာ"
+        },
+        {
+          "no": 3,
+          "kanji": "飽きる",
+          "hiragana": "あきる",
+          "meaning_burmese": "ရိုးအီငြီးငွေ့သွားသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "物足りない",
+          "hiragana": "ものたりない",
+          "meaning_burmese": "တစ်ခုခုလိုသလိုဖြစ်နေသော၊ အားမရသော"
+        },
+        {
+          "no": 5,
+          "kanji": "ボリューム",
+          "hiragana": "ボリューム",
+          "meaning_burmese": "ပမာဏများပြားမှု၊ အသံအတိုးအကျယ်"
+        },
+        {
+          "no": 6,
+          "kanji": "一口",
+          "hiragana": "ひとくち",
+          "meaning_burmese": "တစ်လုပ်၊ တစ်ငုံ"
+        },
+        {
+          "no": 7,
+          "kanji": "かじる",
+          "hiragana": "かじる",
+          "meaning_burmese": "ကိုက်ဝါးသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "ひとたび",
+          "hiragana": "ひとたび",
+          "meaning_burmese": "တစ်ခါတစ်ရံ၊ တစ်ကြိမ်မျှ"
+        },
+        {
+          "no": 9,
+          "kanji": "うまい",
+          "hiragana": "うまい",
+          "meaning_burmese": "အရသာရှိသော၊ တော်သော"
+        },
+        {
+          "no": 10,
+          "kanji": "いける",
+          "hiragana": "いける",
+          "meaning_burmese": "အဆင်ပြေသည်၊ အသောက်အစားနိုင်သည်"
+        },
+        {
+          "no": 11,
+          "kanji": "渋い",
+          "hiragana": "しぶい",
+          "meaning_burmese": "ဖန်သော၊ ရိုးရိုးနှင့်ခန့်ညားသော"
+        },
+        {
+          "no": 12,
+          "kanji": "くどい",
+          "hiragana": "くどい",
+          "meaning_burmese": "အီလွန်းသော၊ စကားအထပ်ထပ်ပြောသော"
+        },
+        {
+          "no": 13,
+          "kanji": "ファミレス",
+          "hiragana": "ファミレス",
+          "meaning_burmese": "မိသားစုစားသောက်ဆိုင်"
+        },
+        {
+          "no": 14,
+          "kanji": "フルコース",
+          "hiragana": "フルコース",
+          "meaning_burmese": "အနောက်တိုင်းစုံလင်စွာပါသောဟင်းပွဲအစုံ"
+        },
+        {
+          "no": 15,
+          "kanji": "オーダー",
+          "hiragana": "オーダー",
+          "meaning_burmese": "အော်ဒါမှာယူခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "催促",
+          "hiragana": "さいそく",
+          "meaning_burmese": "အလျင်လိုတိုက်တွန်းတောင်းဆိုခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "会計",
+          "hiragana": "かいけい",
+          "meaning_burmese": "ရှင်းတမ်းငွေချေခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "バイキング",
+          "hiragana": "バイキング",
+          "meaning_burmese": "ဘူဖေး (Buffet)"
+        },
+        {
+          "no": 19,
+          "kanji": "トレイ",
+          "hiragana": "トレイ",
+          "meaning_burmese": "ဗန်း"
+        },
+        {
+          "no": 20,
+          "kanji": "器",
+          "hiragana": "うつわ",
+          "meaning_burmese": "ပန်းကန်ခွက်ယောက်"
+        },
+        {
+          "no": 21,
+          "kanji": "重ねる",
+          "hiragana": "かさねる",
+          "meaning_burmese": "ထပ်သည်၊ ဆင့်သည်"
+        },
+        {
+          "no": 22,
+          "kanji": "ずらり",
+          "hiragana": "ずらり",
+          "meaning_burmese": "စီတန်းလျက်"
+        },
+        {
+          "no": 23,
+          "kanji": "主食",
+          "hiragana": "しゅしょく",
+          "meaning_burmese": "အဓိကအစားအစာ (ထမင်း/ပေါင်မုန့်)"
+        },
+        {
+          "no": 24,
+          "kanji": "生",
+          "hiragana": "なま",
+          "meaning_burmese": "အစိမ်း၊ အလတ်ဆတ်"
+        },
+        {
+          "no": 25,
+          "kanji": "なま物",
+          "hiragana": "なまもの",
+          "meaning_burmese": "အစိမ်းစားရသောအရာ၊ ပုပ်သိုးလွယ်သောအစားအစာ"
+        },
+        {
+          "no": 26,
+          "kanji": "特製",
+          "hiragana": "とくせい",
+          "meaning_burmese": "အထူးပြုလုပ်ချက်"
+        },
+        {
+          "no": 27,
+          "kanji": "粗末な",
+          "hiragana": "そまつな",
+          "meaning_burmese": "ညံ့ဖျင်းသော၊ သာမန်မဖြစ်စလောက်သော"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "買い物",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "購入",
+          "hiragana": "こうにゅう",
+          "meaning_burmese": "ဝယ်ယူခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "お買い得",
+          "hiragana": "おかいどく",
+          "meaning_burmese": "တန်ဖိုးရှိစွာဝယ်ယူရရှိသောအရာ၊ ဈေးတန်သောအရာ"
+        },
+        {
+          "no": 3,
+          "kanji": "手頃な",
+          "hiragana": "てごろな",
+          "meaning_burmese": "သင့်တင့်သော၊ လက်လှမ်းမီသော (စျေးနှုန်း)"
+        },
+        {
+          "no": 4,
+          "kanji": "値引き",
+          "hiragana": "ねびき",
+          "meaning_burmese": "စျေးလျှော့ပေးခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "おまけ",
+          "hiragana": "おまけ",
+          "meaning_burmese": "အပိုလက်ဆောင်ထည့်ပေးခြင်း၊ စျေးလျှော့ပေးခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "返品",
+          "hiragana": "へんぴん",
+          "meaning_burmese": "ပစ္စည်းပြန်အပ်ခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "返金",
+          "hiragana": "へんきん",
+          "meaning_burmese": "ငွေပြန်အမ်းခြင်း"
+        },
+        {
+          "no": 8,
+          "kanji": "価格",
+          "hiragana": "かかく",
+          "meaning_burmese": "စျေးနှုန်း"
+        },
+        {
+          "no": 9,
+          "kanji": "高価な",
+          "hiragana": "こうかな",
+          "meaning_burmese": "စျေးကြီးသော၊ တန်ဖိုးကြီးသော"
+        },
+        {
+          "no": 10,
+          "kanji": "金額",
+          "hiragana": "きんがく",
+          "meaning_burmese": "ငွေပမာဏ"
+        },
+        {
+          "no": 11,
+          "kanji": "価値",
+          "hiragana": "かち",
+          "meaning_burmese": "တန်ဖိုး"
+        },
+        {
+          "no": 12,
+          "kanji": "品質",
+          "hiragana": "ひんしつ",
+          "meaning_burmese": "အရည်အသွေး"
+        },
+        {
+          "no": 13,
+          "kanji": "消費税",
+          "hiragana": "しょうひぜい",
+          "meaning_burmese": "ကုန်စည်သုံးစွဲခွန်"
+        },
+        {
+          "no": 14,
+          "kanji": "オークション",
+          "hiragana": "オークション",
+          "meaning_burmese": "လေလံပွဲ"
+        },
+        {
+          "no": 15,
+          "kanji": "名物",
+          "hiragana": "めいぶつ",
+          "meaning_burmese": "နာမည်ကြီးဒေသထွက်ကုန်"
+        },
+        {
+          "no": 16,
+          "kanji": "取り寄せる",
+          "hiragana": "とりよせる",
+          "meaning_burmese": "မှာယူတင်သွင်းသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "扱う",
+          "hiragana": "あつかう",
+          "meaning_burmese": "ရောင်းချသည်၊ ကိုင်တွယ်ဆက်ဆံသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "買い換える",
+          "hiragana": "かいかえる",
+          "meaning_burmese": "အသစ်လဲလှယ်ဝယ်ယူသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "売り出す",
+          "hiragana": "うりだす",
+          "meaning_burmese": "စတင်ရောင်းချသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "チラシ",
+          "hiragana": "チラシ",
+          "meaning_burmese": "ကြော်ငြာလက်ကမ်းစာစောင်"
+        },
+        {
+          "no": 21,
+          "kanji": "切り取る",
+          "hiragana": "きりとる",
+          "meaning_burmese": "ဖြတ်ယူသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "パック",
+          "hiragana": "パック",
+          "meaning_burmese": "ဘူး/ဗူးထုပ်ပိုးမှု၊ ပေါင်းတင်ခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "包装",
+          "hiragana": "ほうそう",
+          "meaning_burmese": "ထုပ်ပိုးမှု"
+        },
+        {
+          "no": 24,
+          "kanji": "試食",
+          "hiragana": "ししょく",
+          "meaning_burmese": "မြည်းစမ်းကြည့်ခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "試着",
+          "hiragana": "しちゃく",
+          "meaning_burmese": "အဝတ်အစားဝတ်ဆင်စမ်းသပ်ခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "わりあい",
+          "hiragana": "わりあい",
+          "meaning_burmese": "အတော်အတန်၊ နှိုင်းယှဉ်ချက်အရ"
+        },
+        {
+          "no": 27,
+          "kanji": "ダブる",
+          "hiragana": "ダブる",
+          "meaning_burmese": "ထပ်တူကျသည်၊ နှစ်ခါထပ်ဝယ်မိသည်"
+        },
+        {
+          "no": 28,
+          "kanji": "よす",
+          "hiragana": "よす",
+          "meaning_burmese": "ရပ်တန့်သည်၊ လက်လျှော့သည်"
+        },
+        {
+          "no": 29,
+          "kanji": "わりと",
+          "hiragana": "わりと",
+          "meaning_burmese": "ထင်ထားသည်ထက်၊ အတော်လေး"
+        },
+        {
+          "no": 30,
+          "kanji": "実物",
+          "hiragana": "じつぶつ",
+          "meaning_burmese": "ပစ္စည်းအစစ်အမှန်"
+        },
+        {
+          "no": 31,
+          "kanji": "粒",
+          "hiragana": "つぶ",
+          "meaning_burmese": "အစေ့အဆံ၊ အလုံး"
+        },
+        {
+          "no": 32,
+          "kanji": "スペース",
+          "hiragana": "スペース",
+          "meaning_burmese": "နေရာလွတ်"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "時を表す言葉",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "現在",
+          "hiragana": "げんざい",
+          "meaning_burmese": "မျက်မှောက်ခေတ်၊ ယခုလက်ရှိ"
+        },
+        {
+          "no": 2,
+          "kanji": "過去",
+          "hiragana": "かこ",
+          "meaning_burmese": "အတိတ်"
+        },
+        {
+          "no": 3,
+          "kanji": "年月",
+          "hiragana": "ねんげつ",
+          "meaning_burmese": "လနှင့်ချီသောနှစ်များ၊ ကာလရှည်"
+        },
+        {
+          "no": 4,
+          "kanji": "月日",
+          "hiragana": "つきひ",
+          "meaning_burmese": "ရက်စွဲများ၊ အချိန်ကာလ"
+        },
+        {
+          "no": 5,
+          "kanji": "日時",
+          "hiragana": "にちじ",
+          "meaning_burmese": "ရက်စွဲနှင့်အချိန်"
+        },
+        {
+          "no": 6,
+          "kanji": "今日",
+          "hiragana": "こんにち",
+          "meaning_burmese": "ယနေ့ခေတ်"
+        },
+        {
+          "no": 7,
+          "kanji": "年代",
+          "hiragana": "ねんだい",
+          "meaning_burmese": "ခေတ်ကာလ၊ အသက်အရွယ်အပိုင်းအခြား"
+        },
+        {
+          "no": 8,
+          "kanji": "年間",
+          "hiragana": "ねんかん",
+          "meaning_burmese": "တစ်နှစ်ပတ်လုံး၊ တစ်နှစ်တာကာလ"
+        },
+        {
+          "no": 9,
+          "kanji": "年中",
+          "hiragana": "ねんじゅう",
+          "meaning_burmese": "တစ်နှစ်ပတ်လုံး၊ အမြဲမပြတ်"
+        },
+        {
+          "no": 10,
+          "kanji": "本年",
+          "hiragana": "ほんねん",
+          "meaning_burmese": "ယခုနှစ်"
+        },
+        {
+          "no": 11,
+          "kanji": "日中",
+          "hiragana": "にっちゅう",
+          "meaning_burmese": "နေ့ခင်းဘက်"
+        },
+        {
+          "no": 12,
+          "kanji": "夜間",
+          "hiragana": "やかん",
+          "meaning_burmese": "ညဘက်၊ ညအချိန်"
+        },
+        {
+          "no": 13,
+          "kanji": "ただ今",
+          "hiragana": "ただいま",
+          "meaning_burmese": "ယခုလောလောဆယ်"
+        },
+        {
+          "no": 14,
+          "kanji": "先ほど",
+          "hiragana": "さきほど",
+          "meaning_burmese": "လွန်ခဲ့သောခဏက"
+        },
+        {
+          "no": 15,
+          "kanji": "近々",
+          "hiragana": "ちかぢか",
+          "meaning_burmese": "မကြာမီ၊ မကြာမီကာလအတွင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "後日",
+          "hiragana": "ごじつ",
+          "meaning_burmese": "နောင်တစ်နေ့တွင်၊ နောက်ရက်များတွင်"
+        },
+        {
+          "no": 17,
+          "kanji": "やがて",
+          "hiragana": "やがて",
+          "meaning_burmese": "မကြာမီ၊ မကြာခင်မှာပင်"
+        },
+        {
+          "no": 18,
+          "kanji": "いずれ",
+          "hiragana": "いずれ",
+          "meaning_burmese": "တစ်ချိန်ချိန်တွင်၊ မည်သို့ပင်ဖြစ်စေ"
+        },
+        {
+          "no": 19,
+          "kanji": "今後",
+          "hiragana": "こんご",
+          "meaning_burmese": "နောင်အခါ၊ နောင်တွင်"
+        },
+        {
+          "no": 20,
+          "kanji": "すでに",
+          "hiragana": "すでに",
+          "meaning_burmese": "ပြီးနှင့်နေပြီ၊ အစောတည်းက"
+        },
+        {
+          "no": 21,
+          "kanji": "あらかじめ",
+          "hiragana": "あらかじめ",
+          "meaning_burmese": "ကြိုတင်၍"
+        },
+        {
+          "no": 22,
+          "kanji": "従来",
+          "hiragana": "じゅうらい",
+          "meaning_burmese": "ယခင်က၊ ရှေးယခင်ကတည်းက"
+        },
+        {
+          "no": 23,
+          "kanji": "あくる~",
+          "hiragana": "あくる~",
+          "meaning_burmese": "နောက်တစ်နေ့၊ နောက်ထပ်"
+        },
+        {
+          "no": 24,
+          "kanji": "一時",
+          "hiragana": "いちじ",
+          "meaning_burmese": "ခေတ္တခဏ၊ တစ်ခဏမျှ"
+        },
+        {
+          "no": 25,
+          "kanji": "一生",
+          "hiragana": "いっしょう",
+          "meaning_burmese": "တစ်သက်တာ၊ တစ်ဘဝလုံး"
+        },
+        {
+          "no": 26,
+          "kanji": "永遠に",
+          "hiragana": "えいえんに",
+          "meaning_burmese": "ထာဝရ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "chapter": 11,
+  "sections": [
+    {
+      "section": 1,
+      "title": "性格",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "人柄",
+          "hiragana": "ひとがら",
+          "meaning_burmese": "လူ့စရိုက်၊ လူ့သဘောသဘာဝ"
+        },
+        {
+          "no": 2,
+          "kanji": "性質",
+          "hiragana": "せいしつ",
+          "meaning_burmese": "ပင်ကိုယ်ဗီဇ၊ သဘာဝလက္ခဏာ"
+        },
+        {
+          "no": 3,
+          "kanji": "向く",
+          "hiragana": "むく",
+          "meaning_burmese": "ကိုက်ညီသည်၊ သင့်လျော်သည်"
+        },
+        {
+          "no": 4,
+          "kanji": "温厚な",
+          "hiragana": "おんこうな",
+          "meaning_burmese": "နူးညံ့သိမ်မွေ့သော၊ သဘောကောင်းသော"
+        },
+        {
+          "no": 5,
+          "kanji": "社交的な",
+          "hiragana": "しゃこうてきな",
+          "meaning_burmese": "ပေါင်းသင်းဆက်ဆံရေးကောင်းသော"
+        },
+        {
+          "no": 6,
+          "kanji": "活発な",
+          "hiragana": "かっぱつな",
+          "meaning_burmese": "သွက်လက်တက်ကြွသော"
+        },
+        {
+          "no": 7,
+          "kanji": "頑固な",
+          "hiragana": "がんこな",
+          "meaning_burmese": "ခေါင်းမာသော"
+        },
+        {
+          "no": 8,
+          "kanji": "素朴な",
+          "hiragana": "そぼくな",
+          "meaning_burmese": "ရိုးသားဖြူစင်သော၊ ရိုးစင်းသော"
+        },
+        {
+          "no": 9,
+          "kanji": "無邪気な",
+          "hiragana": "むじゃきな",
+          "meaning_burmese": "ကလေးဆန်ဆန် အပြစ်ကင်းသော"
+        },
+        {
+          "no": 10,
+          "kanji": "謙虚な",
+          "hiragana": "けんきょな",
+          "meaning_burmese": "ရိုသေနှိမ့်ချသော"
+        },
+        {
+          "no": 11,
+          "kanji": "無口な",
+          "hiragana": "むくちな",
+          "meaning_burmese": "စကားနည်းသော"
+        },
+        {
+          "no": 12,
+          "kanji": "人見知り",
+          "hiragana": "ひとみしり",
+          "meaning_burmese": "လူစိမ်းကြောက်တတ်ခြင်း၊ ရှက်တတ်ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "おく病な",
+          "hiragana": "おくびょうな",
+          "meaning_burmese": "ကြောက်တတ်သော၊ သတ္တိနည်းသော"
+        },
+        {
+          "no": 14,
+          "kanji": "大胆な",
+          "hiragana": "だいたんな",
+          "meaning_burmese": "သတ္တိပြောင်မြောက်သော၊ ရဲရင့်သော"
+        },
+        {
+          "no": 15,
+          "kanji": "なれなれしい",
+          "hiragana": "なれなれしい",
+          "meaning_burmese": "ရင်းနှီးလွန်းဟန်ပြသော၊ မရိုမသေပြုမူသော"
+        },
+        {
+          "no": 16,
+          "kanji": "厚かましい",
+          "hiragana": "あつかましい",
+          "meaning_burmese": "မျက်နှာပြောင်တိုက်သော၊ အရှက်မရှိသော"
+        },
+        {
+          "no": 17,
+          "kanji": "欲張りな",
+          "hiragana": "よくばりな",
+          "meaning_burmese": "လောဘကြီးသော"
+        },
+        {
+          "no": 18,
+          "kanji": "ねばり強い",
+          "hiragana": "ねばりづよい",
+          "meaning_burmese": "ဇွဲကောင်းသော၊ မဆုတ်မနစ်ကြိုးစားသော"
+        },
+        {
+          "no": 19,
+          "kanji": "大ざっぱな",
+          "hiragana": "おおざっぱな",
+          "meaning_burmese": "အကြမ်းဖျင်းဖြစ်သော၊ စေ့စပ်မှုမရှိသော"
+        },
+        {
+          "no": 20,
+          "kanji": "だらしない",
+          "hiragana": "だらしない",
+          "meaning_burmese": "ပေတေစုတ်ပြတ်သော၊ စည်းကမ်းမရှိသော"
+        },
+        {
+          "no": 21,
+          "kanji": "ルーズな",
+          "hiragana": "ルーズな",
+          "meaning_burmese": "ပေါ့ပေါ့ဆဆနေတတ်သော၊ စည်းကမ်းမရှိသော"
+        },
+        {
+          "no": 22,
+          "kanji": "短気な",
+          "hiragana": "たんきな",
+          "meaning_burmese": "ဒေါသကြီးသော၊ စိတ်တိုတတ်သော"
+        },
+        {
+          "no": 23,
+          "kanji": "ひきょうな",
+          "hiragana": "ひきょうな",
+          "meaning_burmese": "ယုတ်မာသော၊ မတရားလုပ်သော"
+        },
+        {
+          "no": 24,
+          "kanji": "プライド",
+          "hiragana": "プライド",
+          "meaning_burmese": "မာန၊ ဂုဏ်သိက္ခာ (Pride)"
+        },
+        {
+          "no": 25,
+          "kanji": "典型的な",
+          "hiragana": "てんけいてきな",
+          "meaning_burmese": "ပုံစံကျသော၊ စံပြဖြစ်သော"
+        },
+        {
+          "no": 26,
+          "kanji": "要領",
+          "hiragana": "ようりょう",
+          "meaning_burmese": "လုပ်ရည်ကိုင်ရည်၊ သွက်လက်စွာလုပ်ဆောင်နိုင်မှု"
+        },
+        {
+          "no": 27,
+          "kanji": "乗り",
+          "hiragana": "のり",
+          "meaning_burmese": "အလိုက်သင့်စီးမျောနိုင်မှု၊ ပျော်ပျော်ပါးပါးလိုက်လျောညီထွေမှု"
+        },
+        {
+          "no": 28,
+          "kanji": "物事",
+          "hiragana": "ものごと",
+          "meaning_burmese": "အရာဝတ္ထုနှင့် ကိစ္စရပ်များ"
+        },
+        {
+          "no": 29,
+          "kanji": "反面",
+          "hiragana": "はんめん",
+          "meaning_burmese": "အခြားတစ်ဖက်တွင်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "いい気分",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "快適な",
+          "hiragana": "かいてきな",
+          "meaning_burmese": "နေထိုင်ရသက်သောင့်သက်သာရှိသော"
+        },
+        {
+          "no": 2,
+          "kanji": "快い",
+          "hiragana": "こころよい",
+          "meaning_burmese": "စိတ်ချမ်းမြေ့ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 3,
+          "kanji": "心地よい",
+          "hiragana": "ここちよい",
+          "meaning_burmese": "စိတ်လက်ပေါ့ပါးချမ်းမြေ့ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 4,
+          "kanji": "すがすがしい",
+          "hiragana": "すがすがしい",
+          "meaning_burmese": "လန်းဆန်းအေးမြသော"
+        },
+        {
+          "no": 5,
+          "kanji": "リフレッシュ",
+          "hiragana": "リフレッシュ",
+          "meaning_burmese": "စိတ်လက်လန်းဆန်းစေခြင်း (Refresh)"
+        },
+        {
+          "no": 6,
+          "kanji": "穏やかな",
+          "hiragana": "おだやかな",
+          "meaning_burmese": "အေးချမ်းတည်ငြိမ်သော"
+        },
+        {
+          "no": 7,
+          "kanji": "心強い",
+          "hiragana": "こころづよい",
+          "meaning_burmese": "စိတ်အားတက်ဖွယ်ကောင်းသော၊ အားရှိစေသော"
+        },
+        {
+          "no": 8,
+          "kanji": "恋しい",
+          "hiragana": "こいしい",
+          "meaning_burmese": "လွမ်းဆွတ်တမ်းတမိသော"
+        },
+        {
+          "no": 9,
+          "kanji": "前向き",
+          "hiragana": "まえむき",
+          "meaning_burmese": "အပြုသဘောဆောင်သော၊ ရှေ့သို့လှမ်းသော"
+        },
+        {
+          "no": 10,
+          "kanji": "めでたい",
+          "hiragana": "めでたい",
+          "meaning_burmese": "မင်္ဂလာရှိသော၊ ဝမ်းမြောက်ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 11,
+          "kanji": "ラッキーな",
+          "hiragana": "ラッキーな",
+          "meaning_burmese": "ကံကောင်းသော (Lucky)"
+        },
+        {
+          "no": 12,
+          "kanji": "幸福な",
+          "hiragana": "こうふくな",
+          "meaning_burmese": "ပျော်ရွှင်ချမ်းမြေ့သော"
+        },
+        {
+          "no": 13,
+          "kanji": "張り切る",
+          "hiragana": "はりきる",
+          "meaning_burmese": "တက်တက်ကြွကြွကြိုးပမ်းသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "わくわく",
+          "hiragana": "わくわく",
+          "meaning_burmese": "စိတ်လှုပ်ရှားတက်ကြွရွှင်လန်းခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "そわそわ",
+          "hiragana": "そわそわ",
+          "meaning_burmese": "စိတ်မငြိမ်မသက်ဖြစ်ခြင်း၊ စိတ်လှုပ်ရှား၍မနေနိုင်မထိုင်နိုင်ဖြစ်ခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "うっとり",
+          "hiragana": "うっとり",
+          "meaning_burmese": "မိန်းမောငေးမောသွားခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "すっと",
+          "hiragana": "すっと",
+          "meaning_burmese": "ပေါ့ပါးလန်းဆန်းသွားခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "気分転換",
+          "hiragana": "きぶんてんかん",
+          "meaning_burmese": "စိတ်ပြောင်းလဲအပန်းဖြေခြင်း"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "ブルーな気分",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "ゆううつな",
+          "hiragana": "ゆううつな",
+          "meaning_burmese": "စိတ်ညစ်ညူးညှိုးငယ်သော"
+        },
+        {
+          "no": 2,
+          "kanji": "みじめな",
+          "hiragana": "みじめな",
+          "meaning_burmese": "သနားစဖွယ်ဒုက္ခရောက်သော"
+        },
+        {
+          "no": 3,
+          "kanji": "つらい",
+          "hiragana": "つらい",
+          "meaning_burmese": "ခက်ခဲပင်ပန်းသော၊ စိတ်ဒုက္ခရောက်သော"
+        },
+        {
+          "no": 4,
+          "kanji": "心細い",
+          "hiragana": "こころぼそい",
+          "meaning_burmese": "အားငယ်ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 5,
+          "kanji": "弱気な",
+          "hiragana": "よわきな",
+          "meaning_burmese": "စိတ်ဓာတ်ကျဆင်းသော၊ အားနည်းသော"
+        },
+        {
+          "no": 6,
+          "kanji": "落ち込む",
+          "hiragana": "おちこむ",
+          "meaning_burmese": "စိတ်ဓာတ်ကျသည်"
+        },
+        {
+          "no": 7,
+          "kanji": "失望",
+          "hiragana": "しつぼう",
+          "meaning_burmese": "စိတ်ပျက်ခြင်း"
+        },
+        {
+          "no": 8,
+          "kanji": "絶望",
+          "hiragana": "ぜつぼう",
+          "meaning_burmese": "မျှော်လင့်ချက်လုံးဝမဲ့ခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "傷つく",
+          "hiragana": "きずつく",
+          "meaning_burmese": "စိတ်ထိခိုက်သည်၊ နာကျင်ရသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "わずらわしい",
+          "hiragana": "わずらわしい",
+          "meaning_burmese": "ရှုပ်ထွေးအလုပ်ရှုပ်သော"
+        },
+        {
+          "no": 11,
+          "kanji": "うんざり",
+          "hiragana": "うんざり",
+          "meaning_burmese": "ငြီးငွေ့လွန်း၍ စိတ်ပျက်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "戸惑う",
+          "hiragana": "とまどう",
+          "meaning_burmese": "တွေဝေဗျာများသွားသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "ためらう",
+          "hiragana": "ためらう",
+          "meaning_burmese": "တွေဝေတွန့်ဆုတ်နေသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "申し訳ない",
+          "hiragana": "もうしわけない",
+          "meaning_burmese": "အားနာစိတ်မကောင်းဖြစ်ရသော"
+        },
+        {
+          "no": 15,
+          "kanji": "すまない",
+          "hiragana": "すまない",
+          "meaning_burmese": "တောင်းပန်ပါသည်၊ အားနာပါသည်"
+        },
+        {
+          "no": 16,
+          "kanji": "仕方がない",
+          "hiragana": "しかたがない",
+          "meaning_burmese": "မတတ်နိုင်ပါ၊ မလွှဲမရှောင်သာပါ"
+        },
+        {
+          "no": 17,
+          "kanji": "しまった",
+          "hiragana": "しまった",
+          "meaning_burmese": "မှားသွားပြီ၊ ကိစ္စပြတ်ပြီ"
+        },
+        {
+          "no": 18,
+          "kanji": "恐れる",
+          "hiragana": "おそれる",
+          "meaning_burmese": "ကြောက်ရွံ့သည်"
+        },
+        {
+          "no": 19,
+          "kanji": "情けない",
+          "hiragana": "なさけない",
+          "meaning_burmese": "အရှက်ရစဖွယ်ကောင်းသော၊ သနားစဖွယ်ဖြစ်သော"
+        },
+        {
+          "no": 20,
+          "kanji": "恥",
+          "hiragana": "はじ",
+          "meaning_burmese": "အရှက်တကွဲဖြစ်ခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "別に",
+          "hiragana": "べつに",
+          "meaning_burmese": "ထူးထူးခြားခြား (မ...)"
+        },
+        {
+          "no": 22,
+          "kanji": "構わない",
+          "hiragana": "かまわない",
+          "meaning_burmese": "ကိစ္စမရှိပါ၊ ပြဿနာမရှိပါ"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "プラスのイメージ",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "はきはき",
+          "hiragana": "はきはき",
+          "meaning_burmese": "သွက်သွက်လက်လက်၊ ပြတ်ပြတ်သားသား"
+        },
+        {
+          "no": 2,
+          "kanji": "清潔な",
+          "hiragana": "せいけつな",
+          "meaning_burmese": "သန့်ရှင်းသပ်ရပ်သော"
+        },
+        {
+          "no": 3,
+          "kanji": "客観的な",
+          "hiragana": "きゃっかんてきな",
+          "meaning_burmese": "ဓမ္မဓိဋ္ဌာန်ကျသော၊ မျှတသောအမြင်ရှိသော"
+        },
+        {
+          "no": 4,
+          "kanji": "冷静な",
+          "hiragana": "れいせいな",
+          "meaning_burmese": "တည်ငြိမ်အေးဆေးသော"
+        },
+        {
+          "no": 5,
+          "kanji": "もっともな",
+          "hiragana": "もっともな",
+          "meaning_burmese": "ကျိုးကြောင်းဆီလျော်သော၊ သဘာဝကျသော"
+        },
+        {
+          "no": 6,
+          "kanji": "謙そん",
+          "hiragana": "けんそん",
+          "meaning_burmese": "နှိမ့်ချယဉ်ကျေးခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "若々しい",
+          "hiragana": "わかわかしい",
+          "meaning_burmese": "နုပျိုလန်းဆန်းသော"
+        },
+        {
+          "no": 8,
+          "kanji": "ユニークな",
+          "hiragana": "ユニークな",
+          "meaning_burmese": "တစ်မူထူးခြားသော (Unique)"
+        },
+        {
+          "no": 9,
+          "kanji": "唯一",
+          "hiragana": "ゆいいつ",
+          "meaning_burmese": "တစ်ခုတည်းသော၊ တစ်ဦးတည်းသော"
+        },
+        {
+          "no": 10,
+          "kanji": "洗練",
+          "hiragana": "せんれん",
+          "meaning_burmese": "သေသပ်လှပအောင် သွေးချွတ်ခြင်း၊ ခေတ်မီဆန်းပြားခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "品",
+          "hiragana": "ひん",
+          "meaning_burmese": "ဣန္ဒြေသိက္ခာ၊ ယဉ်ကျေးသိမ်မွေ့မှု"
+        },
+        {
+          "no": 12,
+          "kanji": "広々",
+          "hiragana": "ひろびろ",
+          "meaning_burmese": "ကျယ်ကျယ်ဝန်းဝန်း"
+        },
+        {
+          "no": 13,
+          "kanji": "ふわふわ",
+          "hiragana": "ふわふわ",
+          "meaning_burmese": "ပျော့ပျောင်းနူးညံ့သော"
+        },
+        {
+          "no": 14,
+          "kanji": "断然",
+          "hiragana": "だんぜん",
+          "meaning_burmese": "လုံးဝ၊ အပြတ်အသတ်"
+        },
+        {
+          "no": 15,
+          "kanji": "結構な",
+          "hiragana": "けっこうな",
+          "meaning_burmese": "အလွန်ကောင်းမွန်သော၊ လုံလောက်သော"
+        },
+        {
+          "no": 16,
+          "kanji": "見事な",
+          "hiragana": "みごとな",
+          "meaning_burmese": "အလွန်လှပခမ်းနားသော၊ ပြောင်မြောက်သော"
+        },
+        {
+          "no": 17,
+          "kanji": "貴重な",
+          "hiragana": "きちょうな",
+          "meaning_burmese": "အဖိုးတန်သော၊ အရေးပါသော"
+        },
+        {
+          "no": 18,
+          "kanji": "質素な",
+          "hiragana": "しっそな",
+          "meaning_burmese": "ရိုးစင်းသော၊ ခြိုးခြံချွေတာသော"
+        },
+        {
+          "no": 19,
+          "kanji": "同様な",
+          "hiragana": "どうような",
+          "meaning_burmese": "ထပ်တူတူညီသော"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "マイナスのイメージ",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "憎らしい",
+          "hiragana": "にくらしい",
+          "meaning_burmese": "မုန်းတီးဖွယ်ကောင်းသော၊ ဒေါသထွက်စရာကောင်းသော"
+        },
+        {
+          "no": 2,
+          "kanji": "強引な",
+          "hiragana": "ごういんな",
+          "meaning_burmese": "အတင်းအကျပ်ဖိအားပေးသော"
+        },
+        {
+          "no": 3,
+          "kanji": "うっとうしい",
+          "hiragana": "うっとうしい",
+          "meaning_burmese": "စိတ်ရှုပ်စရာကောင်းသော၊ မှိုင်းတိုက်နေသော"
+        },
+        {
+          "no": 4,
+          "kanji": "やっかいな",
+          "hiragana": "やっかいな",
+          "meaning_burmese": "ဒုက္ခပေးသော၊ အလုပ်ရှုပ်စေသော"
+        },
+        {
+          "no": 5,
+          "kanji": "とんでもない",
+          "hiragana": "とんでもない",
+          "meaning_burmese": "မဖြစ်နိုင်သော၊ အဆမတန်ဆိုးရွားသော"
+        },
+        {
+          "no": 6,
+          "kanji": "安易な",
+          "hiragana": "あんいな",
+          "meaning_burmese": "လွယ်လွယ်တွေးလွန်းသော၊ ပေါ့ဆသော"
+        },
+        {
+          "no": 7,
+          "kanji": "無難な",
+          "hiragana": "ぶなんな",
+          "meaning_burmese": "ဘေးကင်းလုံခြုံရုံသာရှိသော၊ အသင့်အတင့်ဖြစ်သော"
+        },
+        {
+          "no": 8,
+          "kanji": "平凡な",
+          "hiragana": "へいぼんな",
+          "meaning_burmese": "သာမန်ရိုးရိုးဖြစ်သော"
+        },
+        {
+          "no": 9,
+          "kanji": "みっともない",
+          "hiragana": "みっともない",
+          "meaning_burmese": "ကြည့်မကောင်းသော၊ ရှက်စရာကောင်းသော"
+        },
+        {
+          "no": 10,
+          "kanji": "見苦しい",
+          "hiragana": "みぐるしい",
+          "meaning_burmese": "ရုပ်ဆိုးအကျည်းတန်သော၊ ကြည့်ရဆိုးသော"
+        },
+        {
+          "no": 11,
+          "kanji": "みにくい",
+          "hiragana": "みにくい",
+          "meaning_burmese": "ရုပ်ဆိုးသော၊ ရုပ်ပျက်သော"
+        },
+        {
+          "no": 12,
+          "kanji": "ぼろぼろな",
+          "hiragana": "ぼろぼろな",
+          "meaning_burmese": "စုတ်ပြတ်ဟောင်းနွမ်းနေသော"
+        },
+        {
+          "no": 13,
+          "kanji": "あわれな",
+          "hiragana": "あわれな",
+          "meaning_burmese": "သနားစဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 14,
+          "kanji": "乏しい",
+          "hiragana": "とぼしい",
+          "meaning_burmese": "ရှားပါးချို့တဲ့သော"
+        },
+        {
+          "no": 15,
+          "kanji": "中途半端な",
+          "hiragana": "ちゅうとはんぱな",
+          "meaning_burmese": "တစ်ပိုင်းတစ်စဖြစ်သော၊ တစ်ဝက်တစ်ပျက်ဖြစ်သော"
+        },
+        {
+          "no": 16,
+          "kanji": "まごまご",
+          "hiragana": "まごまご",
+          "meaning_burmese": "ယောင်ချာချာဖြစ်နေခြင်း၊ အခက်တွေ့နေခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "矛盾",
+          "hiragana": "むじゅん",
+          "meaning_burmese": "ရှေ့နောက်မညီဆန့်ကျင်ဘက်ဖြစ်ခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "にやにや",
+          "hiragana": "にやにや",
+          "meaning_burmese": "ပြုံးစစလုပ်ခြင်း၊ ကပ်ပြုံးပြုံးခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "でこぼこな",
+          "hiragana": "でこぼこな",
+          "meaning_burmese": "မညီမညာချိုင့်ခွက်ထစ်ဖြစ်သော"
+        },
+        {
+          "no": 20,
+          "kanji": "それなり",
+          "hiragana": "それなり",
+          "meaning_burmese": "၎င်းအတိုင်း၊ ၎င်းအခြေအနေနှင့်လျောက်ပတ်စွာ"
+        }
+      ]
+    }
+  ]
+}

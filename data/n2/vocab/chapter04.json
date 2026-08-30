@@ -1,0 +1,737 @@
+{
+  "chapter": 4,
+  "sections": [
+    {
+      "section": 1,
+      "title": "町",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "街",
+          "hiragana": "まち",
+          "meaning_burmese": "မြို့၊ မြို့လမ်းမ"
+        },
+        {
+          "no": 2,
+          "kanji": "都市",
+          "hiragana": "とし",
+          "meaning_burmese": "မြို့တော်၊ မြို့ကြီး"
+        },
+        {
+          "no": 3,
+          "kanji": "下町",
+          "hiragana": "したまち",
+          "meaning_burmese": "မြို့ဟောင်းရပ်ကွက်၊ သာမန်အရပ်သူအရပ်သားရပ်ကွက်"
+        },
+        {
+          "no": 4,
+          "kanji": "土地",
+          "hiragana": "とち",
+          "meaning_burmese": "မြေ၊ မြေနေရာ၊ မြေကွက်"
+        },
+        {
+          "no": 5,
+          "kanji": "活気",
+          "hiragana": "かっき",
+          "meaning_burmese": "သွက်လက်တက်ကြွမှု၊ စည်ကားသက်ဝင်မှု"
+        },
+        {
+          "no": 6,
+          "kanji": "人通り",
+          "hiragana": "ひとどおり",
+          "meaning_burmese": "လူသွားလူလာ"
+        },
+        {
+          "no": 7,
+          "kanji": "絶える",
+          "hiragana": "たえる",
+          "meaning_burmese": "ပြတ်တောက်သွားသည်၊ ကုန်ဆုံးသွားသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "坂",
+          "hiragana": "さか",
+          "meaning_burmese": "ကုန်းစောင်း၊ လမ်းလျှော"
+        },
+        {
+          "no": 9,
+          "kanji": "辺り",
+          "hiragana": "あたり",
+          "meaning_burmese": "ပတ်ဝန်းကျင်၊ အနီးအနား"
+        },
+        {
+          "no": 10,
+          "kanji": "付近",
+          "hiragana": "ふきん",
+          "meaning_burmese": "အနီးတစ်ဝိုက်"
+        },
+        {
+          "no": 11,
+          "kanji": "住宅",
+          "hiragana": "じゅうたく",
+          "meaning_burmese": "နေအိမ်၊ လူနေအိမ်"
+        },
+        {
+          "no": 12,
+          "kanji": "地区",
+          "hiragana": "ちく",
+          "meaning_burmese": "ရပ်ကွက်၊ နယ်မြေ၊ ဒေသ"
+        },
+        {
+          "no": 13,
+          "kanji": "エリア",
+          "hiragana": "エリア",
+          "meaning_burmese": "ဧရိယာ၊ နယ်မြေအပိုင်းအခြား"
+        },
+        {
+          "no": 14,
+          "kanji": "中間",
+          "hiragana": "ちゅうかん",
+          "meaning_burmese": "အလယ်ဗဟို၊ ကြားနေရာ"
+        },
+        {
+          "no": 15,
+          "kanji": "境",
+          "hiragana": "さかい",
+          "meaning_burmese": "နယ်နိမိတ်စည်း၊ နယ်စပ်"
+        },
+        {
+          "no": 16,
+          "kanji": "斜め",
+          "hiragana": "ななめ",
+          "meaning_burmese": "စောင်းစောင်း၊ ထောင့်ဖြတ်"
+        },
+        {
+          "no": 17,
+          "kanji": "抽選",
+          "hiragana": "ちゅうせん",
+          "meaning_burmese": "မဲနှိုက်ခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "避難",
+          "hiragana": "ひなん",
+          "meaning_burmese": "ဘေးလွတ်ရာသို့တိမ်းရှောင်ခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "訓練",
+          "hiragana": "くんれん",
+          "meaning_burmese": "လေ့ကျင့်မှု၊ လေ့ကျင့်ခန်း"
+        },
+        {
+          "no": 20,
+          "kanji": "見回る",
+          "hiragana": "みまわる",
+          "meaning_burmese": "လှည့်ပတ်စစ်ဆေးသည်၊ ကင်းလှည့်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "築く",
+          "hiragana": "きずく",
+          "meaning_burmese": "တည်ဆောက်သည်"
+        },
+        {
+          "no": 22,
+          "kanji": "見当",
+          "hiragana": "けんとう",
+          "meaning_burmese": "ခန့်မှန်းချက်၊ တွက်ဆချက်"
+        },
+        {
+          "no": 23,
+          "kanji": "落書き",
+          "hiragana": "らくがき",
+          "meaning_burmese": "ကမ်းကုန်အောင်ရေးခြစ်ခြင်း၊ စာရေးခြစ်ကစားခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "強化",
+          "hiragana": "きょうか",
+          "meaning_burmese": "ပိုမိုအားကောင်းအောင်လုပ်ဆောင်ခြင်း၊ တိုးမြှင့်ခြင်း"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "役所",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "自治体",
+          "hiragana": "じちたい",
+          "meaning_burmese": "ဒေသန္တရကိုယ်ပိုင်အုပ်ချုပ်ရေးအဖွဲ့"
+        },
+        {
+          "no": 2,
+          "kanji": "知事",
+          "hiragana": "ちじ",
+          "meaning_burmese": "စီရင်စု/ပြည်နယ် အုပ်ချုပ်ရေးမှူး"
+        },
+        {
+          "no": 3,
+          "kanji": "応える",
+          "hiragana": "こたえる",
+          "meaning_burmese": "မျှော်လင့်ချက်ကိုတုံ့ပြန်ဖြည့်ဆည်းသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "住民",
+          "hiragana": "じゅうみん",
+          "meaning_burmese": "ဒေသခံပြည်သူ၊ နေထိုင်သူ"
+        },
+        {
+          "no": 5,
+          "kanji": "身分証明書",
+          "hiragana": "みぶんしょうめいしょ",
+          "meaning_burmese": "မှတ်ပုံတင်၊ သက်သေခံကတ်ပြား"
+        },
+        {
+          "no": 6,
+          "kanji": "生年月日",
+          "hiragana": "せいねんがっぴ",
+          "meaning_burmese": "မွေးသက္ကရာဇ် (ရက်၊ လ၊ နှစ်)"
+        },
+        {
+          "no": 7,
+          "kanji": "署名",
+          "hiragana": "しょめい",
+          "meaning_burmese": "လက်မှတ်ရေးထိုးခြင်း"
+        },
+        {
+          "no": 8,
+          "kanji": "修正",
+          "hiragana": "しゅうせい",
+          "meaning_burmese": "ပြင်ဆင်မွမ်းမံခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "年金",
+          "hiragana": "ねんきん",
+          "meaning_burmese": "ပင်စင်လစာ"
+        },
+        {
+          "no": 10,
+          "kanji": "施設",
+          "hiragana": "しせつ",
+          "meaning_burmese": "အဆောက်အအုံ၊ ဝန်ဆောင်မှုပေးသည့်နေရာ"
+        },
+        {
+          "no": 11,
+          "kanji": "ロッカー",
+          "hiragana": "ロッカー",
+          "meaning_burmese": "သော့ခတ်၍ရသောအံဆွဲ/ဘီရို (Locker)"
+        },
+        {
+          "no": 12,
+          "kanji": "建築",
+          "hiragana": "けんちく",
+          "meaning_burmese": "အဆောက်အအုံဆောက်လုပ်ခြင်း၊ ဗိသုကာ"
+        },
+        {
+          "no": 13,
+          "kanji": "リニューアル",
+          "hiragana": "リニューアル",
+          "meaning_burmese": "အသစ်ပြန်လည်ပြုပြင်မွမ်းမံခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "近づける",
+          "hiragana": "ちかづける",
+          "meaning_burmese": "အနားသို့ကပ်စေသည်၊ နီးကပ်စေသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "福祉",
+          "hiragana": "ふくし",
+          "meaning_burmese": "လူမှုဖူလုံရေး၊ သက်သာချောင်ချိရေး"
+        },
+        {
+          "no": 16,
+          "kanji": "年度",
+          "hiragana": "ねんど",
+          "meaning_burmese": "ဘဏ္ဍာရေးနှစ်၊ ပညာသင်နှစ်"
+        },
+        {
+          "no": 17,
+          "kanji": "交替",
+          "hiragana": "こうたい",
+          "meaning_burmese": "အလှည့်ကျပြောင်းလဲတာဝန်ယူခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "収集",
+          "hiragana": "しゅうしゅう",
+          "meaning_burmese": "စုဆောင်းခြင်း၊ ကောက်ယူသိမ်းဆည်းခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "配布",
+          "hiragana": "はいふ",
+          "meaning_burmese": "ဝေငှခြင်း၊ ဖြန့်ဝေခြင်း"
+        },
+        {
+          "no": 20,
+          "kanji": "処理",
+          "hiragana": "しょり",
+          "meaning_burmese": "ကိုင်တွယ်ဖြေရှင်းခြင်း၊ စီမံခန့်ခွဲခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "需要",
+          "hiragana": "じゅよう",
+          "meaning_burmese": "လိုအပ်ချက်၊ ဝယ်လိုအား"
+        },
+        {
+          "no": 22,
+          "kanji": "提供",
+          "hiragana": "ていきょう",
+          "meaning_burmese": "ထောက်ပံ့ပေးအပ်ခြင်း၊ ကမ်းလှမ်းခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "用途",
+          "hiragana": "ようと",
+          "meaning_burmese": "အသုံးပြုသည့်ရည်ရွယ်ချက်၊ အသုံးဝင်ပုံ"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "ふるさと",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "故郷",
+          "hiragana": "こきょう",
+          "meaning_burmese": "မွေးရပ်မြေ၊ ဇာတိချက်ကြွေ"
+        },
+        {
+          "no": 2,
+          "kanji": "地元",
+          "hiragana": "じもと",
+          "meaning_burmese": "ဒေသခံ၊ မူရင်းဒေသ"
+        },
+        {
+          "no": 3,
+          "kanji": "離れる",
+          "hiragana": "はなれる",
+          "meaning_burmese": "ခွဲခွာသည်၊ ဝေးကွာသွားသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "つかむ",
+          "hiragana": "つかむ",
+          "meaning_burmese": "ဆုပ်ကိုင်သည်၊ အခွင့်အရေးရယူသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "帰省",
+          "hiragana": "きせい",
+          "meaning_burmese": "ဇာတိရပ်ရွာသို့ပြန်ခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "アクセス",
+          "hiragana": "アクセス",
+          "meaning_burmese": "သွားလာရလွယ်ကူမှု၊ ဝင်ရောက်ကြည့်ရှုခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "改善",
+          "hiragana": "かいぜん",
+          "meaning_burmese": "ပိုမိုကောင်းမွန်အောင်ပြုပြင်ပြောင်းလဲခြင်း"
+        },
+        {
+          "no": 8,
+          "kanji": "行事",
+          "hiragana": "ぎょうじ",
+          "meaning_burmese": "ပွဲလမ်းသဘင်၊ အခမ်းအနား"
+        },
+        {
+          "no": 9,
+          "kanji": "はるか",
+          "hiragana": "はるか",
+          "meaning_burmese": "အဝေးကြီး၊ ရှေးပဝေသဏီကတည်းက"
+        },
+        {
+          "no": 10,
+          "kanji": "誇り",
+          "hiragana": "ほこり",
+          "meaning_burmese": "ဂုဏ်ယူဖွယ်ရာ၊ ဂုဏ်ယူမှု"
+        },
+        {
+          "no": 11,
+          "kanji": "載る",
+          "hiragana": "のる",
+          "meaning_burmese": "(သတင်းစာ/ဂျာနယ်တွင်) ဖော်ပြပါရှိသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "宣伝",
+          "hiragana": "せんでん",
+          "meaning_burmese": "ကြော်ငြာခြင်း၊ ဝါဒဖြန့်ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "作成",
+          "hiragana": "さくせい",
+          "meaning_burmese": "ပြုလုပ်ဖန်တီးခြင်း၊ စာရွက်စာတမ်းရေးဆွဲခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "見慣れる",
+          "hiragana": "みなれる",
+          "meaning_burmese": "မြင်နေကျဖြစ်သည်၊ မြင်ဖူးနေသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "近郊",
+          "hiragana": "きんこう",
+          "meaning_burmese": "မြို့ဆင်ခြေဖုံး"
+        },
+        {
+          "no": 16,
+          "kanji": "描く",
+          "hiragana": "え sarcasm/えがく",
+          "meaning_burmese": "ပုံဖော်သည်၊ ပုံဆွဲသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "若者",
+          "hiragana": "わかもの",
+          "meaning_burmese": "လူငယ်၊ လူငယ်ထု"
+        },
+        {
+          "no": 18,
+          "kanji": "Uターン",
+          "hiragana": "ユーターン",
+          "meaning_burmese": "ဇာတိရပ်ရွာသို့ပြန်လည်အခြေချခြင်း၊ ကွေ့ပြန်လှည့်ခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "行き来",
+          "hiragana": "いきき",
+          "meaning_burmese": "အသွားအလာပြုလုပ်ခြင်း"
+        },
+        {
+          "no": 20,
+          "kanji": "担う",
+          "hiragana": "になう",
+          "meaning_burmese": "တာဝန်ယူထမ်းဆောင်သည်၊ ပခုံးထမ်းတင်သည်"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "交通",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "行き先",
+          "hiragana": "いきさき",
+          "meaning_burmese": "သွားမည့်နေရာ၊ ခရီးဆုံး"
+        },
+        {
+          "no": 2,
+          "kanji": "方面",
+          "hiragana": "ほうめん",
+          "meaning_burmese": "ဘက်၊ ဦးတည်ရာအရပ်"
+        },
+        {
+          "no": 3,
+          "kanji": "行き帰り",
+          "hiragana": "いきかえり",
+          "meaning_burmese": "အသွားအပြန်"
+        },
+        {
+          "no": 4,
+          "kanji": "横断",
+          "hiragana": "おうだん",
+          "meaning_burmese": "ဖြတ်သန်းကူးသန်းခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "通行",
+          "hiragana": "つうこう",
+          "meaning_burmese": "ဖြတ်သန်းသွားလာခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "歩行者",
+          "hiragana": "ほこうしゃ",
+          "meaning_burmese": "လမ်းလျှောက်သွားလာသူ"
+        },
+        {
+          "no": 7,
+          "kanji": "絶えず",
+          "hiragana": "たえず",
+          "meaning_burmese": "မပြတ်တစေ၊ အမြဲတစေ"
+        },
+        {
+          "no": 8,
+          "kanji": "手段",
+          "hiragana": "しゅだん",
+          "meaning_burmese": "နည်းလမ်း၊ နည်းဗျူဟာ"
+        },
+        {
+          "no": 9,
+          "kanji": "公共",
+          "hiragana": "こうきょう",
+          "meaning_burmese": "အများပြည်သူဆိုင်ရာ"
+        },
+        {
+          "no": 10,
+          "kanji": "運賃",
+          "hiragana": "うんちん",
+          "meaning_burmese": "ယာဉ်စီးခ၊ သယ်ယူပို့ဆောင်ခ"
+        },
+        {
+          "no": 11,
+          "kanji": "つかまる",
+          "hiragana": "つかまる",
+          "meaning_burmese": "ဆုပ်ကိုင်ထားသည်၊ တွယ်ကိုင်သည်"
+        },
+        {
+          "no": 12,
+          "kanji": "アナウန်း",
+          "hiragana": "アナウンス",
+          "meaning_burmese": "ကြေညာချက်၊ အသံလွှင့်ကြေညာခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "見合わせる",
+          "hiragana": "みあわせる",
+          "meaning_burmese": "ယာယီဆိုင်းငံ့ထားသည်၊ အခြေအနေကြည့်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "乱れる",
+          "hiragana": "みだれる",
+          "meaning_burmese": "ရှုပ်ထွေးပျက်ယွင်းသည်၊ စည်းပျက်သည်"
+        },
+        {
+          "no": 15,
+          "kanji": "再開",
+          "hiragana": "さいかい",
+          "meaning_burmese": "ပြန်လည်စတင်ခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "ICカード",
+          "hiragana": "アイシーカード",
+          "meaning_burmese": "ယာဉ်စီးအီလက်ထရွန်နစ်ကတ်ပြား"
+        },
+        {
+          "no": 17,
+          "kanji": "免許",
+          "hiragana": "めんきょ",
+          "meaning_burmese": "လိုင်စင်၊ လုပ်ပိုင်ခွင့်လက်မှတ်"
+        },
+        {
+          "no": 18,
+          "kanji": "左右",
+          "hiragana": "さゆう",
+          "meaning_burmese": "ဝဲယာ၊ ဘယ်ညာ"
+        },
+        {
+          "no": 19,
+          "kanji": "直線",
+          "hiragana": "ちょくせん",
+          "meaning_burmese": "မျဉ်းဖြောင့်၊ ဖြောင့်တန်းသောလမ်း"
+        },
+        {
+          "no": 20,
+          "kanji": "なだらかな",
+          "hiragana": "なだらかな",
+          "meaning_burmese": "ပြေပြစ်သော၊ မတ်စောက်မှုမရှိသော"
+        },
+        {
+          "no": 21,
+          "kanji": "間隔",
+          "hiragana": "かんかく",
+          "meaning_burmese": "ကြားအကွာအဝေး၊ ခြားနားမှု"
+        },
+        {
+          "no": 22,
+          "kanji": "スムーズな",
+          "hiragana": "スムーズな",
+          "meaning_burmese": "ချောမွေ့သော၊ အဆင်ပြေချောမွေ့သော"
+        },
+        {
+          "no": 23,
+          "kanji": "指す",
+          "hiragana": "さす",
+          "meaning_burmese": "ညွှန်ပြသည်"
+        },
+        {
+          "no": 24,
+          "kanji": "のろのろ",
+          "hiragana": "のろのろ",
+          "meaning_burmese": "နှေးကွေးစွာ၊ လေးကန်စွာ"
+        },
+        {
+          "no": 25,
+          "kanji": "ぐるぐる",
+          "hiragana": "ぐるぐる",
+          "meaning_burmese": "ပတ်ချာလည်၊ လှည့်လည်၍"
+        },
+        {
+          "no": 26,
+          "kanji": "パンク",
+          "hiragana": "パンク",
+          "meaning_burmese": "ဘီးပေါက်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "慎重な",
+          "hiragana": "しんちょうな",
+          "meaning_burmese": "သတိကြီးသော၊ စေ့စပ်သေချာသော"
+        },
+        {
+          "no": 28,
+          "kanji": "気を抜く",
+          "hiragana": "きをぬく",
+          "meaning_burmese": "သတိလက်လွတ်ဖြစ်သည်၊ ပေါ့ဆသည်"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "産業",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "生産",
+          "hiragana": "せいさん",
+          "meaning_burmese": "ထုတ်လုပ်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "供給",
+          "hiragana": "きょうきゅう",
+          "meaning_burmese": "ထောက်ပံ့ဖြန့်ဖြူးခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "栽培",
+          "hiragana": "さいばい",
+          "meaning_burmese": "စိုက်ပျိုးခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "農家",
+          "hiragana": "のうか",
+          "meaning_burmese": "လယ်သမား၊ တောင်သူမိသားစု"
+        },
+        {
+          "no": 5,
+          "kanji": "作物",
+          "hiragana": "さくもつ",
+          "meaning_burmese": "သီးနှံ၊ စိုက်ပျိုးသီးနှံ"
+        },
+        {
+          "no": 6,
+          "kanji": "漁業",
+          "hiragana": "ぎょぎょう",
+          "meaning_burmese": "ငါးဖမ်းလုပ်ငန်း၊ ရေလုပ်ငန်း"
+        },
+        {
+          "no": 7,
+          "kanji": "栄える",
+          "hiragana": "さかえる",
+          "meaning_burmese": "စည်ပင်ဖွံ့ဖြိုးသည်၊ ကြီးပွားသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "普及",
+          "hiragana": "ふきゅう",
+          "meaning_burmese": "ပျံ့နှံ့တွင်ကျယ်လာခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "急増",
+          "hiragana": "きゅうぞう",
+          "meaning_burmese": "ရုတ်တရက်သိသိသာသာတိုးပွားလာခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "情緒",
+          "hiragana": "じょうちょ",
+          "meaning_burmese": "ခံစားချက်ရသ၊ ဒေသယဉ်ကျေးမှုအငွေ့အသက်"
+        },
+        {
+          "no": 11,
+          "kanji": "向上",
+          "hiragana": "こうじょう",
+          "meaning_burmese": "တိုးတက်မြင့်မားလာခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "構成",
+          "hiragana": "こうせい",
+          "meaning_burmese": "ဖွဲ့စည်းတည်ဆောက်ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "重視",
+          "hiragana": "じゅうし",
+          "meaning_burmese": "အလေးထားခြင်း၊ အရေးတယူပြုခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "提案",
+          "hiragana": "ていあん",
+          "meaning_burmese": "အကြံပြုချက်တင်သွင်းခြင်း၊ အဆိုပြုခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "検討",
+          "hiragana": "けんとう",
+          "meaning_burmese": "စိစစ်လေ့လာသုံးသပ်ခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "不可欠な",
+          "hiragana": "ふかけつな",
+          "meaning_burmese": "မရှိမဖြစ်လိုအပ်သော"
+        },
+        {
+          "no": 17,
+          "kanji": "妨げる",
+          "hiragana": "さまたげる",
+          "meaning_burmese": "ဟန့်တားနှောင့်ယှက်သည်၊ နှောင့်နှေးစေသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "生える",
+          "hiragana": "はえる",
+          "meaning_burmese": "(အပင်/အမွေး) ပေါက်သည်"
+        },
+        {
+          "no": 19,
+          "kanji": "著しい",
+          "hiragana": "いちじるしい",
+          "meaning_burmese": "သိသာထင်ရှားသော"
+        },
+        {
+          "no": 20,
+          "kanji": "参考",
+          "hiragana": "さんこう",
+          "meaning_burmese": "ကိုးကားချက်၊ ရည်ညွှန်းချက်"
+        },
+        {
+          "no": 21,
+          "kanji": "リスク",
+          "hiragana": "リスク",
+          "meaning_burmese": "စွန့်စားရနိုင်ခြေ၊ အန္တရာယ်ဖြစ်နိုင်ခြေ"
+        },
+        {
+          "no": 22,
+          "kanji": "現地",
+          "hiragana": "げんち",
+          "meaning_burmese": "သက်ဆိုင်ရာဒေသ၊ ဖြစ်ပွားရာနေရာ"
+        }
+      ]
+    }
+  ]
+}

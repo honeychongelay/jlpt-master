@@ -1,0 +1,905 @@
+{
+  "chapter": 6,
+  "sections": [
+    {
+      "section": 1,
+      "title": "就職",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "求人",
+          "hiragana": "きゅうじん",
+          "meaning_burmese": "အလုပ်ခေါ်ယူခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "志望",
+          "hiragana": "しぼう",
+          "meaning_burmese": "ဆန္ဒပြုခြင်း၊ လျှောက်ထားလိုသောဆန္ဒ"
+        },
+        {
+          "no": 3,
+          "kanji": "エントリー",
+          "hiragana": "エントリー",
+          "meaning_burmese": "အလုပ်လျှောက်ထားစာရင်းသွင်းခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "携わる",
+          "hiragana": "たずさわる",
+          "meaning_burmese": "ပါဝင်လုပ်ကိုင်သည်၊ ပတ်သက်လုပ်ကိုင်သည်"
+        },
+        {
+          "no": 5,
+          "kanji": "生かす",
+          "hiragana": "いかす",
+          "meaning_burmese": "အကျိုးရှိရှိအသုံးချသည်"
+        },
+        {
+          "no": 6,
+          "kanji": "貴社",
+          "hiragana": "きしゃ",
+          "meaning_burmese": "လူကြီးမင်းတို့ကုမ္ပဏီ (ယဉ်ကျေးသောအသုံး)"
+        },
+        {
+          "no": 7,
+          "kanji": "御中",
+          "hiragana": "おんちゅう",
+          "meaning_burmese": "ကုမ္ပဏီ/အဖွဲ့အစည်းသို့ လိပ်မူသောအသုံးအနှုန်း"
+        },
+        {
+          "no": 8,
+          "kanji": "動機",
+          "hiragana": "どうき",
+          "meaning_burmese": "အကြောင်းရင်း၊ ရည်ရွယ်ချက်"
+        },
+        {
+          "no": 9,
+          "kanji": "熱意",
+          "hiragana": "ねつい",
+          "meaning_burmese": "စိတ်အားထက်သန်မှု"
+        },
+        {
+          "no": 10,
+          "kanji": "学歴",
+          "hiragana": "がくれき",
+          "meaning_burmese": "ပညာအရည်အချင်း၊ ပညာသင်ရာဇဝင်"
+        },
+        {
+          "no": 11,
+          "kanji": "不問",
+          "hiragana": "ふもん",
+          "meaning_burmese": "မေးမြန်းမှုမရှိခြင်း၊ ကန့်သတ်ချက်မရှိခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "制限",
+          "hiragana": "せいげん",
+          "meaning_burmese": "ကန့်သတ်ချက်"
+        },
+        {
+          "no": 13,
+          "kanji": "特技",
+          "hiragana": "とくぎ",
+          "meaning_burmese": "ထူးခြားသောကျွမ်းကျင်မှု၊ ဝါသနာအရည်အချင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "協調",
+          "hiragana": "きょうちょう",
+          "meaning_burmese": "ပူးပေါင်းဆောင်ရွက်ခြင်း၊ သဟဇာတဖြစ်ခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "肝心な",
+          "hiragana": "かんじんな",
+          "meaning_burmese": "အလွန်အရေးကြီးသော၊ ပဓာနကျသော"
+        },
+        {
+          "no": 16,
+          "kanji": "精一杯",
+          "hiragana": "せいいっぱい",
+          "meaning_burmese": "အစွမ်းကုန်၊ အတတ်နိုင်ဆုံး"
+        },
+        {
+          "no": 17,
+          "kanji": "アピール",
+          "hiragana": "アピール",
+          "meaning_burmese": "ဆွဲဆောင်ဖော်ပြခြင်း၊ ပေါ်လွင်စေခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "対応",
+          "hiragana": "たいおう",
+          "meaning_burmese": "ကိုင်တွယ်တုံ့ပြန်ဆောင်ရွက်ခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "合同",
+          "hiragana": "ごうどう",
+          "meaning_burmese": "ပူးတွဲဆောင်ရွက်ခြင်း၊ စုပေါင်းခြင်း"
+        },
+        {
+          "no": 20,
+          "kanji": "望ましい",
+          "hiragana": "のぞましい",
+          "meaning_burmese": "မျှော်လင့်အပ်သော၊ ဖြစ်သင့်သော"
+        },
+        {
+          "no": 21,
+          "kanji": "好ましい",
+          "hiragana": "このましい",
+          "meaning_burmese": "နှစ်သက်ဖွယ်ကောင်းသော၊ သင့်လျော်သော"
+        },
+        {
+          "no": 22,
+          "kanji": "公平な",
+          "hiragana": "こうへいな",
+          "meaning_burmese": "တရားမျှတသော"
+        },
+        {
+          "no": 23,
+          "kanji": "せめて",
+          "hiragana": "せめて",
+          "meaning_burmese": "အနည်းဆုံးတော့၊ အနည်းဆုံးအနေဖြင့်"
+        },
+        {
+          "no": 24,
+          "kanji": "受け取る",
+          "hiragana": "うけとる",
+          "meaning_burmese": "လက်ခံရရှိသည်"
+        },
+        {
+          "no": 25,
+          "kanji": "内定",
+          "hiragana": "ないてい",
+          "meaning_burmese": "အလုပ်ရရှိရန် တရားဝင်သတ်မှတ်ခံရခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "辞退",
+          "hiragana": "じたい",
+          "meaning_burmese": "ငြင်းပယ်ခြင်း၊ ပယ်ဖျက်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "契約",
+          "hiragana": "けいやく",
+          "meaning_burmese": "စာချုပ်ချုပ်ဆိုခြင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "入社",
+          "hiragana": "にゅうしゃ",
+          "meaning_burmese": "ကုမ္ပဏီသို့ အလုပ်ဝင်ခြင်း"
+        },
+        {
+          "no": 29,
+          "kanji": "心得",
+          "hiragana": "こころえ",
+          "meaning_burmese": "သဘောပေါက်နားလည်ခြင်း၊ လိုက်နာရမည့်အချက်"
+        },
+        {
+          "no": 30,
+          "kanji": "社会人",
+          "hiragana": "しゃかいじん",
+          "meaning_burmese": "လူ့ဘောင်အဖွဲ့အစည်းဝင်လူကြီး၊ လုပ်ငန်းခွင်ဝင်သူ"
+        },
+        {
+          "no": 31,
+          "kanji": "自覚",
+          "hiragana": "じかく",
+          "meaning_burmese": "ကိုယ်တိုင်သတိပြုမိခြင်း၊ ကိုယ်ရည်ကိုယ်သွေးနားလည်ခြင်း"
+        },
+        {
+          "no": 32,
+          "kanji": "いよいよ",
+          "hiragana": "いよいよ",
+          "meaning_burmese": "နောက်ဆုံးတွင်၊ အမှန်တကယ်ပင်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "会社",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "大企業",
+          "hiragana": "だいきぎょう",
+          "meaning_burmese": "ကုမ္ပဏီကြီး၊ လုပ်ငန်းကြီး"
+        },
+        {
+          "no": 2,
+          "kanji": "大手",
+          "hiragana": "おおて",
+          "meaning_burmese": "ထိပ်တန်းကုမ္ပဏီကြီး"
+        },
+        {
+          "no": 3,
+          "kanji": "代表",
+          "hiragana": "だいひょう",
+          "meaning_burmese": "ကိုယ်စားပြုခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "民間",
+          "hiragana": "みんかん",
+          "meaning_burmese": "ပုဂ္ဂလိက၊ အရပ်ဘက်"
+        },
+        {
+          "no": 5,
+          "kanji": "組織",
+          "hiragana": "そしき",
+          "meaning_burmese": "အဖွဲ့အစည်း၊ ဖွဲ့စည်းပုံ"
+        },
+        {
+          "no": 6,
+          "kanji": "従業員",
+          "hiragana": "じゅうぎょういん",
+          "meaning_burmese": "ဝန်ထမ်း၊ အလုပ်သမား"
+        },
+        {
+          "no": 7,
+          "kanji": "新入社員",
+          "hiragana": "しんにゅうしゃいん",
+          "meaning_burmese": "ဝန်ထမ်းအသစ်"
+        },
+        {
+          "no": 8,
+          "kanji": "派遣社員",
+          "hiragana": "はけんしゃいん",
+          "meaning_burmese": "အေဂျင်စီမှ စေလွှတ်သောဝန်ထမ်း"
+        },
+        {
+          "no": 9,
+          "kanji": "オーナー",
+          "hiragana": "オーナー",
+          "meaning_burmese": "ပိုင်ရှင် (Owner)"
+        },
+        {
+          "no": 10,
+          "kanji": "重役",
+          "hiragana": "じゅうやく",
+          "meaning_burmese": "အဆင့်မြင့်အရာရှိကြီး၊ ဒါရိုက်တာ"
+        },
+        {
+          "no": 11,
+          "kanji": "オフィス",
+          "hiragana": "オフィス",
+          "meaning_burmese": "ရုံးခန်း (Office)"
+        },
+        {
+          "no": 12,
+          "kanji": "支給",
+          "hiragana": "しきゅう",
+          "meaning_burmese": "ပေးအပ်ချီးမြှင့်ခြင်း၊ ထောက်ပံ့ပေးခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "出世",
+          "hiragana": "しゅっせ",
+          "meaning_burmese": "ရာထူးတိုးတက်အောင်မြင်ခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "昇進",
+          "hiragana": "しょうしん",
+          "meaning_burmese": "ရာထူးတိုးခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "転勤",
+          "hiragana": "てんきん",
+          "meaning_burmese": "ရုံးခွဲသို့ နေရာပြောင်းရွှေ့တာဝန်ကျခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "赴任",
+          "hiragana": "ふにん",
+          "meaning_burmese": "တာဝန်ကျရာနေရာသစ်သို့ သွားရောက်ခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "有給休暇",
+          "hiragana": "ゆうきゅうきゅうか",
+          "meaning_burmese": "လစာပြည့်ခွင့်ရက်"
+        },
+        {
+          "no": 18,
+          "kanji": "人事",
+          "hiragana": "じんじ",
+          "meaning_burmese": "လူ့စွမ်းအားအရင်းအမြစ်၊ ဝန်ထမ်းရေးရာ"
+        },
+        {
+          "no": 19,
+          "kanji": "人材",
+          "hiragana": "じんざい",
+          "meaning_burmese": "လူ့စွမ်းအားအရင်းအမြစ်၊ အရည်အချင်းရှိသူ"
+        },
+        {
+          "no": 20,
+          "kanji": "人手",
+          "hiragana": "ひとで",
+          "meaning_burmese": "လူအင်အား၊ အလုပ်သမားအင်အား"
+        },
+        {
+          "no": 21,
+          "kanji": "モニター",
+          "hiragana": "モニター",
+          "meaning_burmese": "စောင့်ကြည့်စစ်ဆေးသူ၊ သုံးသပ်အကြံပြုသူ"
+        },
+        {
+          "no": 22,
+          "kanji": "業績",
+          "hiragana": "ぎょうせき",
+          "meaning_burmese": "လုပ်ငန်းစွမ်းဆောင်ရည်ရလဒ်"
+        },
+        {
+          "no": 23,
+          "kanji": "資本",
+          "hiragana": "しほん",
+          "meaning_burmese": "အရင်းအနှီး၊ မတည်ငွေ"
+        },
+        {
+          "no": 24,
+          "kanji": "方針",
+          "hiragana": "ほうしん",
+          "meaning_burmese": "မူဝါဒ၊ လမ်းစဉ်"
+        },
+        {
+          "no": 25,
+          "kanji": "我々",
+          "hiragana": "われわれ",
+          "meaning_burmese": "ကျွန်ုပ်တို့ (We)"
+        },
+        {
+          "no": 26,
+          "kanji": "製品",
+          "hiragana": "せいひん",
+          "meaning_burmese": "ထုတ်ကုန်ပစ္စည်း"
+        },
+        {
+          "no": 27,
+          "kanji": "売れ行き",
+          "hiragana": "うれゆき",
+          "meaning_burmese": "အရောင်းသွက်မှု၊ ဈေးကွက်ဝယ်လိုအား"
+        },
+        {
+          "no": 28,
+          "kanji": "売り上げ",
+          "hiragana": "うりあげ",
+          "meaning_burmese": "ရောင်းရငွေ၊ စုစုပေါင်းအရောင်းပမာဏ"
+        },
+        {
+          "no": 29,
+          "kanji": "コスト",
+          "hiragana": "コスト",
+          "meaning_burmese": "ကုန်ကျစရိတ် (Cost)"
+        },
+        {
+          "no": 30,
+          "kanji": "果たす",
+          "hiragana": "はたす",
+          "meaning_burmese": "တာဝန်ကျေပွန်သည်၊ ပြီးမြောက်စေသည်"
+        },
+        {
+          "no": 31,
+          "kanji": "得る",
+          "hiragana": "える",
+          "meaning_burmese": "ရရှိသည်၊ ရယူသည်"
+        },
+        {
+          "no": 32,
+          "kanji": "認める",
+          "hiragana": "みとめる",
+          "meaning_burmese": "အသိအမှတ်ပြုသည်၊ လက်ခံခွင့်ပြုသည်"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "仕事",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "ビジネス",
+          "hiragana": "ビジネス",
+          "meaning_burmese": "စီးပွားရေးလုပ်ငန်း (Business)"
+        },
+        {
+          "no": 2,
+          "kanji": "就く",
+          "hiragana": "つく",
+          "meaning_burmese": "(အလုပ်အကိုင်) ဝင်ရောက်လုပ်ကိုင်သည်"
+        },
+        {
+          "no": 3,
+          "kanji": "生きがい",
+          "hiragana": "いきがい",
+          "meaning_burmese": "ဘဝ၏အဓိပ္ပာယ်၊ ရှင်သန်ရကျိုးနပ်မှု"
+        },
+        {
+          "no": 4,
+          "kanji": "やりがい",
+          "hiragana": "やりがい",
+          "meaning_burmese": "လုပ်ဆောင်ရကျိုးနပ်မှု"
+        },
+        {
+          "no": 5,
+          "kanji": "抱く",
+          "hiragana": "いだく",
+          "meaning_burmese": "ရင်ထဲတွင်ပိုက်ထွေးထားသည်၊ မျှော်မှန်းသည်"
+        },
+        {
+          "no": 6,
+          "kanji": "打ち合わせ",
+          "hiragana": "うちあわせ",
+          "meaning_burmese": "ကြိုတင်ညှိနှိုင်းဆွေးနွေးပွဲ"
+        },
+        {
+          "no": 7,
+          "kanji": "アポイント",
+          "hiragana": "アポイント",
+          "meaning_burmese": "ချိန်းဆိုမှု (Appointment)"
+        },
+        {
+          "no": 8,
+          "kanji": "応対",
+          "hiragana": "おうたい",
+          "meaning_burmese": "ဧည့်ခံတုံ့ပြန်ပြောဆိုခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "伝言",
+          "hiragana": "でんごん",
+          "meaning_burmese": "ပါးစကား၊ နှုတ်စကား"
+        },
+        {
+          "no": 10,
+          "kanji": "改めて",
+          "hiragana": "あらためて",
+          "meaning_burmese": "နောက်တစ်ကြိမ်၊ အသစ်တဖန်"
+        },
+        {
+          "no": 11,
+          "kanji": "じかに",
+          "hiragana": "じかに",
+          "meaning_burmese": "တိုက်ရိုက်၊ ကိုယ်တိုင်ကိုယ်ကျ"
+        },
+        {
+          "no": 12,
+          "kanji": "プロジェクト",
+          "hiragana": "プロジェクト",
+          "meaning_burmese": "စီမံကိန်း (Project)"
+        },
+        {
+          "no": 13,
+          "kanji": "意図",
+          "hiragana": "いと",
+          "meaning_burmese": "ရည်ရွယ်ချက်၊ ရည်ရွယ်ချက်ရှိရှိကြံစည်မှု"
+        },
+        {
+          "no": 14,
+          "kanji": "新たな",
+          "hiragana": "あらたな",
+          "meaning_burmese": "အသစ်ဖြစ်သော"
+        },
+        {
+          "no": 15,
+          "kanji": "組む",
+          "hiragana": "くむ",
+          "meaning_burmese": "တွဲဖက်ဆောင်ရွက်သည်၊ အဖွဲ့ဖွဲ့သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "取り引き",
+          "hiragana": "とりひき",
+          "meaning_burmese": "စီးပွားရေးအရောင်းအဝယ်ဖောက်သည်ဆက်ဆံမှု"
+        },
+        {
+          "no": 17,
+          "kanji": "依頼",
+          "hiragana": "いらい",
+          "meaning_burmese": "အကူအညီတောင်းခံခြင်း၊ အပ်နှံခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "任せる",
+          "hiragana": "まかせる",
+          "meaning_burmese": "လွှဲအပ်သည်၊ တာဝန်ပေးသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "引き受ける",
+          "hiragana": "ひきうける",
+          "meaning_burmese": "တာဝန်ယူလက်ခံသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "こなす",
+          "hiragana": "こなす",
+          "meaning_burmese": "ကျွမ်းကျင်စွာပြီးမြောက်အောင် လုပ်ဆောင်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "成果",
+          "hiragana": "せいか",
+          "meaning_burmese": "ရလဒ်ကောင်း၊ အောင်မြင်မှုရလဒ်"
+        },
+        {
+          "no": 22,
+          "kanji": "達成",
+          "hiragana": "たっせい",
+          "meaning_burmese": "ရည်မှန်းချက်အောင်မြင်ပြီးမြောက်ခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "作業",
+          "hiragana": "さぎょう",
+          "meaning_burmese": "လက်တွေ့လုပ်ငန်းဆောင်တာ"
+        },
+        {
+          "no": 24,
+          "kanji": "保留",
+          "hiragana": "ほりゅう",
+          "meaning_burmese": "ဆိုင်းငံ့ထားခြင်း၊ ယာယီရပ်ဆိုင်းထားခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "やり直す",
+          "hiragana": "やりなおす",
+          "meaning_burmese": "ပြန်လည်လုပ်ဆောင်သည်"
+        },
+        {
+          "no": 26,
+          "kanji": "件",
+          "hiragana": "けん",
+          "meaning_burmese": "ကိစ္စရပ်၊ အကြောင်းအရာ"
+        },
+        {
+          "no": 27,
+          "kanji": "急用",
+          "hiragana": "きゅうよう",
+          "meaning_burmese": "အရေးပေါ်ကိစ္စ"
+        },
+        {
+          "no": 28,
+          "kanji": "至急",
+          "hiragana": "しきゅう",
+          "meaning_burmese": "အရေးတကြီး၊ အမြန်ဆုံး"
+        },
+        {
+          "no": 29,
+          "kanji": "手順",
+          "hiragana": "てじゅん",
+          "meaning_burmese": "လုပ်ငန်းစဉ်အဆင့်ဆင့်"
+        },
+        {
+          "no": 30,
+          "kanji": "移動",
+          "hiragana": "いどう",
+          "meaning_burmese": "နေရာရွှေ့ပြောင်းသွားလာခြင်း"
+        },
+        {
+          "no": 31,
+          "kanji": "大工",
+          "hiragana": "だいく",
+          "meaning_burmese": "လက်သမား"
+        },
+        {
+          "no": 32,
+          "kanji": "ガードマン",
+          "hiragana": "ガードマン",
+          "meaning_burmese": "လုံခြုံရေးဝန်ထမ်း"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "上下関係",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "地位",
+          "hiragana": "ちい",
+          "meaning_burmese": "ရာထူးအဆင့်အတန်း၊ ဂုဏ်ဒြပ်"
+        },
+        {
+          "no": 2,
+          "kanji": "目上",
+          "hiragana": "めうえ",
+          "meaning_burmese": "အထက်လူကြီး၊ ဝါရင့်သူ"
+        },
+        {
+          "no": 3,
+          "kanji": "敬意",
+          "hiragana": "けいい",
+          "meaning_burmese": "လေးစားသမှု"
+        },
+        {
+          "no": 4,
+          "kanji": "敬う",
+          "hiragana": "うやまう",
+          "meaning_burmese": "ရိုသေလေးစားသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "的確な",
+          "hiragana": "てきかくな",
+          "meaning_burmese": "တိကျမှန်ကန်သော၊ ထိရောက်သော"
+        },
+        {
+          "no": 6,
+          "kanji": "忠告",
+          "hiragana": "ちゅうこく",
+          "meaning_burmese": "သတိပေးအကြံပြုချက်"
+        },
+        {
+          "no": 7,
+          "kanji": "サポート",
+          "hiragana": "サポート",
+          "meaning_burmese": "ကူညီပံ့ပိုးမှု (Support)"
+        },
+        {
+          "no": 8,
+          "kanji": "いばる",
+          "hiragana": "いばる",
+          "meaning_burmese": "မောက်မာဝင့်ဝါသည်၊ ဘဝင်မြင့်သည်"
+        },
+        {
+          "no": 9,
+          "kanji": "押し付ける",
+          "hiragana": "おしつける",
+          "meaning_burmese": "အတင်းအကျပ်ဖိအားပေးလွှဲချသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "ご無沙汰",
+          "hiragana": "ごぶさた",
+          "meaning_burmese": "အဆက်အသွယ်ကြာမြင့်စွာပြတ်တောက်ခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "恐縮",
+          "hiragana": "きょうしゅく",
+          "meaning_burmese": "အားနာစိတ်မကောင်းဖြစ်ရခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "信頼",
+          "hiragana": "しんらい",
+          "meaning_burmese": "ယုံကြည်ကိုးစားမှု"
+        },
+        {
+          "no": 13,
+          "kanji": "従う",
+          "hiragana": "したがう",
+          "meaning_burmese": "လိုက်နာနာခံသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "うなずく",
+          "hiragana": "うなずく",
+          "meaning_burmese": "ခေါင်းညိတ်သဘောတူသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "反論",
+          "hiragana": "はんろん",
+          "meaning_burmese": "ဆန့်ကျင်ငြင်းချက်ထုတ်ခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "わびる",
+          "hiragana": "わびる",
+          "meaning_burmese": "တောင်းပန်သည်"
+        },
+        {
+          "no": 17,
+          "kanji": "やる気",
+          "hiragana": "やるき",
+          "meaning_burmese": "လုပ်လိုစိတ်၊ စိတ်အားထက်သန်မှု"
+        },
+        {
+          "no": 18,
+          "kanji": "お世辞",
+          "hiragana": "おせじ",
+          "meaning_burmese": "မြှောက်ပင့်ပြောဆိုသောစကား"
+        },
+        {
+          "no": 19,
+          "kanji": "ごまをする",
+          "hiragana": "ごまをする",
+          "meaning_burmese": "မျက်နှာလိုမျက်နှာရ ဖားသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "上等な",
+          "hiragana": "じょうとうな",
+          "meaning_burmese": "အဆင့်မြင့်ကောင်းမွန်သော"
+        },
+        {
+          "no": 21,
+          "kanji": "苦痛",
+          "hiragana": "くつう",
+          "meaning_burmese": "နာကျင်ခံစားရမှု၊ ဆင်းရဲဒုက္ခ"
+        },
+        {
+          "no": 22,
+          "kanji": "夫人",
+          "hiragana": "ふじん",
+          "meaning_burmese": "ကတော်၊ ဇနီးမယား"
+        },
+        {
+          "no": 23,
+          "kanji": "ベテラン",
+          "hiragana": "ベテラン",
+          "meaning_burmese": "ဝါရင့်ကျွမ်းကျင်သူ (Veteran)"
+        },
+        {
+          "no": 24,
+          "kanji": "平社員",
+          "hiragana": "ひらしゃいん",
+          "meaning_burmese": "ရာထူးမရှိသော သာမန်ရုံးဝန်ထမ်း"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "退職・転職",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "退職",
+          "hiragana": "たいしょく",
+          "meaning_burmese": "အလုပ်မှနုတ်ထွက်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "転職",
+          "hiragana": "てんしょく",
+          "meaning_burmese": "အလုပ်ပြောင်းရွှေ့ခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "首になる",
+          "hiragana": "くびになる",
+          "meaning_burmese": "အလုပ်ပြုတ်သည်၊ အလုပ်မှထုတ်ပယ်ခံရသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "リストラ",
+          "hiragana": "リストラ",
+          "meaning_burmese": "ဝန်ထမ်းလျှော့ချခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "独立",
+          "hiragana": "どくりつ",
+          "meaning_burmese": "ကိုယ်ပိုင်လုပ်ငန်းစတင်ခြင်း၊ သီးခြားရပ်တည်ခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "着々",
+          "hiragana": "ちゃくちゃく",
+          "meaning_burmese": "တဖြည်းဖြည်းမှန်မှန်၊ အစီအစဉ်အတိုင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "フリー",
+          "hiragana": "フリー",
+          "meaning_burmese": "လွတ်လပ်သောအလွတ်တန်း၊ အခမဲ့"
+        },
+        {
+          "no": 8,
+          "kanji": "不平",
+          "hiragana": "ふへい",
+          "meaning_burmese": "မကျေနပ်ချက်၊ ညည်းညူသံ"
+        },
+        {
+          "no": 9,
+          "kanji": "満足",
+          "hiragana": "まんぞく",
+          "meaning_burmese": "ကျေနပ်အားရမှု"
+        },
+        {
+          "no": 10,
+          "kanji": "辛抱",
+          "hiragana": "しんぼう",
+          "meaning_burmese": "သည်းခံစောင့်ဆိုင်းခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "ぐっと",
+          "hiragana": "ぐっと",
+          "meaning_burmese": "ကြိတ်မှိတ်သည်းခံ၍၊ အတင်းအကျပ်"
+        },
+        {
+          "no": 12,
+          "kanji": "負う",
+          "hiragana": "おう",
+          "meaning_burmese": "တာဝန်ခံသည်၊ ပခုံးထမ်းတင်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "溶け込む",
+          "hiragana": "とけこむ",
+          "meaning_burmese": "ရောနှောအသားကျသွားသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "やむを得ず",
+          "hiragana": "やむをえず",
+          "meaning_burmese": "မတတ်သာဘဲ၊ မလွှဲမရှောင်သာဘဲ"
+        },
+        {
+          "no": 15,
+          "kanji": "立ち上げる",
+          "hiragana": "たちあげる",
+          "meaning_burmese": "ကုမ္ပဏီစတင်တည်ထောင်သည်၊ ကွန်ပျူတာဖွင့်သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "試みる",
+          "hiragana": "こころみる",
+          "meaning_burmese": "စမ်းသပ်လုပ်ဆောင်ကြည့်သည်"
+        },
+        {
+          "no": 17,
+          "kanji": "専念",
+          "hiragana": "せんねん",
+          "meaning_burmese": "အာရုံစိုက်နှစ်မြှုပ်ခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "悔やむ",
+          "hiragana": "くやむ",
+          "meaning_burmese": "နောင်တရသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "見送る",
+          "hiragana": "みおくる",
+          "meaning_burmese": "ယာယီဆိုင်းငံ့ထားသည်၊ လိုက်လံပို့ဆောင်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "逃す",
+          "hiragana": "のがす",
+          "meaning_burmese": "လွတ်ထွက်သွားစေသည်၊ လက်လွတ်ဆုံးရှုံးသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "重なる",
+          "hiragana": "かさなる",
+          "meaning_burmese": "ထပ်ခါတလဲလဲဖြစ်သည်၊ ဆင့်ပွားဖြစ်ပေါ်သည်"
+        },
+        {
+          "no": 22,
+          "kanji": "引き止める",
+          "hiragana": "ひきとめる",
+          "meaning_burmese": "ဆွဲထားသည်၊ တားဆီးထိန်းသိမ်းသည်"
+        },
+        {
+          "no": 23,
+          "kanji": "特殊な",
+          "hiragana": "とくしゅな",
+          "meaning_burmese": "ထူးခြားထူးခြားသော၊ အထူးဖြစ်သော"
+        },
+        {
+          "no": 24,
+          "kanji": "身の回り",
+          "hiragana": "みのまわり",
+          "meaning_burmese": "မိမိပတ်ဝန်းကျင်ရှိ ကိုယ်ပိုင်ပစ္စည်းများ"
+        },
+        {
+          "no": 25,
+          "kanji": "状況",
+          "hiragana": "じょうきょう",
+          "meaning_burmese": "အခြေအနေ၊ အခြေအနေအရပ်ရပ်"
+        }
+      ]
+    }
+  ]
+}

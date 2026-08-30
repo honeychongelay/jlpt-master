@@ -1,0 +1,1025 @@
+{
+  "chapter": 10,
+  "sections": [
+    {
+      "section": 1,
+      "title": "トラブル・事件",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "騒音",
+          "hiragana": "そうおん",
+          "meaning_burmese": "ဆူညံသံ"
+        },
+        {
+          "no": 2,
+          "kanji": "続出",
+          "hiragana": "ぞくしゅつ",
+          "meaning_burmese": "ဆက်တိုက်ပေါ်ပေါက်ဖြစ်ပွားခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "思わず",
+          "hiragana": "おもわず",
+          "meaning_burmese": "မရည်ရွယ်ဘဲ၊ အမှတ်တမဲ့"
+        },
+        {
+          "no": 4,
+          "kanji": "一方",
+          "hiragana": "いっぽう",
+          "meaning_burmese": "တစ်ဖက်တည်း၊ တဖြည်းဖြည်းပို၍"
+        },
+        {
+          "no": 5,
+          "kanji": "対立",
+          "hiragana": "たいりつ",
+          "meaning_burmese": "ထိပ်တိုက်ရင်ဆိုင်ဖြစ်ပွားခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "拒否",
+          "hiragana": "きょひ",
+          "meaning_burmese": "ငြင်းဆန်ပယ်ချခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "訴える",
+          "hiragana": "うったえる",
+          "meaning_burmese": "တရားစွဲဆိုသည်၊ ရင်ဖွင့်ပြောဆိုသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "裁判",
+          "hiragana": "さいばん",
+          "meaning_burmese": "တရားစီရင်ခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "関わる",
+          "hiragana": "かかわる",
+          "meaning_burmese": "ပတ်သက်ဆက်နွှယ်သည်"
+        },
+        {
+          "no": 10,
+          "kanji": "はねる",
+          "hiragana": "はねる",
+          "meaning_burmese": "စင်ထွက်သည်၊ ကားတိုက်ခံရသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "犯罪",
+          "hiragana": "はんざい",
+          "meaning_burmese": "ပြစ်မှုကျူးလွန်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "暴れる",
+          "hiragana": "あばれる",
+          "meaning_burmese": "သောင်းကျန်းရမ်းကားသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "乱暴",
+          "hiragana": "らんぼう",
+          "meaning_burmese": "ကြမ်းတမ်းရုန့်ရင်းခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "暴力",
+          "hiragana": "ぼうりょく",
+          "meaning_burmese": "အကြမ်းဖက်မှု၊ အင်အားသုံးခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "おどかす",
+          "hiragana": "おどかす",
+          "meaning_burmese": "ခြိမ်းခြောက်သည်၊ လန့်အောင်လုပ်သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "侵入",
+          "hiragana": "しんにゅう",
+          "meaning_burmese": "ကျူးကျော်ဝင်ရောက်ခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "のぞく",
+          "hiragana": "のぞく",
+          "meaning_burmese": "ချောင်းကြည့်သည်"
+        },
+        {
+          "no": 18,
+          "kanji": "見知らぬ",
+          "hiragana": "みしらぬ",
+          "meaning_burmese": "မသိကျွမ်းသော၊ မရင်းနှီးသော"
+        },
+        {
+          "no": 19,
+          "kanji": "近寄る",
+          "hiragana": "ちかよる",
+          "meaning_burmese": "အနီးသို့ကပ်လာသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "縮まる",
+          "hiragana": "ちぢまる",
+          "meaning_burmese": "ကျုံ့သွားသည်၊ တိုတောင်းသွားသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "無理やり",
+          "hiragana": "むりやり",
+          "meaning_burmese": "အတင်းအဓမ္မ၊ မဖြစ်မနေ"
+        },
+        {
+          "no": 22,
+          "kanji": "捜査",
+          "hiragana": "そうさ",
+          "meaning_burmese": "ပြစ်မှုစုံစမ်းစစ်ဆေးခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "確定",
+          "hiragana": "かくてい",
+          "meaning_burmese": "အတည်ပြုသတ်မှတ်ခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "明らかな",
+          "hiragana": "あきらかな",
+          "meaning_burmese": "ရှင်းလင်းထင်ရှားသော"
+        },
+        {
+          "no": 25,
+          "kanji": "一致",
+          "hiragana": "いっち",
+          "meaning_burmese": "ကိုက်ညီခြင်း၊ တစ်ထပ်တည်းကျခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "自ら",
+          "hiragana": "みずから",
+          "meaning_burmese": "ကိုယ်တိုင်ကိုယ်ကျ"
+        },
+        {
+          "no": 27,
+          "kanji": "居場所",
+          "hiragana": "いばしょ",
+          "meaning_burmese": "ခိုလှုံရာနေရာ၊ ရှိနေသည့်နေရာ"
+        },
+        {
+          "no": 28,
+          "kanji": "持ち主",
+          "hiragana": "もちぬし",
+          "meaning_burmese": "ပိုင်ရှင်"
+        },
+        {
+          "no": 29,
+          "kanji": "あくまで",
+          "hiragana": "あくまで",
+          "meaning_burmese": "နောက်ဆုံးအထိ၊ အမှန်တကယ်အားဖြင့်"
+        },
+        {
+          "no": 30,
+          "kanji": "実に",
+          "hiragana": "じつに",
+          "meaning_burmese": "အမှန်တကယ်ပင်၊ အလွန်ပင်"
+        },
+        {
+          "no": 31,
+          "kanji": "困難",
+          "hiragana": "こんなん",
+          "meaning_burmese": "အခက်အခဲ၊ ကြပ်တည်းမှု"
+        },
+        {
+          "no": 32,
+          "kanji": "改める",
+          "hiragana": "あらためる",
+          "meaning_burmese": "ပြင်ဆင်ပြောင်းလဲသည်"
+        },
+        {
+          "no": 33,
+          "kanji": "ようやく",
+          "hiragana": "ようやく",
+          "meaning_burmese": "နောက်ဆုံးတော့၊ မနည်းကြိုးစားပြီးမှ"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "事故",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "発生",
+          "hiragana": "はっせい",
+          "meaning_burmese": "ဖြစ်ပွားခြင်း၊ ပေါ်ပေါက်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "相次ぐ",
+          "hiragana": "あいつぐ",
+          "meaning_burmese": "တစ်ခုပြီးတစ်ခုဆက်တိုက်ဖြစ်ပွားသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "飛び出す",
+          "hiragana": "とびだす",
+          "meaning_burmese": "ရုတ်တရက်ပြေးထွက်လာသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "一瞬",
+          "hiragana": "いっしゅん",
+          "meaning_burmese": "မျက်စိတစ်မှိတ်အတွင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "あり得ない",
+          "hiragana": "ありえない",
+          "meaning_burmese": "မဖြစ်နိုင်သော၊ လက်ခံ၍မရသော"
+        },
+        {
+          "no": 6,
+          "kanji": "荒っぽい",
+          "hiragana": "あらっぽい",
+          "meaning_burmese": "ကြမ်းတမ်းသော၊ မဆင်မခြင်ဖြစ်သော"
+        },
+        {
+          "no": 7,
+          "kanji": "少年",
+          "hiragana": "しょうねん",
+          "meaning_burmese": "လူငယ်ယောကျ်ားလေး"
+        },
+        {
+          "no": 8,
+          "kanji": "取り締まり",
+          "hiragana": "とりしまり",
+          "meaning_burmese": "ဖမ်းဆီးထိန်းချုပ်ခြင်း၊ စစ်ဆေးကြပ်မတ်ခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "防止",
+          "hiragana": "ぼうし",
+          "meaning_burmese": "တားဆီးကာကွယ်ခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "事情",
+          "hiragana": "じじょう",
+          "meaning_burmese": "အကြောင်းအရင်းအခြေအနေ"
+        },
+        {
+          "no": 11,
+          "kanji": "有無",
+          "hiragana": "うむ",
+          "meaning_burmese": "ရှိခြင်း/မရှိခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "目撃",
+          "hiragana": "もくげき",
+          "meaning_burmese": "မျက်မြင်တွေ့ရှိခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "判断",
+          "hiragana": "はんだん",
+          "meaning_burmese": "ဆုံးဖြတ်ချက်ချခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "見逃す",
+          "hiragana": "みのがす",
+          "meaning_burmese": "မျက်ခြည်ပြတ်လွတ်သွားသည်၊ ခွင့်လွှတ်ကျော်လွှားသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "行方",
+          "hiragana": "ゆくえ",
+          "meaning_burmese": "ဦးတည်ရာလမ်းကြောင်း၊ သွားရာနေရာ"
+        },
+        {
+          "no": 16,
+          "kanji": "未だに",
+          "hiragana": "いまだに",
+          "meaning_burmese": "ယခုတိုင်အောင်"
+        },
+        {
+          "no": 17,
+          "kanji": "不明",
+          "hiragana": "ふめい",
+          "meaning_burmese": "မသဲကွဲမရှင်းလင်းခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "過失",
+          "hiragana": "かしつ",
+          "meaning_burmese": "ပေါ့ဆမှု၊ မတော်တဆအမှား"
+        },
+        {
+          "no": 19,
+          "kanji": "誤る",
+          "hiragana": "あ secret/あやまる",
+          "meaning_burmese": "မှားယွင်းသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "もめる",
+          "hiragana": "もめる",
+          "meaning_burmese": "ငြင်းခုံအငြင်းပွားသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "予期",
+          "hiragana": "よき",
+          "meaning_burmese": "ကြိုတင်မျှော်လင့်တွက်ဆခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "流す",
+          "hiragana": "ながす",
+          "meaning_burmese": "စီးဆင်းစေသည်၊ သတင်းလွှင့်သည်"
+        },
+        {
+          "no": 23,
+          "kanji": "爆発",
+          "hiragana": "ばくはつ",
+          "meaning_burmese": "ပေါက်ကွဲခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "抜く",
+          "hiragana": "ぬく",
+          "meaning_burmese": "ဖယ်ထုတ်သည်၊ အားလျှော့သည်"
+        },
+        {
+          "no": 25,
+          "kanji": "火災",
+          "hiragana": "かさい",
+          "meaning_burmese": "မီးဘေးအန္တရာယ်"
+        },
+        {
+          "no": 26,
+          "kanji": "消防車",
+          "hiragana": "しょうぼうしゃ",
+          "meaning_burmese": "မီးသတ်ကား"
+        },
+        {
+          "no": 27,
+          "kanji": "少なくとも",
+          "hiragana": "すくなくとも",
+          "meaning_burmese": "အနည်းဆုံးအားဖြင့်"
+        },
+        {
+          "no": 28,
+          "kanji": "救助",
+          "hiragana": "きゅうじょ",
+          "meaning_burmese": "ကယ်ဆယ်ရေးလုပ်ဆောင်ခြင်း"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "政治",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "政策",
+          "hiragana": "せいさく",
+          "meaning_burmese": "နိုင်ငံရေးမူဝါဒ"
+        },
+        {
+          "no": 2,
+          "kanji": "治める",
+          "hiragana": "おさめる",
+          "meaning_burmese": "အုပ်ချုပ်သည်၊ ထိန်းသိမ်းသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "政党",
+          "hiragana": "せいとう",
+          "meaning_burmese": "နိုင်ငံရေးပါတီ"
+        },
+        {
+          "no": 4,
+          "kanji": "掲げる",
+          "hiragana": "かかげる",
+          "meaning_burmese": "လွှင့်တင်သည်၊ မူဝါဒအဖြစ်ထုတ်ဖော်ပြသသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "外交",
+          "hiragana": "がいこう",
+          "meaning_burmese": "နိုင်ငံခြားရေးရာ"
+        },
+        {
+          "no": 6,
+          "kanji": "コメント",
+          "hiragana": "コメント",
+          "meaning_burmese": "မှတ်ချက်ပေးခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "発言",
+          "hiragana": "はつげん",
+          "meaning_burmese": "ပြောဆိုထုတ်ဖော်ချက်"
+        },
+        {
+          "no": 8,
+          "kanji": "国会",
+          "hiragana": "こっかい",
+          "meaning_burmese": "လွှတ်တော်"
+        },
+        {
+          "no": 9,
+          "kanji": "議論",
+          "hiragana": "ぎろん",
+          "meaning_burmese": "ဆွေးနွေးငြင်းခုံခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "延びる",
+          "hiragana": "のびる",
+          "meaning_burmese": "ရက်ရွှေ့ဆိုင်းသွားသည်၊ ရှည်လျားသွားသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "大臣",
+          "hiragana": "だいじん",
+          "meaning_burmese": "ဝန်ကြီး"
+        },
+        {
+          "no": 12,
+          "kanji": "議員",
+          "hiragana": "ぎいん",
+          "meaning_burmese": "လွှတ်တော်အမတ်"
+        },
+        {
+          "no": 13,
+          "kanji": "選挙",
+          "hiragana": "せんきょ",
+          "meaning_burmese": "ရွေးကောက်ပွဲ"
+        },
+        {
+          "no": 14,
+          "kanji": "演説",
+          "hiragana": "えんぜつ",
+          "meaning_burmese": "မိန့်ခွန်းပြောကြားခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "支持",
+          "hiragana": "しじ",
+          "meaning_burmese": "ထောက်ခံအားပေးခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "各々",
+          "hiragana": "おのおの",
+          "meaning_burmese": "အသီးသီး၊ အသီးသီးသောသူများ"
+        },
+        {
+          "no": 17,
+          "kanji": "ばく大な",
+          "hiragana": "ばくだいな",
+          "meaning_burmese": "မတရားများပြားလှသော"
+        },
+        {
+          "no": 18,
+          "kanji": "不正",
+          "hiragana": "ふせい",
+          "meaning_burmese": "မရိုးသားမှု၊ မတရားမှု"
+        },
+        {
+          "no": 19,
+          "kanji": "思想",
+          "hiragana": "しそう",
+          "meaning_burmese": "အတွေးအခေါ်အယူအဆ"
+        },
+        {
+          "no": 20,
+          "kanji": "改正",
+          "hiragana": "かいせい",
+          "meaning_burmese": "ပြင်ဆင်ပြဋ္ဌာန်းခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "実施",
+          "hiragana": "じっし",
+          "meaning_burmese": "လက်တွေ့အကောင်အထည်ဖော်ဆောင်ရွက်ခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "要素",
+          "hiragana": "ようそ",
+          "meaning_burmese": "အဓိကအချက်အလက်၊ ပါဝင်သောအရာ"
+        },
+        {
+          "no": 23,
+          "kanji": "成立",
+          "hiragana": "せいりつ",
+          "meaning_burmese": "အတည်ဖြစ်သွားခြင်း၊ ပေါ်ပေါက်လာခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "事実",
+          "hiragana": "じじつ",
+          "meaning_burmese": "ဖြစ်ရပ်မှန်၊ အမှန်တရား"
+        },
+        {
+          "no": 25,
+          "kanji": "隠す",
+          "hiragana": "かくす",
+          "meaning_burmese": "ဖုံးကွယ်ထားသည်"
+        },
+        {
+          "no": 26,
+          "kanji": "抱える",
+          "hiragana": "かかえる",
+          "meaning_burmese": "ရင်ဆိုင်ကြုံတွေ့နေရသည်"
+        },
+        {
+          "no": 27,
+          "kanji": "支配",
+          "hiragana": "しはい",
+          "meaning_burmese": "လွှမ်းမိုးချုပ်ကိုင်ခြင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "非難",
+          "hiragana": "ひなん",
+          "meaning_burmese": "ဝေဖန်ရှုတ်ချခြင်း"
+        },
+        {
+          "no": 29,
+          "kanji": "要求",
+          "hiragana": "ようきゅう",
+          "meaning_burmese": "တောင်းဆိုခြင်း"
+        },
+        {
+          "no": 30,
+          "kanji": "デモ",
+          "hiragana": "デモ",
+          "meaning_burmese": "ဆန္ဒပြပွဲ"
+        },
+        {
+          "no": 31,
+          "kanji": "およそ",
+          "hiragana": "およそ",
+          "meaning_burmese": "ခန့်မှန်းခြေအားဖြင့်"
+        },
+        {
+          "no": 32,
+          "kanji": "関連",
+          "hiragana": "かんれん",
+          "meaning_burmese": "ဆက်စပ်မှု"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "社会",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "反映",
+          "hiragana": "はんえい",
+          "meaning_burmese": "ထင်ဟပ်ပြသခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "貢献",
+          "hiragana": "こうけん",
+          "meaning_burmese": "အကျိုးပြုစွမ်းဆောင်ခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "寄付",
+          "hiragana": "きふ",
+          "meaning_burmese": "အလှူငွေထည့်ဝင်ခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "平等",
+          "hiragana": "びょうどう",
+          "meaning_burmese": "တန်းတူညီမျှမှု"
+        },
+        {
+          "no": 5,
+          "kanji": "復興",
+          "hiragana": "ふっこう",
+          "meaning_burmese": "ပြန်လည်ထူထောင်ခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "義務",
+          "hiragana": "ぎむ",
+          "meaning_burmese": "တာဝန်ဝတ္တရား"
+        },
+        {
+          "no": 7,
+          "kanji": "制度",
+          "hiragana": "せいど",
+          "meaning_burmese": "စနစ်၊ ဖွဲ့စည်းပုံအခြေခံ"
+        },
+        {
+          "no": 8,
+          "kanji": "景気",
+          "hiragana": "けいき",
+          "meaning_burmese": "စီးပွားရေးအခြေအနေ"
+        },
+        {
+          "no": 9,
+          "kanji": "インフレ",
+          "hiragana": "インフレ",
+          "meaning_burmese": "ငွေကြေးဖောင်းပွမှု"
+        },
+        {
+          "no": 10,
+          "kanji": "加速",
+          "hiragana": "かそく",
+          "meaning_burmese": "အရှိန်မြှင့်တင်ခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "上回る",
+          "hiragana": "うわまわる",
+          "meaning_burmese": "ကျော်လွန်သွားသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "予測",
+          "hiragana": "よそく",
+          "meaning_burmese": "ကြိုတင်ခန့်မှန်းခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "見解",
+          "hiragana": "けんかい",
+          "meaning_burmese": "အမြင်သဘောထား"
+        },
+        {
+          "no": 14,
+          "kanji": "増す",
+          "hiragana": "ます",
+          "meaning_burmese": "တိုးပွားလာသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "水準",
+          "hiragana": "すいじゅん",
+          "meaning_burmese": "အဆင့်အတန်း"
+        },
+        {
+          "no": 16,
+          "kanji": "深刻な",
+          "hiragana": "しんこくな",
+          "meaning_burmese": "ပြင်းထန်ဆိုးရွားသော"
+        },
+        {
+          "no": 17,
+          "kanji": "呼びかける",
+          "hiragana": "よびかける",
+          "meaning_burmese": "တိုက်တွန်းနှိုးဆော်သည်"
+        },
+        {
+          "no": 18,
+          "kanji": "世間",
+          "hiragana": "せけん",
+          "meaning_burmese": "လောက၊ လူ့အဖွဲ့အစည်း"
+        },
+        {
+          "no": 19,
+          "kanji": "驚かす",
+          "hiragana": "おどろかす",
+          "meaning_burmese": "အံ့အားသင့်စေသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "ニーズ",
+          "hiragana": "ニーズ",
+          "meaning_burmese": "လိုအပ်ချက်များ (Needs)"
+        },
+        {
+          "no": 21,
+          "kanji": "了承",
+          "hiragana": "りょうしょう",
+          "meaning_burmese": "နားလည်သဘောတူလက်ခံခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "個人情報",
+          "hiragana": "こじんじょうほう",
+          "meaning_burmese": "ကိုယ်ရေးကိုယ်တာအချက်အလက်"
+        },
+        {
+          "no": 23,
+          "kanji": "プライバシー",
+          "hiragana": "プライバシー",
+          "meaning_burmese": "ပုဂ္ဂလိကလွတ်လပ်ခွင့် (Privacy)"
+        },
+        {
+          "no": 24,
+          "kanji": "定着",
+          "hiragana": "ていちゃく",
+          "meaning_burmese": "အမြစ်တွယ်ကျင့်သုံးလာခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "両立",
+          "hiragana": "りょうりつ",
+          "meaning_burmese": "နှစ်ဖက်မျှတအောင်လုပ်ဆောင်နိုင်ခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "システム",
+          "hiragana": "システム",
+          "meaning_burmese": "စနစ် (System)"
+        },
+        {
+          "no": 27,
+          "kanji": "煙",
+          "hiragana": "けむり",
+          "meaning_burmese": "မီးခိုး"
+        },
+        {
+          "no": 28,
+          "kanji": "公",
+          "hiragana": "おおやけ",
+          "meaning_burmese": "အများပြည်သူဆိုင်ရာ"
+        },
+        {
+          "no": 29,
+          "kanji": "マスコミ",
+          "hiragana": "マスコミ",
+          "meaning_burmese": "လူထုဆက်သွယ်ရေးမီဒီယာ"
+        },
+        {
+          "no": 30,
+          "kanji": "メディア",
+          "hiragana": "メディア",
+          "meaning_burmese": "မီဒီယာ"
+        },
+        {
+          "no": 31,
+          "kanji": "取材",
+          "hiragana": "しゅざい",
+          "meaning_burmese": "သတင်းရယူစုဆောင်းခြင်း"
+        },
+        {
+          "no": 32,
+          "kanji": "報道",
+          "hiragana": "ほうどう",
+          "meaning_burmese": "သတင်းထုတ်ပြန်ကြေညာခြင်း"
+        },
+        {
+          "no": 33,
+          "kanji": "中継",
+          "hiragana": "ちゅうけい",
+          "meaning_burmese": "တိုက်ရိုက်ထုတ်လွှင့်ခြင်း"
+        },
+        {
+          "no": 34,
+          "kanji": "訂正",
+          "hiragana": "ていせい",
+          "meaning_burmese": "အမှားပြင်ဆင်ချက်"
+        },
+        {
+          "no": 35,
+          "kanji": "ただちに",
+          "hiragana": "ただちに",
+          "meaning_burmese": "ချက်ချင်းလက်ငင်း"
+        },
+        {
+          "no": 36,
+          "kanji": "コマーシャル",
+          "hiragana": "コマーシャル",
+          "meaning_burmese": "တီဗွီ/ရေဒီယို ကြော်ငြာ"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "世界・環境",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "国旗",
+          "hiragana": "こっき",
+          "meaning_burmese": "နိုင်ငံတော်အလံ"
+        },
+        {
+          "no": 2,
+          "kanji": "様々な",
+          "hiragana": "さまざまな",
+          "meaning_burmese": "အထွေထွေကွဲပြားခြားနားသော"
+        },
+        {
+          "no": 3,
+          "kanji": "国籍",
+          "hiragana": "こくせき",
+          "meaning_burmese": "နိုင်ငံသားဖြစ်ခွင့်၊ နိုင်ငံသားအရည်အချင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "先進国",
+          "hiragana": "せんしんこく",
+          "meaning_burmese": "ဖွံ့ဖြိုးပြီးနိုင်ငံ"
+        },
+        {
+          "no": 5,
+          "kanji": "呼称",
+          "hiragana": "こしょう",
+          "meaning_burmese": "ခေါ်ဝေါ်ပုံအမည်"
+        },
+        {
+          "no": 6,
+          "kanji": "宗教",
+          "hiragana": "しゅうきょう",
+          "meaning_burmese": "ဘာသာရေး"
+        },
+        {
+          "no": 7,
+          "kanji": "異文化",
+          "hiragana": "いぶんか",
+          "meaning_burmese": "ကွဲပြားသောယဉ်ကျေးမှု"
+        },
+        {
+          "no": 8,
+          "kanji": "否定",
+          "hiragana": "ひてい",
+          "meaning_burmese": "ငြင်းပယ်ခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "移民",
+          "hiragana": "いみん",
+          "meaning_burmese": "ရွှေ့ပြောင်းအခြေချသူ"
+        },
+        {
+          "no": 10,
+          "kanji": "見方",
+          "hiragana": "みかた",
+          "meaning_burmese": "ရှုမြင်ပုံ၊ အမြင်"
+        },
+        {
+          "no": 11,
+          "kanji": "権利",
+          "hiragana": "けんり",
+          "meaning_burmese": "ရပိုင်ခွင့်၊ အခွင့်အရေး"
+        },
+        {
+          "no": 12,
+          "kanji": "支援",
+          "hiragana": "しえん",
+          "meaning_burmese": "ကူညီထောက်ပံ့ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "飢える",
+          "hiragana": "うえる",
+          "meaning_burmese": "ဆာလောင်မွတ်သိပ်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "占める",
+          "hiragana": "しめる",
+          "meaning_burmese": "နေရာယူထားသည်၊ ပါဝင်သည်"
+        },
+        {
+          "no": 15,
+          "kanji": "かつて",
+          "hiragana": "かつて",
+          "meaning_burmese": "တစ်ခါတုန်းက၊ ယခင်က"
+        },
+        {
+          "no": 16,
+          "kanji": "主張",
+          "hiragana": "しゅちょう",
+          "meaning_burmese": "ကိုယ့်ရပ်တည်ချက်ကို အခိုင်အမာပြောဆိုခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "交渉",
+          "hiragana": "こうしょう",
+          "meaning_burmese": "ဆွေးနွေးညှိနှိုင်းခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "比較",
+          "hiragana": "ひかく",
+          "meaning_burmese": "နှိုင်းယှဉ်ကြည့်ခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "危機",
+          "hiragana": "きき",
+          "meaning_burmese": "အကျပ်အတည်း"
+        },
+        {
+          "no": 20,
+          "kanji": "テロ",
+          "hiragana": "テロ",
+          "meaning_burmese": "အကြမ်းဖက်မှု"
+        },
+        {
+          "no": 21,
+          "kanji": "悲劇",
+          "hiragana": "ひげき",
+          "meaning_burmese": "ကြေကွဲဖွယ်ရာဇာတ်လမ်း/ဖြစ်ရပ်"
+        },
+        {
+          "no": 22,
+          "kanji": "現に",
+          "hiragana": "げんに",
+          "meaning_burmese": "အမှန်တကယ်လက်တွေ့အားဖြင့်"
+        },
+        {
+          "no": 23,
+          "kanji": "少子化",
+          "hiragana": "しょうしか",
+          "meaning_burmese": "ကလေးမွေးဖွားနှုန်းကျဆင်းခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "主に",
+          "hiragana": "おもに",
+          "meaning_burmese": "အဓိကအားဖြင့်"
+        },
+        {
+          "no": 25,
+          "kanji": "環境",
+          "hiragana": "かんきょう",
+          "meaning_burmese": "ပတ်ဝန်းကျင်"
+        },
+        {
+          "no": 26,
+          "kanji": "温暖化",
+          "hiragana": "おんだんか",
+          "meaning_burmese": "ကမ္ဘာကြီးပူနွေးလာမှု"
+        },
+        {
+          "no": 27,
+          "kanji": "開発",
+          "hiragana": "かいはつ",
+          "meaning_burmese": "ဖော်ထုတ်ဖွံ့ဖြိုးတိုးတက်စေခြင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "調査",
+          "hiragana": "ちょうさ",
+          "meaning_burmese": "စစ်တမ်းကောက်ယူလေ့လာခြင်း"
+        },
+        {
+          "no": 29,
+          "kanji": "エネルギー",
+          "hiragana": "エネルギー",
+          "meaning_burmese": "စွမ်းအင် (Energy)"
+        },
+        {
+          "no": 30,
+          "kanji": "無限",
+          "hiragana": "むげん",
+          "meaning_burmese": "အဆုံးမရှိသော"
+        },
+        {
+          "no": 31,
+          "kanji": "節電",
+          "hiragana": "せつでん",
+          "meaning_burmese": "လျှပ်စစ်မီးချွေတာခြင်း"
+        },
+        {
+          "no": 32,
+          "kanji": "エコ",
+          "hiragana": "エコ",
+          "meaning_burmese": "သဘာဝပတ်ဝန်းကျင်ထိန်းသိမ်းမှု (Eco)"
+        },
+        {
+          "no": 33,
+          "kanji": "省エネ",
+          "hiragana": "しょうエネ",
+          "meaning_burmese": "စွမ်းအင်ချွေတာရေး"
+        },
+        {
+          "no": 34,
+          "kanji": "汚染",
+          "hiragana": "おせん",
+          "meaning_burmese": "ညစ်ညမ်းမှု"
+        },
+        {
+          "no": 35,
+          "kanji": "面積",
+          "hiragana": "めんせき",
+          "meaning_burmese": "ဧရိယာအကျယ်အဝန်း"
+        },
+        {
+          "no": 36,
+          "kanji": "守る",
+          "hiragana": "まもる",
+          "meaning_burmese": "ကာကွယ်စောင့်ရှောက်သည်၊ လိုက်နာသည်"
+        }
+      ]
+    }
+  ]
+}

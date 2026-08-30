@@ -1,0 +1,821 @@
+{
+  "chapter": 5,
+  "sections": [
+    {
+      "section": 1,
+      "title": "学校",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "教わる",
+          "hiragana": "おそわる",
+          "meaning_burmese": "သင်ယူသည်၊ အသင်ပြခံရသည်"
+        },
+        {
+          "no": 2,
+          "kanji": "願書",
+          "hiragana": "がんしょ",
+          "meaning_burmese": "ကျောင်းဝင်ခွင့်လျှောက်လွှာ"
+        },
+        {
+          "no": 3,
+          "kanji": "推薦",
+          "hiragana": "すいせん",
+          "meaning_burmese": "ထောက်ခံချက်ပေးခြင်း၊ ထောက်ခံတင်ပြခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "狙う",
+          "hiragana": "ねらう",
+          "meaning_burmese": "ရည်မှန်းသည်၊ ပစ်မှတ်ထားသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "意志",
+          "hiragana": "いし",
+          "meaning_burmese": "ဆန္ဒ၊ ခိုင်မာသောသန္နိဋ္ဌာန်"
+        },
+        {
+          "no": 6,
+          "kanji": "開始",
+          "hiragana": "かいし",
+          "meaning_burmese": "စတင်ခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "通常",
+          "hiragana": "つうじょう",
+          "meaning_burmese": "ပုံမှန်အားဖြင့်၊ သာမန်အားဖြင့်"
+        },
+        {
+          "no": 8,
+          "kanji": "担任",
+          "hiragana": "たんにん",
+          "meaning_burmese": "အတန်းပိုင်ဆရာ/ဆရာမ"
+        },
+        {
+          "no": 9,
+          "kanji": "受け持つ",
+          "hiragana": "うけもつ",
+          "meaning_burmese": "တာဝန်ယူသင်ကြားသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "委員",
+          "hiragana": "いいん",
+          "meaning_burmese": "ကော်မတီဝင်၊ အတန်းအမှုဆောင်"
+        },
+        {
+          "no": 11,
+          "kanji": "なじむ",
+          "hiragana": "なじむ",
+          "meaning_burmese": "ယဉ်ပါးလာသည်၊ အသားကျလာသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "充実",
+          "hiragana": "じゅうじつ",
+          "meaning_burmese": "ပြည့်စုံအဓိပ္ပာယ်ရှိခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "高等な",
+          "hiragana": "こうとうな",
+          "meaning_burmese": "အဆင့်မြင့်သော"
+        },
+        {
+          "no": 14,
+          "kanji": "ステップ",
+          "hiragana": "ステップ",
+          "meaning_burmese": "ခြေလှမ်း၊ အဆင့်"
+        },
+        {
+          "no": 15,
+          "kanji": "過程",
+          "hiragana": "かてい",
+          "meaning_burmese": "ဖြစ်စဉ်၊ အဆင့်ဆင့်လုပ်ငန်းစဉ်"
+        },
+        {
+          "no": 16,
+          "kanji": "取り上げる",
+          "hiragana": "とりあげる",
+          "meaning_burmese": "ထည့်သွင်းဆွေးနွေးသည်၊ သိမ်းယူသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "欠ける",
+          "hiragana": "かける",
+          "meaning_burmese": "ချို့ယွင်းသည်၊ လိုအပ်သည်၊ ပဲ့သည်"
+        },
+        {
+          "no": 18,
+          "kanji": "優秀な",
+          "hiragana": "ゆうしゅうな",
+          "meaning_burmese": "ထူးချွန်သော၊ ထက်မြက်သော"
+        },
+        {
+          "no": 19,
+          "kanji": "修了",
+          "hiragana": "しゅうりょう",
+          "meaning_burmese": "သင်တန်းပြီးမြောက်ခြင်း"
+        },
+        {
+          "no": 20,
+          "kanji": "ふさわしい",
+          "hiragana": "ふさわしい",
+          "meaning_burmese": "သင့်လျော်သော၊ လိုက်ဖက်သော"
+        },
+        {
+          "no": 21,
+          "kanji": "認識",
+          "hiragana": "にんしき",
+          "meaning_burmese": "အသိအမှတ်ပြုခြင်း၊ သဘောပေါက်နားလည်ခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "語学学校",
+          "hiragana": "ごがくがっこう",
+          "meaning_burmese": "ဘာသာစကားသင်တန်းကျောင်း"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "勉強",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "学ぶ",
+          "hiragana": "まなぶ",
+          "meaning_burmese": "လေ့လာသင်ယူသည်"
+        },
+        {
+          "no": 2,
+          "kanji": "学習",
+          "hiragana": "がくしゅう",
+          "meaning_burmese": "စာပေလေ့လာသင်ယူခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "学力",
+          "hiragana": "がくりょく",
+          "meaning_burmese": "ပညာအရည်အချင်း၊ ပညာသင်ယူနိုင်စွမ်း"
+        },
+        {
+          "no": 4,
+          "kanji": "教養",
+          "hiragana": "きょうよう",
+          "meaning_burmese": "အထွေထွေဗဟုသုတ၊ ယဉ်ကျေးမှုအသိပညာ"
+        },
+        {
+          "no": 5,
+          "kanji": "参考書",
+          "hiragana": "さんこうしょ",
+          "meaning_burmese": "ကိုးကားစာအုပ်၊ လမ်းညွှန်စာအုပ်"
+        },
+        {
+          "no": 6,
+          "kanji": "書き込む",
+          "hiragana": "かきこむ",
+          "meaning_burmese": "ရေးသွင်းသည်၊ မှတ်စုရေးထည့်သည်"
+        },
+        {
+          "no": 7,
+          "kanji": "書き取る",
+          "hiragana": "かきとる",
+          "meaning_burmese": "နားထောင်ပြီးလိုက်ရေးသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "記号",
+          "hiragana": "きごう",
+          "meaning_burmese": "သင်္ကေတ၊ အမှတ်အသား"
+        },
+        {
+          "no": 9,
+          "kanji": "図",
+          "hiragana": "ず",
+          "meaning_burmese": "ပုံပြဇယား၊ ပုံကြမ်း"
+        },
+        {
+          "no": 10,
+          "kanji": "下線",
+          "hiragana": "かせん",
+          "meaning_burmese": "အောက်မျဉ်းတားခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "法則",
+          "hiragana": "ほうそく",
+          "meaning_burmese": "နိယာမ၊ စည်းမျဉ်းဥပဒေသ"
+        },
+        {
+          "no": 12,
+          "kanji": "志す",
+          "hiragana": "こころざす",
+          "meaning_burmese": "ရည်မှန်းချက်ထားသည်၊ ရည်သန်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "徹夜",
+          "hiragana": "てつや",
+          "meaning_burmese": "မိုးလင်းပေါက်စာကျက်ခြင်း၊ တစ်ညလုံးမအိပ်ခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "上達",
+          "hiragana": "じょうたつ",
+          "meaning_burmese": "တိုးတက်ကျွမ်းကျင်လာခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "こつこつ",
+          "hiragana": "こつこつ",
+          "meaning_burmese": "တစိုက်မတ်မတ်၊ ဇွဲရှိရှိ"
+        },
+        {
+          "no": 16,
+          "kanji": "地道な",
+          "hiragana": "じみちな",
+          "meaning_burmese": "မှန်မှန်ကန်ကန်နှင့် တစိုက်မတ်မတ်ရှိသော"
+        },
+        {
+          "no": 17,
+          "kanji": "根気",
+          "hiragana": "こんき",
+          "meaning_burmese": "ဇွဲ၊ လုံ့လဝီရိယ"
+        },
+        {
+          "no": 18,
+          "kanji": "効率的な",
+          "hiragana": "こうりつてきな",
+          "meaning_burmese": "ထိရောက်အကျိုးရှိသော"
+        },
+        {
+          "no": 19,
+          "kanji": "旺盛な",
+          "hiragana": "おうせいな",
+          "meaning_burmese": "အားကောင်းထက်သန်သော"
+        },
+        {
+          "no": 20,
+          "kanji": "基礎",
+          "hiragana": "きそ",
+          "meaning_burmese": "အခြေခံအုတ်မြစ်"
+        },
+        {
+          "no": 21,
+          "kanji": "基本",
+          "hiragana": "きほん",
+          "meaning_burmese": "အခြေခံမူ"
+        },
+        {
+          "no": 22,
+          "kanji": "除く",
+          "hiragana": "のぞく",
+          "meaning_burmese": "ဖယ်ထုတ်သည်၊ ချန်လှပ်သည်"
+        },
+        {
+          "no": 23,
+          "kanji": "現状",
+          "hiragana": "げんじょう",
+          "meaning_burmese": "လက်ရှိအခြေအနေ"
+        },
+        {
+          "no": 24,
+          "kanji": "おろそかな",
+          "hiragana": "おろそかな",
+          "meaning_burmese": "ပေါ့ပေါ့ဆဆလုပ်သော၊ လျစ်လျူရှုသော"
+        },
+        {
+          "no": 25,
+          "kanji": "可能な",
+          "hiragana": "かのうな",
+          "meaning_burmese": "ဖြစ်နိုင်ခြေရှိသော"
+        },
+        {
+          "no": 26,
+          "kanji": "実現",
+          "hiragana": "じつげん",
+          "meaning_burmese": "လက်တွေ့အကောင်အထည်ဖော်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "混同",
+          "hiragana": "こんどう",
+          "meaning_burmese": "ရောထွေးမှားယွင်းခြင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "複数",
+          "hiragana": "ふくすう",
+          "meaning_burmese": "အများကိန်း၊ တစ်ခုထက်ပိုသောအရေအတွက်"
+        },
+        {
+          "no": 29,
+          "kanji": "活用",
+          "hiragana": "かつよう",
+          "meaning_burmese": "အကျိုးရှိရှိအသုံးချခြင်း"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "試験",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "挑戦",
+          "hiragana": "ちょうせん",
+          "meaning_burmese": "စိန်ခေါ်ကြိုးစားခြင်း၊ ယှဉ်ပြိုင်စမ်းသပ်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "範囲",
+          "hiragana": "はんい",
+          "meaning_burmese": "နယ်ပယ်အကျယ်အဝန်း၊ စာမေးပွဲနယ်ပယ်"
+        },
+        {
+          "no": 3,
+          "kanji": "パターン",
+          "hiragana": "パターン",
+          "meaning_burmese": "ပုံစံ၊ ပုံစံခွက်"
+        },
+        {
+          "no": 4,
+          "kanji": "あらゆる",
+          "hiragana": "あらゆる",
+          "meaning_burmese": "ရှိသမျှအားလုံးသော၊ မျိုးစုံသော"
+        },
+        {
+          "no": 5,
+          "kanji": "課題",
+          "hiragana": "かだい",
+          "meaning_burmese": "ပေးထားသောအကြောင်းအရာ၊ ဖြေရှင်းရမည့်ပြဿနာ"
+        },
+        {
+          "no": 6,
+          "kanji": "段落",
+          "hiragana": "だんらく",
+          "meaning_burmese": "စာပိုဒ်"
+        },
+        {
+          "no": 7,
+          "kanji": "箇所",
+          "hiragana": "かしょ",
+          "meaning_burmese": "နေရာ၊ အပိုင်း"
+        },
+        {
+          "no": 8,
+          "kanji": "用紙",
+          "hiragana": "ようし",
+          "meaning_burmese": "ဖောင်စာရွက်၊ စာဖြေလွှာစာရွက်"
+        },
+        {
+          "no": 9,
+          "kanji": "応用",
+          "hiragana": "おうよう",
+          "meaning_burmese": "လက်တွေ့အသုံးချခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "選択",
+          "hiragana": "せんたく",
+          "meaning_burmese": "ရွေးချယ်ခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "当てはまる",
+          "hiragana": "あてはまる",
+          "meaning_burmese": "ကိုက်ညီသည်၊ အံဝင်ခွင်ကျဖြစ်သည်"
+        },
+        {
+          "no": 12,
+          "kanji": "述べる",
+          "hiragana": "のべる",
+          "meaning_burmese": "ဖော်ပြပြောဆိုသည်၊ ရှင်းလင်းတင်ပြသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "言い換える",
+          "hiragana": "いいかえる",
+          "meaning_burmese": "အခြားစကားလုံးဖြင့်အဓိပ္ပာယ်ဖလှယ်ပြောဆိုသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "考え込む",
+          "hiragana": "かんがえこむ",
+          "meaning_burmese": "နက်နက်နဲနဲစဉ်းစားတွေးတောနေသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "限る",
+          "hiragana": "かぎる",
+          "meaning_burmese": "ကန့်သတ်ထားသည်၊ အကောင်းဆုံးဖြစ်သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "紛らわしい",
+          "hiragana": "まぎらわしい",
+          "meaning_burmese": "ရှုပ်ထွေးထင်ယောင်ထင်မှားဖြစ်စေသော"
+        },
+        {
+          "no": 17,
+          "kanji": "さっぱり",
+          "hiragana": "さっぱり",
+          "meaning_burmese": "လုံးဝ (နားမလည်ခြင်း)"
+        },
+        {
+          "no": 18,
+          "kanji": "勘",
+          "hiragana": "かん",
+          "meaning_burmese": "စိတ်၏ထိုးထွင်းသိမြင်မှု၊ အာရုံခံစားမှု"
+        },
+        {
+          "no": 19,
+          "kanji": "本番",
+          "hiragana": "ほんばん",
+          "meaning_burmese": "အစစ်အမှန်စာမေးပွဲကျင်းပသည့်ရက်"
+        },
+        {
+          "no": 20,
+          "kanji": "迫る",
+          "hiragana": "せまる",
+          "meaning_burmese": "နီးကပ်လာသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "必死な",
+          "hiragana": "ひっしな",
+          "meaning_burmese": "အသည်းအသန်၊ အစွမ်းကုန်ကြိုးစားသော"
+        },
+        {
+          "no": 22,
+          "kanji": "いっせいに",
+          "hiragana": "いっせいに",
+          "meaning_burmese": "တစ်ပြိုင်နက်တည်း"
+        },
+        {
+          "no": 23,
+          "kanji": "終了",
+          "hiragana": "しゅうりょう",
+          "meaning_burmese": "ပြီးဆုံးခြင်း၊ အဆုံးသတ်ခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "回収",
+          "hiragana": "かいしゅう",
+          "meaning_burmese": "ပြန်လည်သိမ်းဆည်းခြင်း၊ စုဆောင်းသိမ်းယူခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "採点",
+          "hiragana": "さいてん",
+          "meaning_burmese": "အမှတ်ပေးခြင်း၊ အမှတ်ခြစ်ခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "確実な",
+          "hiragana": "かくじつな",
+          "meaning_burmese": "သေချာသော၊ စိတ်ချရသော"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "大学・大学院",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "受講",
+          "hiragana": "じゅこう",
+          "meaning_burmese": "ပို့ချချက်/သင်ခန်းစာတက်ရောက်နားထောင်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "書き留める",
+          "hiragana": "かきとめる",
+          "meaning_burmese": "မှတ်စုရေးသားမှတ်သားသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "目標",
+          "hiragana": "もくひょう",
+          "meaning_burmese": "ရည်မှန်းချက်၊ ပန်းတိုင်"
+        },
+        {
+          "no": 4,
+          "kanji": "心構え",
+          "hiragana": "こころがまえ",
+          "meaning_burmese": "စိတ်ပိုင်းဆိုင်ရာ ကြိုတင်ပြင်ဆင်မှု"
+        },
+        {
+          "no": 5,
+          "kanji": "学問",
+          "hiragana": "がくもん",
+          "meaning_burmese": "ပညာရပ်၊ ပညာဗဟုသုတ"
+        },
+        {
+          "no": 6,
+          "kanji": "分野",
+          "hiragana": "ぶんや",
+          "meaning_burmese": "နယ်ပယ်၊ ကဏ္ဍ"
+        },
+        {
+          "no": 7,
+          "kanji": "取り組む",
+          "hiragana": "とりくむ",
+          "meaning_burmese": "အာရုံစိုက်လုပ်ဆောင်သည်၊ ကြိုးပမ်းဆောင်ရွက်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "意欲",
+          "hiragana": "いよく",
+          "meaning_burmese": "စိတ်အားထက်သန်မှု၊ ဆန္ဒ"
+        },
+        {
+          "no": 9,
+          "kanji": "思いつく",
+          "hiragana": "おもいつく",
+          "meaning_burmese": "စိတ်ကူးရသည်၊ သတိရပေါ်လာသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "発明",
+          "hiragana": "はつめい",
+          "meaning_burmese": "တီထွင်ဖန်တီးခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "分析",
+          "hiragana": "ぶんせき",
+          "meaning_burmese": "ခွဲခြမ်းစိတ်ဖြာသုံးသပ်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "継続",
+          "hiragana": "けいぞく",
+          "meaning_burmese": "ဆက်လက်လုပ်ဆောင်ခြင်း၊ ဆက်လက်တည်မြဲခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "ほんの",
+          "hiragana": "ほんの",
+          "meaning_burmese": "အနည်းငယ်မျှသာ၊ မပြောပလောက်သော"
+        },
+        {
+          "no": 14,
+          "kanji": "受け入れる",
+          "hiragana": "うけいれる",
+          "meaning_burmese": "လက်ခံသည်၊ ကြိုဆိုလက်ခံသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "キャンパス",
+          "hiragana": "キャンパス",
+          "meaning_burmese": "တက္ကသိုလ်ကျောင်းဝင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "休講",
+          "hiragana": "きゅうこう",
+          "meaning_burmese": "စာသင်ချိန်/ပို့ချချက် ယာယီပိတ်သိမ်းခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "講師",
+          "hiragana": "こうし",
+          "meaning_burmese": "ကထိက၊ သင်ကြားရေးဆရာ"
+        },
+        {
+          "no": 18,
+          "kanji": "学会",
+          "hiragana": "がっかい",
+          "meaning_burmese": "ပညာရပ်ဆိုင်ရာအသင်းအဖွဲ့၊ ညီလာခံ"
+        },
+        {
+          "no": 19,
+          "kanji": "わずか",
+          "hiragana": "わずか",
+          "meaning_burmese": "အနည်းငယ်မျှ၊ အနည်းအကျဉ်း"
+        },
+        {
+          "no": 20,
+          "kanji": "論理的な",
+          "hiragana": "ろんりてきな",
+          "meaning_burmese": "ယုတ္တိကျသော၊ ကျိုးကြောင်းဆီလျော်သော"
+        },
+        {
+          "no": 21,
+          "kanji": "論じる",
+          "hiragana": "ろんじる",
+          "meaning_burmese": "ဆွေးနွေးတင်ပြသည်၊ ငြင်းခုံဆွေးနွေးသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "引用",
+          "hiragana": "いんよう",
+          "meaning_burmese": "ကိုးကားဖော်ပြခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "訳す",
+          "hiragana": "やくす",
+          "meaning_burmese": "ဘာသာပြန်ဆိုသည်"
+        },
+        {
+          "no": 24,
+          "kanji": "編集",
+          "hiragana": "へんしゅう",
+          "meaning_burmese": "တည်းဖြတ်ခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "要旨",
+          "hiragana": "ようし",
+          "meaning_burmese": "အနှစ်ချုပ်၊ အဓိကအချက်အလက်"
+        },
+        {
+          "no": 26,
+          "kanji": "明確な",
+          "hiragana": "めいかくな",
+          "meaning_burmese": "ရှင်းလင်းတိကျသော"
+        },
+        {
+          "no": 27,
+          "kanji": "挙げる",
+          "hiragana": "あげる",
+          "meaning_burmese": "(ဥပမာ) ထုတ်ဖော်ပြသသည်၊ တင်ပြသည်"
+        },
+        {
+          "no": 28,
+          "kanji": "用いる",
+          "hiragana": "もちいる",
+          "meaning_burmese": "အသုံးပြုသည်"
+        },
+        {
+          "no": 29,
+          "kanji": "手書き",
+          "hiragana": "てがき",
+          "meaning_burmese": "လက်ရေးဖြင့်ရေးသားခြင်း"
+        },
+        {
+          "no": 30,
+          "kanji": "一気に",
+          "hiragana": "いっきに",
+          "meaning_burmese": "တစ်မုဟုတ်ချင်း၊ တစ်ထိုင်တည်း"
+        },
+        {
+          "no": 31,
+          "kanji": "完成",
+          "hiragana": "かんせい",
+          "meaning_burmese": "ပြီးစီးအောင်မြင်ခြင်း"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "パソコン(スマホ)",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "起動",
+          "hiragana": "きどう",
+          "meaning_burmese": "စက်စတင်လည်ပတ်ခြင်း၊ ဖွင့်လှစ်ခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "本体",
+          "hiragana": "ほんたい",
+          "meaning_burmese": "စက်ကိုယ်ထည်"
+        },
+        {
+          "no": 3,
+          "kanji": "キーボード",
+          "hiragana": "キーボード",
+          "meaning_burmese": "ကီးဘုတ်"
+        },
+        {
+          "no": 4,
+          "kanji": "ディスプレイ",
+          "hiragana": "ディスプレイ",
+          "meaning_burmese": "စခရင်မော်နီတာ"
+        },
+        {
+          "no": 5,
+          "kanji": "接続",
+          "hiragana": "せつぞく",
+          "meaning_burmese": "ချိတ်ဆက်ခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "検索",
+          "hiragana": "けんさく",
+          "meaning_burmese": "ရှာဖွေခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "転送",
+          "hiragana": "てんそう",
+          "meaning_burmese": "လွှဲပြောင်းပေးပို့ခြင်း (Forward)"
+        },
+        {
+          "no": 8,
+          "kanji": "文書",
+          "hiragana": "ぶんしょ",
+          "meaning_burmese": "စာရွက်စာတမ်း၊ စာတမ်း"
+        },
+        {
+          "no": 9,
+          "kanji": "設定",
+          "hiragana": "せってい",
+          "meaning_burmese": "သတ်မှတ်ချိန်ညှိခြင်း (Settings)"
+        },
+        {
+          "no": 10,
+          "kanji": "余白",
+          "hiragana": "よはく",
+          "meaning_burmese": "ဘေးဘောင်နေရာလွတ် (Margin)"
+        },
+        {
+          "no": 11,
+          "kanji": "フォント",
+          "hiragana": "フォント",
+          "meaning_burmese": "ဖောင့်၊ စာလုံးပုံစံ"
+        },
+        {
+          "no": 12,
+          "kanji": "カーソル",
+          "hiragana": "カーソル",
+          "meaning_burmese": "ကာဆာ (Cursor)"
+        },
+        {
+          "no": 13,
+          "kanji": "改行",
+          "hiragana": "かいぎょう",
+          "meaning_burmese": "စာကြောင်းအသစ်ဆင်းခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "区切る",
+          "hiragana": "くぎる",
+          "meaning_burmese": "အပိုင်းခွဲခြားသည်၊ စည်းခြားသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "貼り付ける",
+          "hiragana": "はりつける",
+          "meaning_burmese": "ကူးယူကပ်သည် (Paste)"
+        },
+        {
+          "no": 16,
+          "kanji": "強調",
+          "hiragana": "きょうちょう",
+          "meaning_burmese": "အလေးပေးဖော်ပြခြင်း၊ စာလုံးမည်းပြုလုပ်ခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "拡大",
+          "hiragana": "かくだい",
+          "meaning_burmese": "ချဲ့ထွင်ခြင်း၊ ကြီးမားအောင်ပြုလုပ်ခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "消去",
+          "hiragana": "しょうきょ",
+          "meaning_burmese": "ဖျက်ပစ်ခြင်း (Delete)"
+        },
+        {
+          "no": 19,
+          "kanji": "上書き保存",
+          "hiragana": "うわがきほぞん",
+          "meaning_burmese": "အပေါ်မှထပ်မံသိမ်းဆည်းခြင်း (Overwrite Save)"
+        },
+        {
+          "no": 20,
+          "kanji": "順序",
+          "hiragana": "じゅんじょ",
+          "meaning_burmese": "အစီအစဉ်၊ အစဉ်လိုက်"
+        },
+        {
+          "no": 21,
+          "kanji": "印刷",
+          "hiragana": "いんさつ",
+          "meaning_burmese": "ပုံနှိပ်ထုတ်ဝေခြင်း၊ ပရင့်ထုတ်ခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "プリンター",
+          "hiragana": "プリンター",
+          "meaning_burmese": "ပရင်တာ"
+        },
+        {
+          "no": 23,
+          "kanji": "インク",
+          "hiragana": "インク",
+          "meaning_burmese": "မင်ရည်"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "chapter": 8,
+  "sections": [
+    {
+      "section": 1,
+      "title": "気候と天気",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "気候",
+          "hiragana": "きこう",
+          "meaning_burmese": "ရာသီဥတု"
+        },
+        {
+          "no": 2,
+          "kanji": "シーズン",
+          "hiragana": "シーズン",
+          "meaning_burmese": "ရာသီ၊ အခါကာလ"
+        },
+        {
+          "no": 3,
+          "kanji": "四季",
+          "hiragana": "しき",
+          "meaning_burmese": "ဥတုလေးပါး (နွေ၊ မိုး၊ ဆောင်း၊ နွေဦး)"
+        },
+        {
+          "no": 4,
+          "kanji": "ふくらむ",
+          "hiragana": "ふくらむ",
+          "meaning_burmese": "ဖူးပွင့်ဖောင်းကြွလာသည်၊ ကြီးမားလာသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "梅雨",
+          "hiragana": "つゆ",
+          "meaning_burmese": "မိုးရာသီ၊ မိုးဦးကာလ"
+        },
+        {
+          "no": 6,
+          "kanji": "初夏",
+          "hiragana": "しょか",
+          "meaning_burmese": "နွေဦးအစပိုင်း၊ နွေဦးရာသီ"
+        },
+        {
+          "no": 7,
+          "kanji": "温帯",
+          "hiragana": "おんたい",
+          "meaning_burmese": "သမပိုင်းဇုန်"
+        },
+        {
+          "no": 8,
+          "kanji": "属する",
+          "hiragana": "ぞくする",
+          "meaning_burmese": "ပါဝင်သည်၊ အကျုံးဝင်သည်"
+        },
+        {
+          "no": 9,
+          "kanji": "確率",
+          "hiragana": "かくりつ",
+          "meaning_burmese": "ဖြစ်နိုင်ခြေရာခိုင်နှုန်း၊ ဖြစ်တန်စွမ်း"
+        },
+        {
+          "no": 10,
+          "kanji": "夕立",
+          "hiragana": "ゆうだち",
+          "meaning_burmese": "ညနေခင်းမိုးသက်မုန်တိုင်း၊ ရုတ်တရက်ရွာသောမိုး"
+        },
+        {
+          "no": 11,
+          "kanji": "にわかな",
+          "hiragana": "にわかな",
+          "meaning_burmese": "ရုတ်တရက်ဖြစ်သော"
+        },
+        {
+          "no": 12,
+          "kanji": "覆う",
+          "hiragana": "おおう",
+          "meaning_burmese": "ဖုံးအုပ်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "びしょびしょな",
+          "hiragana": "びしょびしょな",
+          "meaning_burmese": "ရွှဲရွှဲစိုသော"
+        },
+        {
+          "no": 14,
+          "kanji": "あいにくな",
+          "hiragana": "あいにくな",
+          "meaning_burmese": "ကံမကောင်းအကြောင်းမလှစွာသော"
+        },
+        {
+          "no": 15,
+          "kanji": "吹雪",
+          "hiragana": "ふぶき",
+          "meaning_burmese": "နှင်းမုန်တိုင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "凍える",
+          "hiragana": "こごえる",
+          "meaning_burmese": "အေးခဲသည်၊ အလွန်အေး၍တောင့်တင်းသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "冷え込む",
+          "hiragana": "ひえこむ",
+          "meaning_burmese": "အလွန်အေးစက်လာသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "陽気",
+          "hiragana": "ようき",
+          "meaning_burmese": "ရာသီဥတု၊ ပျော်ပျော်နေတတ်သောစိတ်နေသဘောထား"
+        },
+        {
+          "no": 19,
+          "kanji": "日和",
+          "hiragana": "ひより",
+          "meaning_burmese": "သာယာသောရာသီဥတု၊ သင့်လျော်သောနေ့"
+        },
+        {
+          "no": 20,
+          "kanji": "日差し",
+          "hiragana": "ひざし",
+          "meaning_burmese": "နေရောင်ခြည်၊ နေရောင်အလင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "いっそう",
+          "hiragana": "いっそう",
+          "meaning_burmese": "ပိုမို၍၊ တစ်ဆင့်တက်၍"
+        },
+        {
+          "no": 22,
+          "kanji": "一段と",
+          "hiragana": "いちだんと",
+          "meaning_burmese": "သိသာစွာပို၍၊ တစ်ဆင့်ထက်တစ်ဆင့်"
+        },
+        {
+          "no": 23,
+          "kanji": "急速な",
+          "hiragana": "きゅうそくな",
+          "meaning_burmese": "လျင်မြန်ဆောလျင်သော"
+        },
+        {
+          "no": 24,
+          "kanji": "ぐんぐん",
+          "hiragana": "ぐんぐん",
+          "meaning_burmese": "တရှိန်ထိုး၊ အရှိန်အဟုန်ဖြင့်"
+        },
+        {
+          "no": 25,
+          "kanji": "いくぶん",
+          "hiragana": "いくぶん",
+          "meaning_burmese": "အနည်းငယ်၊ အတိုင်းအတာတစ်ခုအထိ"
+        },
+        {
+          "no": 26,
+          "kanji": "めっきり",
+          "hiragana": "めっきり",
+          "meaning_burmese": "သိသိသာသာ၊ သိသာထင်ရှားစွာ"
+        },
+        {
+          "no": 27,
+          "kanji": "あまりにも",
+          "hiragana": "あまりにも",
+          "meaning_burmese": "လွန်လွန်းစွာ၊ အတိုင်းထက်အလွန်"
+        },
+        {
+          "no": 28,
+          "kanji": "差",
+          "hiragana": "さ",
+          "meaning_burmese": "ကွာခြားချက်၊ ခြားနားမှု"
+        },
+        {
+          "no": 29,
+          "kanji": "本来",
+          "hiragana": "ほんらい",
+          "meaning_burmese": "မူလကတည်းက၊ အမှန်စင်စစ်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "台風・地震",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "接近",
+          "hiragana": "せっきん",
+          "meaning_burmese": "နီးကပ်လာခြင်း၊ ချဉ်းကပ်လာခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "備える",
+          "hiragana": "そなえる",
+          "meaning_burmese": "ကြိုတင်ပြင်ဆင်ထားသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "砂",
+          "hiragana": "すな",
+          "meaning_burmese": "သဲ"
+        },
+        {
+          "no": 4,
+          "kanji": "あふれる",
+          "hiragana": "あふれる",
+          "meaning_burmese": "လျှံကျသည်၊ ပြည့်လျှံသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "降水量",
+          "hiragana": "こうすいりょう",
+          "meaning_burmese": "မိုးရေချိန်ပမာဏ"
+        },
+        {
+          "no": 6,
+          "kanji": "観測",
+          "hiragana": "かんそく",
+          "meaning_burmese": "လေ့လာတိုင်းတာခြင်း၊ စောင့်ကြည့်စစ်ဆေးခြင်း"
+        },
+        {
+          "no": 7,
+          "kanji": "大気",
+          "hiragana": "たいき",
+          "meaning_burmese": "လေထု"
+        },
+        {
+          "no": 8,
+          "kanji": "荒れる",
+          "hiragana": "あれる",
+          "meaning_burmese": "ပင်လယ်လှိုင်းထန်သည်၊ ကြမ်းတမ်းသည်"
+        },
+        {
+          "no": 9,
+          "kanji": "傾く",
+          "hiragana": "かproperty/かたむく",
+          "meaning_burmese": "စောင်းသွားသည်၊ ယိုင်နဲ့သွားသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "またぐ",
+          "hiragana": "またぐ",
+          "meaning_burmese": "ကျော်ခွသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "応答",
+          "hiragana": "おうとう",
+          "meaning_burmese": "တုံ့ပြန်ထူးသံ၊ ပြန်လည်ဖြေကြားခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "静まる",
+          "hiragana": "しずまる",
+          "meaning_burmese": "ငြိမ်သက်သွားသည်၊ အရှိန်လျော့သွားသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "もたらす",
+          "hiragana": "もたらす",
+          "meaning_burmese": "ယူဆောင်လာသည်၊ ဖြစ်ပေါ်စေသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "及ぼす",
+          "hiragana": "およぼす",
+          "meaning_burmese": "သက်ရောက်စေသည်၊ ထိခိုက်စေသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "及ぶ",
+          "hiragana": "およぶ",
+          "meaning_burmese": "အထိရောက်ရှိသည်၊ ရောက်ရှိပျံ့နှံ့သွားသည်"
+        },
+        {
+          "no": 16,
+          "kanji": "去る",
+          "hiragana": "さる",
+          "meaning_burmese": "ထွက်ခွာသွားသည်၊ ပြီးဆုံးသွားသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "ひとまず",
+          "hiragana": "ひとまず",
+          "meaning_burmese": "လောလောဆယ်အားဖြင့်၊ လတ်တလော"
+        },
+        {
+          "no": 18,
+          "kanji": "直後",
+          "hiragana": "ちょくご",
+          "meaning_burmese": "ပြီးပြီးချင်း၊ ဖြစ်ပွားပြီးနောက်ချက်ချင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "行動",
+          "hiragana": "こうどう",
+          "meaning_burmese": "လှုပ်ရှားဆောင်ရွက်မှု၊ အပြုအမူ"
+        },
+        {
+          "no": 20,
+          "kanji": "万一",
+          "hiragana": "まんいち",
+          "meaning_burmese": "မတော်တဆ၊ အကယ်၍များ"
+        },
+        {
+          "no": 21,
+          "kanji": "傾向",
+          "hiragana": "けいこう",
+          "meaning_burmese": "ဦးတည်ချက်၊ အလားအလာ"
+        },
+        {
+          "no": 22,
+          "kanji": "達する",
+          "hiragana": "たっする",
+          "meaning_burmese": "ရောက်ရှိသည်၊ ထိရောက်သည်"
+        },
+        {
+          "no": 23,
+          "kanji": "災害",
+          "hiragana": "さいがい",
+          "meaning_burmese": "သဘာဝဘေးအန္တရာယ်"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "自然",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "大地",
+          "hiragana": "だいち",
+          "meaning_burmese": "မြေပြင်ကျယ်၊ မဟာပထဝီမြေ"
+        },
+        {
+          "no": 2,
+          "kanji": "広大な",
+          "hiragana": "こうだいな",
+          "meaning_burmese": "ကျယ်ပြောလှသော"
+        },
+        {
+          "no": 3,
+          "kanji": "砂漠",
+          "hiragana": "さばく",
+          "meaning_burmese": "သဲကန္တာရ"
+        },
+        {
+          "no": 4,
+          "kanji": "谷",
+          "hiragana": "たに",
+          "meaning_burmese": "ချိုင့်ဝှမ်း၊ တောင်ကြား"
+        },
+        {
+          "no": 5,
+          "kanji": "滝",
+          "hiragana": "たき",
+          "meaning_burmese": "ရေတံခွန်"
+        },
+        {
+          "no": 6,
+          "kanji": "岸",
+          "hiragana": "きし",
+          "meaning_burmese": "ကမ်းခြေ၊ မြစ်ကမ်း"
+        },
+        {
+          "no": 7,
+          "kanji": "海辺",
+          "hiragana": "うみべ",
+          "meaning_burmese": "ပင်လယ်ကမ်းစပ်"
+        },
+        {
+          "no": 8,
+          "kanji": "透明な",
+          "hiragana": "とうめいな",
+          "meaning_burmese": "ကြည်လင်သော၊ ဖောက်ထွင်းမြင်နိုင်သော"
+        },
+        {
+          "no": 9,
+          "kanji": "底",
+          "hiragana": "そこ",
+          "meaning_burmese": "အောက်ခြေ၊ ကြမ်းပြင်"
+        },
+        {
+          "no": 10,
+          "kanji": "生き物",
+          "hiragana": "いきもの",
+          "meaning_burmese": "သက်ရှိသတ္တဝါ"
+        },
+        {
+          "no": 11,
+          "kanji": "生物",
+          "hiragana": "せいぶつ",
+          "meaning_burmese": "ဇီဝသက်ရှိ"
+        },
+        {
+          "no": 12,
+          "kanji": "植物",
+          "hiragana": "しょくぶつ",
+          "meaning_burmese": "အပင်၊ သစ်ပင်ပန်းမန်"
+        },
+        {
+          "no": 13,
+          "kanji": "芽",
+          "hiragana": "め",
+          "meaning_burmese": "အညှောက်၊ အဖူးအပွင့်"
+        },
+        {
+          "no": 14,
+          "kanji": "人間",
+          "hiragana": "にんげん",
+          "meaning_burmese": "လူသား"
+        },
+        {
+          "no": 15,
+          "kanji": "天然",
+          "hiragana": "てんねん",
+          "meaning_burmese": "သဘာဝအတိုင်းဖြစ်သော"
+        },
+        {
+          "no": 16,
+          "kanji": "日光",
+          "hiragana": "にっこう",
+          "meaning_burmese": "နေရောင်ခြည်"
+        },
+        {
+          "no": 17,
+          "kanji": "昇る",
+          "hiragana": "のぼる",
+          "meaning_burmese": "တက်လာသည်၊ (နေ) ထွက်ပေါ်လာသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "日陰",
+          "hiragana": "ひかげ",
+          "meaning_burmese": "အရိပ်၊ နေရိပ်"
+        },
+        {
+          "no": 19,
+          "kanji": "夕焼け",
+          "hiragana": "ゆうやけ",
+          "meaning_burmese": "ဆည်းဆာရောင်၊ ညနေဆည်းဆာအလှ"
+        },
+        {
+          "no": 20,
+          "kanji": "飛び回る",
+          "hiragana": "とびまわる",
+          "meaning_burmese": "ပျံဝဲသည်၊ လူးလာပျံသန်းသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "鳴く",
+          "hiragana": "なく",
+          "meaning_burmese": "(ငှက်/တိရစ္ဆာန်) အော်မြည်သည်၊ တွန်ကျူးသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "しいんと",
+          "hiragana": "しいんと",
+          "meaning_burmese": "တိတ်ဆိတ်ငြိမ်သက်စွာ"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "休日",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "休息",
+          "hiragana": "きゅうそく",
+          "meaning_burmese": "အနားယူအပန်းဖြေခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "ゆっくり",
+          "hiragana": "ゆっくり",
+          "meaning_burmese": "အေးအေးဆေးဆေး၊ ဖြည်းဖြည်းချင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "ごろごろ",
+          "hiragana": "ごろごろ",
+          "meaning_burmese": "အိမ်မှာအေးအေးလူလူလှိမ့်နေခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "だらだら",
+          "hiragana": "だらだら",
+          "meaning_burmese": "ပျင်းရိလေးကန်စွာ၊ ပေါ့ပေါ့ဆဆ"
+        },
+        {
+          "no": 5,
+          "kanji": "のびのび",
+          "hiragana": "のびのび",
+          "meaning_burmese": "လွတ်လပ်ပေါ့ပါးစွာ"
+        },
+        {
+          "no": 6,
+          "kanji": "くつろぐ",
+          "hiragana": "くつろぐ",
+          "meaning_burmese": "စိတ်လက်အေးချမ်းစွာအနားယူသည်"
+        },
+        {
+          "no": 7,
+          "kanji": "こもる",
+          "hiragana": "こもる",
+          "meaning_burmese": "အောင်းနေသည်၊ အပြင်မထွက်ဘဲနေသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "ぐうぐう",
+          "hiragana": "ぐうぐう",
+          "meaning_burmese": "ဟောက်သံပေးကာအိပ်ပျော်နေခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "どっと",
+          "hiragana": "どっと",
+          "meaning_burmese": "တစ်ပြိုင်နက်တည်း၊ ရုတ်တရက်ပြိုဆင်းလာခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "切り替える",
+          "hiragana": "きりかえる",
+          "meaning_burmese": "စိတ်ပြောင်းလဲသည်၊ လဲလှယ်သည်"
+        },
+        {
+          "no": 11,
+          "kanji": "あれこれ",
+          "hiragana": "あれこれ",
+          "meaning_burmese": "ဟိုဟိုဒီဒီ၊ အမျိုးမျိုး"
+        },
+        {
+          "no": 12,
+          "kanji": "芝生",
+          "hiragana": "しばふ",
+          "meaning_burmese": "မြက်ခင်းပြင်"
+        },
+        {
+          "no": 13,
+          "kanji": "転がる",
+          "hiragana": "ころがる",
+          "meaning_burmese": "လိမ့်သွားသည်၊ လှဲလျောင်းသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "うなる",
+          "hiragana": "うなる",
+          "meaning_burmese": "ညည်းတွားသည်၊ ဟိန်းဟောက်သည်"
+        },
+        {
+          "no": 15,
+          "kanji": "ボート",
+          "hiragana": "ボート",
+          "meaning_burmese": "လှေ"
+        },
+        {
+          "no": 16,
+          "kanji": "こぐ",
+          "hiragana": "こぐ",
+          "meaning_burmese": "လှေလှော်သည်၊ စက်ဘီးနင်းသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "展覧会",
+          "hiragana": "てんらんかい",
+          "meaning_burmese": "ပြပွဲ"
+        },
+        {
+          "no": 18,
+          "kanji": "ばったり",
+          "hiragana": "ばったり",
+          "meaning_burmese": "မတော်တဆတွေ့ဆုံခြင်း၊ ရုတ်တရက်လဲကျခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "はらはら",
+          "hiragana": "はらはら",
+          "meaning_burmese": "ရင်တထိတ်ထိတ်ဖြစ်ရခြင်း"
+        },
+        {
+          "no": 20,
+          "kanji": "墓",
+          "hiragana": "はか",
+          "meaning_burmese": "သင်္ချိုင်းဂူ"
+        },
+        {
+          "no": 21,
+          "kanji": "突っ込む",
+          "hiragana": "つっこむ",
+          "meaning_burmese": "ထိုးထည့်သည်၊ ထိုးစိုက်ဝင်သည်"
+        },
+        {
+          "no": 22,
+          "kanji": "見渡す",
+          "hiragana": "みわたす",
+          "meaning_burmese": "လှမ်းမျှော်ကြည့်ရှုသည်"
+        },
+        {
+          "no": 23,
+          "kanji": "眺める",
+          "hiragana": "ながめる",
+          "meaning_burmese": "ငေးမောကြည့်ရှုသည်၊ ကြည့်ရှုခံစားသည်"
+        },
+        {
+          "no": 24,
+          "kanji": "眺め",
+          "hiragana": "ながめ",
+          "meaning_burmese": "ရှုခင်း၊ မြင်ကွင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "かすかな",
+          "hiragana": "かすかな",
+          "meaning_burmese": "ရေးရေးလေး၊ မထင်မရှားဖြစ်သော"
+        },
+        {
+          "no": 26,
+          "kanji": "おぶう",
+          "hiragana": "おぶう",
+          "meaning_burmese": "ကျောပိုးသည်"
+        },
+        {
+          "no": 27,
+          "kanji": "最適な",
+          "hiragana": "さいてきな",
+          "meaning_burmese": "အသင့်တော်ဆုံးဖြစ်သော"
+        },
+        {
+          "no": 28,
+          "kanji": "余裕",
+          "hiragana": "よゆう",
+          "meaning_burmese": "အချိန်/ငွေ ပိုလျှံမှု၊ စိတ်အေးလက်အေးရှိမှု"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "旅行",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "旅",
+          "hiragana": "たび",
+          "meaning_burmese": "ခရီးသွားခြင်း၊ ခရီးစဉ်"
+        },
+        {
+          "no": 2,
+          "kanji": "レジャー",
+          "hiragana": "レジャー",
+          "meaning_burmese": "အပန်းဖြေလှုပ်ရှားမှု"
+        },
+        {
+          "no": 3,
+          "kanji": "訪れる",
+          "hiragana": "おとずれる",
+          "meaning_burmese": "လည်ပတ်သည်၊ ဆိုက်ရောက်လာသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "体験",
+          "hiragana": "たいけん",
+          "meaning_burmese": "ကိုယ်တိုင်ကြုံတွေ့ခံစားမှု၊ အတွေ့အကြုံ"
+        },
+        {
+          "no": 5,
+          "kanji": "冒険",
+          "hiragana": "ぼうけん",
+          "meaning_burmese": "စွန့်စားခန်း"
+        },
+        {
+          "no": 6,
+          "kanji": "見聞き",
+          "hiragana": "みきき",
+          "meaning_burmese": "မြင်တွေ့ကြားသိရမှု"
+        },
+        {
+          "no": 7,
+          "kanji": "巡る",
+          "hiragana": "めぐる",
+          "meaning_burmese": "လှည့်လည်သွားလာသည်၊ ပတ်သက်၍ဖြစ်ပွားသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "プラン",
+          "hiragana": "プラン",
+          "meaning_burmese": "အစီအစဉ်၊ စီမံကိန်း"
+        },
+        {
+          "no": 9,
+          "kanji": "思い立つ",
+          "hiragana": "おもいたつ",
+          "meaning_burmese": "ရုတ်တရက်စိတ်ကူးရသည်၊ ဆုံးဖြတ်ချက်ချသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "豪華な",
+          "hiragana": "ごうかな",
+          "meaning_burmese": "ခမ်းနားထည်ဝါသော"
+        },
+        {
+          "no": 11,
+          "kanji": "手配",
+          "hiragana": "てはい",
+          "meaning_burmese": "ကြိုတင်စီစဉ်ဆောင်ရွက်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "前もって",
+          "hiragana": "まえもって",
+          "meaning_burmese": "ကြိုတင်၍"
+        },
+        {
+          "no": 13,
+          "kanji": "便",
+          "hiragana": "びん",
+          "meaning_burmese": "လေယာဉ်/ရထား ခရီးစဉ်အမှတ်"
+        },
+        {
+          "no": 14,
+          "kanji": "空席",
+          "hiragana": "くうせき",
+          "meaning_burmese": "နေရာလွတ်၊ ထိုင်ခုံလွတ်"
+        },
+        {
+          "no": 15,
+          "kanji": "超過",
+          "hiragana": "ちょうか",
+          "meaning_burmese": "ကျော်လွန်ခြင်း၊ ကန့်သတ်ချက်ထက်ပိုခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "飛ぶ",
+          "hiragana": "とぶ",
+          "meaning_burmese": "ပျံသန်းသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "思いがけず",
+          "hiragana": "おもいがけず",
+          "meaning_burmese": "မထင်မှတ်ဘဲ၊ မမျှော်လင့်ဘဲ"
+        },
+        {
+          "no": 18,
+          "kanji": "引き返す",
+          "hiragana": "ひきかえす",
+          "meaning_burmese": "နောက်ကြောင်းပြန်လှည့်သည်"
+        },
+        {
+          "no": 19,
+          "kanji": "間もなく",
+          "hiragana": "まもなく",
+          "meaning_burmese": "မကြာမီ၊ မရှေးမနှောင်းတွင်"
+        },
+        {
+          "no": 20,
+          "kanji": "宿泊",
+          "hiragana": "しゅくはく",
+          "meaning_burmese": "တည်းခိုနေထိုင်ခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "大幅な",
+          "hiragana": "おおはばな",
+          "meaning_burmese": "သိသိသာသာကြီးမားသော၊ ကျယ်ပြန့်သော"
+        },
+        {
+          "no": 22,
+          "kanji": "旅先",
+          "hiragana": "たびさき",
+          "meaning_burmese": "ခရီးရောက်ရှိရာနေရာ"
+        },
+        {
+          "no": 23,
+          "kanji": "各地",
+          "hiragana": "かくち",
+          "meaning_burmese": "အရပ်ရပ်၊ နေရာဒေသအသီးသီး"
+        },
+        {
+          "no": 24,
+          "kanji": "名所",
+          "hiragana": "めいしょ",
+          "meaning_burmese": "အထင်ကရနေရာ၊ နာမည်ကျော်ရှုခင်းနေရာ"
+        },
+        {
+          "no": 25,
+          "kanji": "市場",
+          "hiragana": "いちば",
+          "meaning_burmese": "ဈေး"
+        },
+        {
+          "no": 26,
+          "kanji": "免税店",
+          "hiragana": "めんぜいてん",
+          "meaning_burmese": "အကောက်ခွန်လွတ်ဆိုင်"
+        },
+        {
+          "no": 27,
+          "kanji": "風景",
+          "hiragana": "ふうけい",
+          "meaning_burmese": "ရှုခင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "海水浴",
+          "hiragana": "かいすいよく",
+          "meaning_burmese": "ပင်လယ်ရေကူးအပန်းဖြေခြင်း"
+        },
+        {
+          "no": 29,
+          "kanji": "もぐる",
+          "hiragana": "もぐる",
+          "meaning_burmese": "ရေငုပ်သည်"
+        },
+        {
+          "no": 30,
+          "kanji": "跡",
+          "hiragana": "あと",
+          "meaning_burmese": "ခြေရာ၊ အမှတ်အသား၊ နေရာဟောင်း"
+        },
+        {
+          "no": 31,
+          "kanji": "位置",
+          "hiragana": "いち",
+          "meaning_burmese": "တည်နေရာ"
+        },
+        {
+          "no": 32,
+          "kanji": "めいめい",
+          "hiragana": "めいめい",
+          "meaning_burmese": "အသီးသီး၊ တစ်ယောက်ချင်းစီ"
+        },
+        {
+          "no": 33,
+          "kanji": "しばしば",
+          "hiragana": "しばしば",
+          "meaning_burmese": "မကြာခဏ"
+        },
+        {
+          "no": 34,
+          "kanji": "出来事",
+          "hiragana": "できごと",
+          "meaning_burmese": "ဖြစ်ရပ်၊ ဖြစ်ပျက်ခဲ့သောအရာ"
+        }
+      ]
+    }
+  ]
+}

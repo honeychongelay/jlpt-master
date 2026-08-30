@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT Nihon Master | 日本語マスター</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700;800&family=Noto+Sans+Myanmar:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Top Header with Breadcrumbs & Logo -->
+  <!-- Top Header with Custom Logo Support -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand" id="navHomeLogo">
+  <!-- Custom Logo Image -->
+  <img 
+    src="logo.png" 
+    alt="Logo" 
+    class="brand-img-logo" 
+    onerror="this.style.display='none'; document.getElementById('fallbackHanko').style.display='flex';" 
+  />
+  
+  <!-- Automatic fallback badge if logo.png is missing -->
+  <span class="brand-hanko" id="fallbackHanko" style="display: none;">道</span>
+  
+  <div class="brand-titles">
+    <h1>日本語マスター</h1>
+    <span class="brand-sub">JLPT Mastery Portal</span>
+  </div>
+</div>
+
+      <!-- Navigation Trail -->
+      <nav class="breadcrumb-trail" id="breadcrumbTrail" style="display: none;">
+        <button class="trail-btn" id="trailHome">Home</button>
+        <span class="trail-sep">/</span>
+        <button class="trail-btn" id="trailLevel">N2</button>
+        <span class="trail-sep" id="trailSkillSep">/</span>
+        <span class="trail-current" id="trailSkill">Kanji</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="app-main">
+
+    <!-- ==============================================
+         STEP 1: HOMEPAGE (Redesigned Level Cards)
+         ============================================== -->
+    <section class="step-view" id="viewHome">
+      <!-- Aesthetic Hero Banner -->
+      <div class="hero-banner">
+        <div class="hero-decor-circle"></div>
+        <div class="hero-text">
+          <div class="hero-badge">
+  <span class="pulse-dot"></span>
+  <span>🌸 楽しく学ぼう！ • JLPT Smart Study</span>
+  <span class="flag-pair">
+    <img src="https://flagcdn.com/20x15/jp.png" srcset="https://flagcdn.com/40x30/jp.png 2x" width="20" height="15" alt="Japan Flag" class="badge-flag">
+    <img src="https://flagcdn.com/20x15/mm.png" srcset="https://flagcdn.com/40x30/mm.png 2x" width="20" height="15" alt="Myanmar Flag" class="badge-flag">
+  </span>
+</div>
+          <h2>Master Japanese from N5 to N1</h2>
+          <p class="hero-mm-slogan">
+    Kanji မှတ်နည်း၊ ဝေါဟာရ ဇယားများ၊ Grammar များနှင့် 3D Flashcards များကို မြန်မာဘာသာဖြင့် စနစ်တကျ လေ့လာလိုက်ပါ။
+  </p>
+          
+          <div class="hero-stats-row">
+            <div class="hero-stat-item">
+              <strong>1,500+</strong>
+              <span>Kanji & Vocab</span>
+            </div>
+            <div class="hero-stat-sep"></div>
+            <div class="hero-stat-item">
+              <strong>100+</strong>
+              <span>Grammar Days</span>
+            </div>
+            <div class="hero-stat-sep"></div>
+            <div class="hero-stat-item">
+              <strong>🎴 3D</strong>
+              <span>Flashcards</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-image-wrap">
+          <img src="hero-mascot.png" alt="Mascots" class="hero-mascot-img" />
+        </div>
+      </div>
+
+      <div class="section-title-wrap">
+        <div class="section-title">
+          <span class="sub-label">レベル選択 • SELECT LEVEL</span>
+          <h3>Choose Your JLPT Goal</h3>
+        </div>
+      </div>
+
+      <!-- Redesigned Grid with Color Accents & Status Badges -->
+      <div class="cards-grid level-grid">
+        <!-- N5 -->
+        <div class="level-card n5-card is-disabled" data-level="n5">
+          <div class="level-card-header">
+            <span class="level-pill beginner-pill">Beginner</span>
+            <span class="level-status-tag lock-tag">🔒 Coming Soon</span>
+          </div>
+          <div class="level-main-title">
+            <h4>N5</h4>
+            <div class="level-badge-circle n5-circle">入門</div>
+          </div>
+          <p class="jp-sub">基礎文法・初級語彙</p>
+          <div class="card-footer-action">
+            <span class="action-text">Explore</span>
+            <span class="card-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- N4 -->
+        <div class="level-card n4-card is-disabled" data-level="n4">
+          <div class="level-card-header">
+            <span class="level-pill elem-pill">Elementary</span>
+            <span class="level-status-tag lock-tag">🔒 Coming Soon</span>
+          </div>
+          <div class="level-main-title">
+            <h4>N4</h4>
+            <div class="level-badge-circle n4-circle">基本</div>
+          </div>
+          <p class="jp-sub">日常表現・基本文型</p>
+          <div class="card-footer-action">
+            <span class="action-text">Explore</span>
+            <span class="card-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- N3 (Ready) -->
+        <div class="level-card n3-card is-ready" data-level="n3">
+          <div class="level-card-header">
+            <span class="level-pill inter-pill">Intermediate</span>
+            <span class="level-status-tag active-tag">✨ Ready • 6 Weeks</span>
+          </div>
+          <div class="level-main-title">
+            <h4>N3</h4>
+            <div class="level-badge-circle n3-circle">中級</div>
+          </div>
+          <p class="jp-sub">Soumatome Kanji & Grammar</p>
+          <div class="card-footer-action">
+            <span class="action-text">Start Learning</span>
+            <span class="card-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- N2 (Ready) -->
+        <div class="level-card n2-card is-ready" data-level="n2">
+          <div class="level-card-header">
+            <span class="level-pill advanced-pill">Upper Inter</span>
+            <span class="level-status-tag active-tag">🔥 Ready • Full Course</span>
+          </div>
+          <div class="level-main-title">
+            <h4>N2</h4>
+            <div class="level-badge-circle n2-circle">実務</div>
+          </div>
+          <p class="jp-sub">Vocab 2500, Kanji & Grammar</p>
+          <div class="card-footer-action">
+            <span class="action-text">Start Learning</span>
+            <span class="card-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- N1 -->
+        <div class="level-card n1-card is-disabled" data-level="n1">
+          <div class="level-card-header">
+            <span class="level-pill master-pill">Advanced</span>
+            <span class="level-status-tag lock-tag">🔒 Coming Soon</span>
+          </div>
+          <div class="level-main-title">
+            <h4>N1</h4>
+            <div class="level-badge-circle n1-circle">上級</div>
+          </div>
+          <p class="jp-sub">専門的論説・高度表現</p>
+          <div class="card-footer-action">
+            <span class="action-text">Explore</span>
+            <span class="card-arrow">&rarr;</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ==============================================
+         STEP 2: CHOOSE SKILL (Vocab, Kanji, Grammar, Reading)
+         ============================================== -->
+   <section class="step-view" id="viewSkills" style="display: none;">
+      <div class="step-header">
+        <button class="back-btn" id="backToHomeBtn">&larr; Back to Levels</button>
+        <div class="step-heading">
+          <span class="badge-level" id="skillLevelBadge">N3</span>
+          <div>
+            <h3>Choose Learning Track</h3>
+            <span class="sub-label">学習分野を選択してください</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="skills-grid">
+        <!-- Vocabulary -->
+        <div class="skill-card vocab-card" data-skill="vocab">
+          <div class="skill-card-top">
+            <div class="skill-icon-circle">語</div>
+            <span class="skill-badge-tag">Vocabulary</span>
+          </div>
+          <div class="skill-info">
+            <h4>Vocabulary</h4>
+            <p class="skill-jp-title">語彙・重要単語</p>
+            <p class="skill-desc">Word lists, pitch accents & Myanmar meanings</p>
+          </div>
+          <div class="skill-card-bottom">
+            <span class="skill-action-text">Start Study</span>
+            <span class="skill-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- Kanji -->
+        <div class="skill-card kanji-card" data-skill="kanji">
+          <div class="skill-card-top">
+            <div class="skill-icon-circle">字</div>
+            <span class="skill-badge-tag">Kanji & 3D Cards</span>
+          </div>
+          <div class="skill-info">
+            <h4>Kanji</h4>
+            <p class="skill-jp-title">漢字・読み方・記憶術</p>
+            <p class="skill-desc">Radicals, mnemonics & flashcard practice</p>
+          </div>
+          <div class="skill-card-bottom">
+            <span class="skill-action-text">Start Study</span>
+            <span class="skill-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- Grammar -->
+        <div class="skill-card grammar-card" data-skill="grammar">
+          <div class="skill-card-top">
+            <div class="skill-icon-circle">文</div>
+            <span class="skill-badge-tag">Grammar Patterns</span>
+          </div>
+          <div class="skill-info">
+            <h4>Grammar</h4>
+            <p class="skill-jp-title">文法・構文パターン</p>
+            <p class="skill-desc">Day-by-day sentences & Burmese explanations</p>
+          </div>
+          <div class="skill-card-bottom">
+            <span class="skill-action-text">Start Study</span>
+            <span class="skill-arrow">&rarr;</span>
+          </div>
+        </div>
+
+        <!-- Reading -->
+        <div class="skill-card reading-card" data-skill="reading">
+          <div class="skill-card-top">
+            <div class="skill-icon-circle">読</div>
+            <span class="skill-badge-tag">Reading</span>
+          </div>
+          <div class="skill-info">
+            <h4>Reading</h4>
+            <p class="skill-jp-title">読解・長文練習</p>
+            <p class="skill-desc">Short & long passages with comprehension Q&A</p>
+          </div>
+          <div class="skill-card-bottom">
+            <span class="skill-action-text">Start Study</span>
+            <span class="skill-arrow">&rarr;</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ==============================================
+         STEP 3: CONTENT DASHBOARD
+         ============================================== -->
+    <section class="step-view" id="viewContent" style="display: none;">
+      
+      <!-- Top Action Bar -->
+      <div class="content-header-card">
+        <div class="content-titles">
+          <button class="back-btn" id="backToSkillsBtn">&larr; Back</button>
+          <h2 id="contentHeading">Loading...</h2>
+        </div>
+
+        <!-- Mode Switcher (List vs Flashcard) -->
+        <div class="mode-toggle-wrap" id="kanjiModeToggleWrap" style="display: none;">
+          <button class="mode-toggle-btn active" id="modeListBtn">📚 List View</button>
+          <button class="mode-toggle-btn" id="modeFlashcardBtn">🎴 Flashcard</button>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="searchInput" placeholder="Search Japanese or Burmese..." />
+          <button id="clearSearchBtn" class="clear-btn" style="display: none;">&times;</button>
+        </div>
+      </div>
+
+      <!-- Unit Selector for List Views -->
+      <div class="units-strip" id="unitsStrip" style="display: none;">
+        <div class="units-track" id="unitsTrack"></div>
+      </div>
+
+      <!-- Section Tabs (Vocab) -->
+      <div class="sections-strip" id="sectionsStrip" style="display: none;">
+        <div class="sections-track" id="sectionsTrack"></div>
+      </div>
+
+      <!-- Item Count Indicator -->
+      <div class="count-tag" id="countTag">Showing 0 items</div>
+
+      <!-- Notice Banner -->
+      <div class="notice-banner" id="noticeBanner" style="display: none;"></div>
+
+      <!-- 1. Vocabulary Table View -->
+      <div class="table-card" id="tableContainer" style="display: none;">
+        <table class="vocab-table">
+          <thead>
+            <tr>
+              <th class="col-no">#</th>
+              <th class="col-main" id="thMain">Kanji</th>
+              <th class="col-sub" id="thSub">Hiragana</th>
+              <th class="col-meaning">Meaning (မြန်မာ)</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+
+      <!-- 2. Grammar List View -->
+      <div class="grammar-cards-grid" id="grammarContainer" style="display: none;"></div>
+
+      <!-- 3. Grammar Flashcard Workspace (Filter by 10s) -->
+      <div class="flashcard-workspace" id="grammarFlashcardContainer" style="display: none;">
+        <div class="fc-unit-selector-card">
+          <div class="fc-unit-header">
+            <h4>🎴 လေ့ကျင့်မည့် Grammar အပိုင်း ရွေးချယ်ပါ</h4>
+            <div class="fc-unit-actions">
+              <button class="fc-action-btn" id="grammarFcSelectAllBtn">Select All</button>
+              <button class="fc-action-btn" id="grammarFcClearAllBtn">Clear</button>
+              <button class="fc-start-btn" id="grammarFcStartPracticeBtn">🚀 Start Practice</button>
+            </div>
+          </div>
+          <div class="fc-units-checkboxes" id="grammarFcRangesCheckboxes"></div>
+        </div>
+
+        <div class="fc-stage" id="grammarFcStage" style="display: none;">
+          <div class="fc-top-bar">
+            <span class="fc-counter-badge" id="grammarFcCounterBadge">Card 1 / 10</span>
+            <button class="fc-shuffle-btn" id="grammarFcShuffleBtn">🔀 Shuffle</button>
+          </div>
+
+          <div class="fc-card-3d" id="grammarFcCardElement">
+            <div class="fc-card-inner" id="grammarFcCardInner">
+              <!-- Front -->
+              <div class="fc-card-face fc-card-front">
+                <span class="fc-hint-tag">Tap card to flip • အဓိပ္ပာယ်ကြည့်ရန် နှိပ်ပါ</span>
+                <div class="fc-front-vocab" id="grammarFcFrontPattern">〜かねる</div>
+                <div class="fc-parent-kanji-pill"><span>Grammar Pattern</span></div>
+              </div>
+              <!-- Back -->
+              <div class="fc-card-face fc-card-back">
+                <div class="fc-back-meaning" id="grammarFcBackMeaning">ဖို့ခက်တယ်</div>
+                <div class="grammar-example-box" style="width: 100%; text-align: left;">
+                  <div class="example-row">
+                    <p class="ex-jp-text" id="grammarFcBackJp"></p>
+                  </div>
+                  <div class="example-row">
+                    <p class="ex-mm-text" id="grammarFcBackMm"></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="fc-controls">
+            <button class="fc-ctrl-btn" id="grammarFcPrevBtn">&larr; Previous</button>
+            <button class="fc-flip-btn" id="grammarFcFlipBtn">🔄 Flip Card</button>
+            <button class="fc-ctrl-btn" id="grammarFcNextBtn">Next &rarr;</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4. Kanji List View -->
+      <div class="kanji-cards-grid" id="kanjiContainer" style="display: none;"></div>
+
+      <!-- 5. Kanji Flashcard Workspace (Filter by Units) -->
+      <div class="flashcard-workspace" id="flashcardContainer" style="display: none;">
+        <div class="fc-unit-selector-card">
+          <div class="fc-unit-header">
+            <h4>🎴 Select Units to Practice / လေ့ကျင့်မည့် Unit ရွေးချယ်ပါ</h4>
+            <div class="fc-unit-actions">
+              <button class="fc-action-btn" id="fcSelectAllBtn">Select All</button>
+              <button class="fc-action-btn" id="fcClearAllBtn">Clear</button>
+              <button class="fc-start-btn" id="fcStartPracticeBtn">🚀 Start Practice</button>
+            </div>
+          </div>
+          <div class="fc-units-checkboxes" id="fcUnitsCheckboxes"></div>
+        </div>
+
+        <div class="fc-stage" id="fcStage" style="display: none;">
+          <div class="fc-top-bar">
+            <span class="fc-counter-badge" id="fcCounterBadge">Card 1 / 20</span>
+            <button class="fc-shuffle-btn" id="fcShuffleBtn">🔀 Shuffle</button>
+          </div>
+
+          <div class="fc-card-3d" id="fcCardElement">
+            <div class="fc-card-inner" id="fcCardInner">
+              <!-- Front -->
+              <div class="fc-card-face fc-card-front">
+                <span class="fc-hint-tag">Tap card to flip • အဓိပ္ပာယ်ကြည့်ရန် နှိပ်ပါ</span>
+                <div class="fc-front-vocab" id="fcFrontVocab">新聞配達</div>
+                <div class="fc-parent-kanji-pill">
+                  <span>Root Kanji: </span><strong id="fcFrontRootKanji">配</strong>
+                </div>
+              </div>
+              <!-- Back -->
+              <div class="fc-card-face fc-card-back">
+                <div class="fc-back-reading" id="fcBackReading">しんぶんはいたつ</div>
+                <div class="fc-back-meaning" id="fcBackMeaning">သတင်းစာပို့ခြင်း</div>
+                <div class="fc-back-readings-row">
+                  <div class="fc-badge-item"><span class="badge-on">ON</span><span id="fcBackOn">ハイ</span></div>
+                  <div class="fc-badge-item"><span class="badge-kun">KUN</span><span id="fcBackKun">くば・る</span></div>
+                </div>
+                <div class="fc-back-mnemonic" id="fcBackMnemonic"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="fc-controls">
+            <button class="fc-ctrl-btn" id="fcPrevBtn">&larr; Previous</button>
+            <button class="fc-flip-btn" id="fcFlipBtn">🔄 Flip Card</button>
+            <button class="fc-ctrl-btn" id="fcNextBtn">Next &rarr;</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 6. Stepper Footer -->
+      <footer class="stepper-footer" id="stepperFooter" style="display: none;">
+        <button class="step-btn" id="prevSectionBtn">&larr; Prev Section</button>
+        <span class="step-indicator" id="stepIndicator">Section 1</span>
+        <button class="step-btn" id="nextSectionBtn">Next Section &rarr;</button>
+      </footer>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

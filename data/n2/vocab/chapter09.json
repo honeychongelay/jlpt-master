@@ -1,0 +1,719 @@
+{
+  "chapter": 9,
+  "sections": [
+    {
+      "section": 1,
+      "title": "体と健康",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "測定",
+          "hiragana": "そくてい",
+          "meaning_burmese": "တိုင်းတာခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "定期的な",
+          "hiragana": "ていきてきな",
+          "meaning_burmese": "ပုံမှန်ဖြစ်သော၊ အချိန်မှန်ဖြစ်သော"
+        },
+        {
+          "no": 3,
+          "kanji": "血圧",
+          "hiragana": "けつあつ",
+          "meaning_burmese": "သွေးပေါင်ချိန်၊ သွေးဖိအား"
+        },
+        {
+          "no": 4,
+          "kanji": "体力",
+          "hiragana": "たいりょく",
+          "meaning_burmese": "ခန္ဓာကိုယ်ခွန်အား၊ ကာယဗလ"
+        },
+        {
+          "no": 5,
+          "kanji": "心身",
+          "hiragana": "しんしん",
+          "meaning_burmese": "စိတ်နှင့်ကိုယ်"
+        },
+        {
+          "no": 6,
+          "kanji": "健やかな",
+          "hiragana": "す健やか/すこやかな",
+          "meaning_burmese": "ကျန်းမာသန်စွမ်းသော"
+        },
+        {
+          "no": 7,
+          "kanji": "かたよる",
+          "hiragana": "かたよる",
+          "meaning_burmese": "တစ်ဖက်စောင်းနင်းဖြစ်သည်၊ ညီညွတ်မျှတမှုမရှိဖြစ်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "小柄な",
+          "hiragana": "こがらな",
+          "meaning_burmese": "ကိုယ်လုံးသေးသွယ်သော၊ အရပ်ပုသေးသော"
+        },
+        {
+          "no": 9,
+          "kanji": "寿命",
+          "hiragana": "じゅみょう",
+          "meaning_burmese": "သက်တမ်း"
+        },
+        {
+          "no": 10,
+          "kanji": "一般に",
+          "hiragana": "いっぱんに",
+          "meaning_burmese": "ယေဘုယျအားဖြင့်"
+        },
+        {
+          "no": 11,
+          "kanji": "手首",
+          "hiragana": "てくび",
+          "meaning_burmese": "လက်ကောက်ဝတ်"
+        },
+        {
+          "no": 12,
+          "kanji": "かかと",
+          "hiragana": "かかと",
+          "meaning_burmese": "ဖနောင့်"
+        },
+        {
+          "no": 13,
+          "kanji": "つま先",
+          "hiragana": "つまさき",
+          "meaning_burmese": "ခြေချောင်းထိပ်၊ ခြေဖျား"
+        },
+        {
+          "no": 14,
+          "kanji": "血管",
+          "hiragana": "けっかん",
+          "meaning_burmese": "သွေးကြော"
+        },
+        {
+          "no": 15,
+          "kanji": "さらさら",
+          "hiragana": "さらさら",
+          "meaning_burmese": "သွေးလည်ပတ်မှုချောမွေ့ခြင်း၊ သွက်လက်ချောမွေ့သော"
+        },
+        {
+          "no": 16,
+          "kanji": "筋肉",
+          "hiragana": "きんにく",
+          "meaning_burmese": "ကြွက်သား"
+        },
+        {
+          "no": 17,
+          "kanji": "障がい",
+          "hiragana": "しょうがい",
+          "meaning_burmese": "မသန်စွမ်းမှု၊ ချို့ယွင်းချက်"
+        },
+        {
+          "no": 18,
+          "kanji": "乗り越える",
+          "hiragana": "のりこえる",
+          "meaning_burmese": "ကျော်လွှားသည်၊ ကျော်ဖြတ်သည်"
+        },
+        {
+          "no": 19,
+          "kanji": "傷跡",
+          "hiragana": "きずあと",
+          "meaning_burmese": "အမာရွတ်"
+        },
+        {
+          "no": 20,
+          "kanji": "いびき",
+          "hiragana": "いびき",
+          "meaning_burmese": "ဟောက်သံ"
+        },
+        {
+          "no": 21,
+          "kanji": "体が持つ",
+          "hiragana": "からだがもつ",
+          "meaning_burmese": "ခန္ဓာကိုယ်က ခံနိုင်ရည်ရှိသည်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "病気になる前に",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "休養",
+          "hiragana": "きゅうよう",
+          "meaning_burmese": "အနားယူအားမွေးခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "疲労",
+          "hiragana": "ひろう",
+          "meaning_burmese": "ပင်ပန်းနွမ်းနယ်မှု"
+        },
+        {
+          "no": 3,
+          "kanji": "不調",
+          "hiragana": "ふちょう",
+          "meaning_burmese": "ကျန်းမာရေးမကောင်းမွန်မှု၊ အဆင်မပြေမှု"
+        },
+        {
+          "no": 4,
+          "kanji": "体調",
+          "hiragana": "たいちょう",
+          "meaning_burmese": "ခန္ဓာကိုယ်ကျန်းမာရေးအခြေအနေ"
+        },
+        {
+          "no": 5,
+          "kanji": "やや",
+          "hiragana": "やや",
+          "meaning_burmese": "အနည်းငယ်၊ အနည်းအကျဉ်း"
+        },
+        {
+          "no": 6,
+          "kanji": "寝心地",
+          "hiragana": "ねごこち",
+          "meaning_burmese": "အိပ်စက်ရသက်သောင့်သက်သာရှိမှု"
+        },
+        {
+          "no": 7,
+          "kanji": "大した",
+          "hiragana": "たいした",
+          "meaning_burmese": "ကြီးကြီးမားမား၊ အရေးပါသော"
+        },
+        {
+          "no": 8,
+          "kanji": "念のため",
+          "hiragana": "ねんのため",
+          "meaning_burmese": "သေချာစေရန်အတွက်၊ စိတ်ချရစေရန်"
+        },
+        {
+          "no": 9,
+          "kanji": "通院",
+          "hiragana": "つういん",
+          "meaning_burmese": "ဆေးရုံ/ဆေးခန်းသို့ ပုံမှန်သွားရောက်ပြသခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "レントゲン",
+          "hiragana": "レントゲン",
+          "meaning_burmese": "ဓာတ်မှန် (X-ray)"
+        },
+        {
+          "no": 11,
+          "kanji": "さらに",
+          "hiragana": "さらに",
+          "meaning_burmese": "ထို့ထက်ပို၍၊ ပိုမို၍"
+        },
+        {
+          "no": 12,
+          "kanji": "おとろえる",
+          "hiragana": "おとろえる",
+          "meaning_burmese": "ယိုယွင်းအားနည်းလာသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "きたえる",
+          "hiragana": "きたえる",
+          "meaning_burmese": "လေ့ကျင့်ပျိုးထောင်သည်၊ ကြံ့ခိုင်အောင်လုပ်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "適度な",
+          "hiragana": "てきどな",
+          "meaning_burmese": "သင့်တင့်မျှတသော"
+        },
+        {
+          "no": 15,
+          "kanji": "予防",
+          "hiragana": "よぼう",
+          "meaning_burmese": "ကြိုတင်ကာကွယ်ခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "補給",
+          "hiragana": "ほきゅう",
+          "meaning_burmese": "ဖြည့်တင်းပေးခြင်း၊ ဖြည့်စွက်ခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "不足",
+          "hiragana": "ふそく",
+          "meaning_burmese": "မလုံလောက်မှု၊ ချို့တဲ့မှု"
+        },
+        {
+          "no": 18,
+          "kanji": "サプリメント",
+          "hiragana": "サプリメント",
+          "meaning_burmese": "အားဆေး၊ ဖြည့်စွက်အာဟာရ (Supplement)"
+        },
+        {
+          "no": 19,
+          "kanji": "取り戻す",
+          "hiragana": "とりもどす",
+          "meaning_burmese": "ပြန်လည်ရယူသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "ワクチン",
+          "hiragana": "ワクチン",
+          "meaning_burmese": "ကာကွယ်ဆေး (Vaccine)"
+        },
+        {
+          "no": 21,
+          "kanji": "加入",
+          "hiragana": "かにゅう",
+          "meaning_burmese": "(အာမခံ) ဝင်ရောက်ထားရှိခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "医師",
+          "hiragana": "いし",
+          "meaning_burmese": "ဆရာဝန်"
+        },
+        {
+          "no": 23,
+          "kanji": "くれぐれも",
+          "hiragana": "くれぐれも",
+          "meaning_burmese": "အထူးသဖြင့်၊ အလေးအနက်ထား၍"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "症状",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "具体的な",
+          "hiragana": "ぐたいてきな",
+          "meaning_burmese": "တိကျခိုင်မာသော၊ ကိန်းဂဏန်းအချက်အလက်ကျသော"
+        },
+        {
+          "no": 2,
+          "kanji": "程度",
+          "hiragana": "ていど",
+          "meaning_burmese": "အတိုင်းအတာ၊ အဆင့်အတန်း"
+        },
+        {
+          "no": 3,
+          "kanji": "ぼうっと",
+          "hiragana": "ぼうっと",
+          "meaning_burmese": "မေ့မောတွေဝေနေခြင်း၊ မှုန်ဝါးဝါးဖြစ်ခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "ふらふら",
+          "hiragana": "ふらふら",
+          "meaning_burmese": "မူးယစ်ယိုင်နဲ့နေခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "意識",
+          "hiragana": "いしき",
+          "meaning_burmese": "သတိ၊ အသိစိတ်"
+        },
+        {
+          "no": 6,
+          "kanji": "しゃがむ",
+          "hiragana": "しゃがむ",
+          "meaning_burmese": "ဆောင့်ကြောင့်ထိုင်သည်"
+        },
+        {
+          "no": 7,
+          "kanji": "視野",
+          "hiragana": "しや",
+          "meaning_burmese": "မြင်ကွင်းနယ်ပယ်၊ အမြင်ကျယ်မှု"
+        },
+        {
+          "no": 8,
+          "kanji": "呼吸",
+          "hiragana": "こきゅう",
+          "meaning_burmese": "အသက်ရှူခြင်း၊ အသက်ရှူလမ်းကြောင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "詰まる",
+          "hiragana": "つまる",
+          "meaning_burmese": "ပိတ်ဆို့သည်၊ ပြည့်ကြပ်နေသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "耐える",
+          "hiragana": "たえる",
+          "meaning_burmese": "အောင့်အီးသည်းခံသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "便秘",
+          "hiragana": "べんぴ",
+          "meaning_burmese": "ဝမ်းချုပ်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "~気味",
+          "hiragana": "~ぎみ",
+          "meaning_burmese": "အနည်းငယ်ဖြစ်ချင်သလိုရှိသော (လက္ခဏာပြသော)"
+        },
+        {
+          "no": 13,
+          "kanji": "寒気",
+          "hiragana": "さむけ",
+          "meaning_burmese": "ချမ်းစိမ့်စိမ့်ဖြစ်ခြင်း၊ ဖျားချင်သလိုချမ်းခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "ねじる",
+          "hiragana": "ねじる",
+          "meaning_burmese": "လိမ်သည်၊ မျက်စိလည်/ခြေခေါက်သည်"
+        },
+        {
+          "no": 15,
+          "kanji": "しっしん",
+          "hiragana": "しっしん",
+          "meaning_burmese": "ယားယံအဖုအပိမ့်၊ မိတ်"
+        },
+        {
+          "no": 16,
+          "kanji": "はれる",
+          "hiragana": "はれる",
+          "meaning_burmese": "ရောင်ရမ်းသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "しきりに",
+          "hiragana": "しきりに",
+          "meaning_burmese": "မကြာခဏ၊ ဆက်တိုက်"
+        },
+        {
+          "no": 18,
+          "kanji": "異常",
+          "hiragana": "いじょう",
+          "meaning_burmese": "ပုံမှန်မဟုတ်သော၊ ထူးခြားမှုရှိသော"
+        },
+        {
+          "no": 19,
+          "kanji": "伴う",
+          "hiragana": "ともなう",
+          "meaning_burmese": "တွဲဖက်ပါရှိသည်၊ အတူလိုက်ပါသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "単なる",
+          "hiragana": "たんなる",
+          "meaning_burmese": "ရိုးရိုးသာမန်မျှသာဖြစ်သော"
+        },
+        {
+          "no": 21,
+          "kanji": "伝染",
+          "hiragana": "でんせん",
+          "meaning_burmese": "ရောဂါကူးစက်ပျံ့နှံ့ခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "反応",
+          "hiragana": "はんのう",
+          "meaning_burmese": "တုံ့ပြန်မှု၊ ဓာတ်မတည့်တုံ့ပြန်မှု"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "病気と治療",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "病む",
+          "hiragana": "やむ",
+          "meaning_burmese": "ဖျားနာသည်၊ စိတ်ဒုက္ခရောက်သည်"
+        },
+        {
+          "no": 2,
+          "kanji": "負傷",
+          "hiragana": "ふしょう",
+          "meaning_burmese": "ဒဏ်ရာရရှိခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "重体",
+          "hiragana": "じゅうたい",
+          "meaning_burmese": "စိုးရိမ်ရသောအခြေအနေ"
+        },
+        {
+          "no": 4,
+          "kanji": "熱中症",
+          "hiragana": "ねっちゅうしょう",
+          "meaning_burmese": "အပူလျှပ်ခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "細菌",
+          "hiragana": "さいきん",
+          "meaning_burmese": "ဗက်တီးရီးယား၊ ပိုးမွှား"
+        },
+        {
+          "no": 6,
+          "kanji": "つまずく",
+          "hiragana": "つまずく",
+          "meaning_burmese": "ခလုတ်တိုက်သည်၊ အဆင်မပြေဖြစ်သည်"
+        },
+        {
+          "no": 7,
+          "kanji": "医療",
+          "hiragana": "いりょう",
+          "meaning_burmese": "ဆေးကုသမှု"
+        },
+        {
+          "no": 8,
+          "kanji": "高度な",
+          "hiragana": "こうどな",
+          "meaning_burmese": "အဆင့်မြင့်မားသော"
+        },
+        {
+          "no": 9,
+          "kanji": "実績",
+          "hiragana": "じっせき",
+          "meaning_burmese": "လက်တွေ့အောင်မြင်မှုရလဒ်"
+        },
+        {
+          "no": 10,
+          "kanji": "負担",
+          "hiragana": "ふたん",
+          "meaning_burmese": "ဝန်ထုပ်ဝန်ပိုး၊ ကုန်ကျစရိတ်ခံယူမှု"
+        },
+        {
+          "no": 11,
+          "kanji": "適用",
+          "hiragana": "てきよう",
+          "meaning_burmese": "အကျုံးဝင်သတ်မှတ်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "手当て",
+          "hiragana": "てあて",
+          "meaning_burmese": "ရှေးဦးသူနာပြုစုကုသခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "尽くす",
+          "hiragana": "つくす",
+          "meaning_burmese": "အစွမ်းကုန်ကြိုးပမ်းသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "薬品",
+          "hiragana": "やくひん",
+          "meaning_burmese": "ဆေးဝါးပစ္စည်းများ"
+        },
+        {
+          "no": 15,
+          "kanji": "作用",
+          "hiragana": "さよう",
+          "meaning_burmese": "သက်ရောက်မှု၊ ဆေးစွမ်းအာနိသင်"
+        },
+        {
+          "no": 16,
+          "kanji": "目安",
+          "hiragana": "めやす",
+          "meaning_burmese": "စံသတ်မှတ်ချက်၊ ခန့်မှန်းပမာဏ"
+        },
+        {
+          "no": 17,
+          "kanji": "副作用",
+          "hiragana": "ふくさよう",
+          "meaning_burmese": "ဘေးထွက်ဆိုးကျိုး"
+        },
+        {
+          "no": 18,
+          "kanji": "余計に",
+          "hiragana": "よけいに",
+          "meaning_burmese": "ပို၍ပင်၊ မလိုအပ်ဘဲပို၍"
+        },
+        {
+          "no": 19,
+          "kanji": "余計な",
+          "hiragana": "よけいな",
+          "meaning_burmese": "မလိုအပ်သောအပို"
+        },
+        {
+          "no": 20,
+          "kanji": "もむ",
+          "hiragana": "もむ",
+          "meaning_burmese": "နှိပ်နယ်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "告げる",
+          "hiragana": "つげる",
+          "meaning_burmese": "အသိပေးပြောကြားသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "覚悟",
+          "hiragana": "かくご",
+          "meaning_burmese": "ကြိုတင်စိတ်ပိုင်းဖြတ်ပြင်ဆင်ထားခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "看病",
+          "hiragana": "かんびょう",
+          "meaning_burmese": "လူမမာပြုစုစောင့်ရှောက်ခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "配慮",
+          "hiragana": "はいりょ",
+          "meaning_burmese": "စာနာထောက်ထားဂရုစိုက်မှု"
+        },
+        {
+          "no": 25,
+          "kanji": "遺伝",
+          "hiragana": "いでん",
+          "meaning_burmese": "မျိုးရိုးလိုက်ခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "克服",
+          "hiragana": "こくふく",
+          "meaning_burmese": "အောင်မြင်စွာကျော်လွှားကုသနိုင်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "リハビリ",
+          "hiragana": "リハビリ",
+          "meaning_burmese": "ကာယပြန်လည်သန်စွမ်းရေးလေ့ကျင့်မှု"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "美容",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "肌",
+          "hiragana": "はだ",
+          "meaning_burmese": "အရေပြား၊ အသားအရေ"
+        },
+        {
+          "no": 2,
+          "kanji": "手入れ",
+          "hiragana": "ていれ",
+          "meaning_burmese": "ပြုပြင်ထိန်းသိမ်းစောင့်ရှောက်ခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "ケア",
+          "hiragana": "ケア",
+          "meaning_burmese": "ဂရုစိုက်ထိန်းသိမ်းမှု (Care)"
+        },
+        {
+          "no": 4,
+          "kanji": "維持",
+          "hiragana": "いじ",
+          "meaning_burmese": "ထိန်းသိမ်းထားရှိခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "機能",
+          "hiragana": "きのう",
+          "meaning_burmese": "လုပ်ငန်းဆောင်တာစွမ်းရည်"
+        },
+        {
+          "no": 6,
+          "kanji": "かえって",
+          "hiragana": "かえって",
+          "meaning_burmese": "ထင်မှတ်ထားသည်နှင့်ပြောင်းပြန်၊ ပို၍ပင်"
+        },
+        {
+          "no": 7,
+          "kanji": "刺激",
+          "hiragana": "しげき",
+          "meaning_burmese": "လှုံ့ဆော်မှု၊ ထိခိုက်ခံစားရမှု"
+        },
+        {
+          "no": 8,
+          "kanji": "かさかさ",
+          "hiragana": "かさかさ",
+          "meaning_burmese": "ခြောက်သွေ့ကြမ်းတမ်းခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "低下",
+          "hiragana": "ていか",
+          "meaning_burmese": "ကျဆင်းယုတ်လျော့ခြင်း"
+        },
+        {
+          "no": 10,
+          "kanji": "くっきり",
+          "hiragana": "くっきり",
+          "meaning_burmese": "ထင်ထင်ရှားရှား၊ ပြတ်ပြတ်သားသား"
+        },
+        {
+          "no": 11,
+          "kanji": "つや",
+          "hiragana": "つや",
+          "meaning_burmese": "အရောင်အဝါတောက်ပမှု၊ စိုပြေမှု"
+        },
+        {
+          "no": 12,
+          "kanji": "脂肪",
+          "hiragana": "しぼう",
+          "meaning_burmese": "အဆီဓာတ်"
+        },
+        {
+          "no": 13,
+          "kanji": "肥満",
+          "hiragana": "ひまん",
+          "meaning_burmese": "အဝလွန်ခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "減量",
+          "hiragana": "げんりょう",
+          "meaning_burmese": "ကိုယ်အလေးချိန်လျှော့ချခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "急激な",
+          "hiragana": "きゅうげきな",
+          "meaning_burmese": "ရုတ်တရက်ပြင်းထန်သော"
+        },
+        {
+          "no": 16,
+          "kanji": "一向に",
+          "hiragana": "いっこうに",
+          "meaning_burmese": "လုံးဝ (မ...)"
+        },
+        {
+          "no": 17,
+          "kanji": "疑わしい",
+          "hiragana": "うたがわしい",
+          "meaning_burmese": "သံသယဖြစ်ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 18,
+          "kanji": "姿勢",
+          "hiragana": "しせい",
+          "meaning_burmese": "ကိုယ်နေဟန်ထား၊ သဘောထားခံယူချက်"
+        },
+        {
+          "no": 19,
+          "kanji": "かかる",
+          "hiragana": "かかる",
+          "meaning_burmese": "(ဆရာဝန်နှင့်) ပြသကုသသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "依存",
+          "hiragana": "いぞん",
+          "meaning_burmese": "မှီခိုအားထားလွန်းခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "映す",
+          "hiragana": "うつす",
+          "meaning_burmese": "ထင်ဟပ်ပြသသည်၊ မှန်ကြည့်သည်"
+        }
+      ]
+    }
+  ]
+}

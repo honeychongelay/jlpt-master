@@ -1,0 +1,942 @@
+:root {
+  --bg-page: #faf8f5;
+  --bg-card: #ffffff;
+  --text-main: #0f172a;
+  --text-sub: #475569;
+  --text-muted: #94a3b8;
+
+  /* Color Accents */
+  --c-n5: #3b82f6;
+  --c-n5-soft: #eff6ff;
+  --c-n4: #10b981;
+  --c-n4-soft: #ecfdf5;
+  --c-n3: #f59e0b;
+  --c-n3-soft: #fffbeb;
+  --c-n2: #e11d48;
+  --c-n2-soft: #fff1f2;
+  --c-n1: #8b5cf6;
+  --c-n1-soft: #f5f3ff;
+
+  --border-light: #e2e8f0;
+  --border-soft: #f1f5f9;
+
+  --font-base: 'Plus Jakarta Sans', sans-serif;
+  --font-jp: 'Noto Sans JP', sans-serif;
+  --font-mm: 'Noto Sans Myanmar', sans-serif;
+  --font-hanko: 'Kiwi Maru', serif;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-main);
+  font-family: var(--font-base);
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Header */
+.app-header {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border-light);
+  z-index: 100;
+}
+
+.header-inner {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 0.6rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.brand-hanko {
+  width: 28px;
+  height: 28px;
+  background: #ea580c;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-family: var(--font-hanko);
+  font-size: 1rem;
+}
+
+.brand-titles h1 {
+  font-size: 1rem;
+  font-weight: 800;
+  font-family: var(--font-jp);
+}
+
+.brand-sub {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: block;
+  margin-top: -3px;
+}
+
+/* Breadcrumbs */
+.breadcrumb-trail {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.trail-btn {
+  background: none;
+  border: none;
+  color: var(--text-sub);
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+}
+.trail-btn:hover { background: #f1f5f9; color: var(--text-main); }
+.trail-sep { color: var(--text-muted); }
+.trail-current { color: var(--c-n2); }
+
+/* Main Container */
+.app-main {
+  max-width: 1050px;
+  margin: 0.8rem auto 3rem;
+  padding: 0 1rem;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+}
+
+.cute-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--c-n2);
+  background: var(--c-n2-soft);
+  padding: 0.2rem 0.55rem;
+  border-radius: 99px;
+  display: inline-block;
+  margin-bottom: 0.35rem;
+}
+
+.hero-text h2 {
+  font-size: 1.35rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.hero-text p {
+  font-size: 0.825rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}
+
+.hero-image-wrap {
+  max-width: 280px;
+  flex-shrink: 0;
+}
+
+.hero-mascot-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.section-title {
+  margin-bottom: 0.75rem;
+}
+
+.sub-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+  display: block;
+}
+
+.section-title h3 {
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+
+/* Grids */
+.cards-grid {
+  display: grid;
+  gap: 0.75rem;
+}
+
+/* STEP 1: Level Cards */
+.level-grid {
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+}
+
+.level-card {
+  background: var(--bg-card);
+  border: 2px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 1.15rem 1rem;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.level-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.05);
+}
+
+.level-pill {
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.ready-pill {
+  color: var(--c-n4);
+}
+
+.level-card h4 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin: 0.3rem 0 0;
+}
+
+.level-card .jp-sub {
+  font-family: var(--font-jp);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-sub);
+}
+
+.card-arrow {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  text-align: right;
+}
+
+.n5-card:hover { border-color: var(--c-n5); }
+.n4-card:hover { border-color: var(--c-n4); }
+.n3-card:hover { border-color: var(--c-n3); }
+.n2-card { border-color: #cbd5e1; }
+.n2-card:hover { border-color: var(--c-n2); }
+.n1-card:hover { border-color: var(--c-n1); }
+
+/* STEP 2: Skills Cards Grid */
+.skills-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.step-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.step-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge-level {
+  background: var(--text-main);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 800;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-sm);
+}
+
+.back-btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: var(--text-sub);
+}
+.back-btn:hover { background: #f1f5f9; color: var(--text-main); }
+
+.skill-card {
+  background: var(--bg-card);
+  border: 2px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  transition: all 0.2s ease;
+}
+
+.skill-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.05);
+}
+
+.skill-icon-circle {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-jp);
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+
+.vocab-card .skill-icon-circle { background: var(--c-n4-soft); color: var(--c-n4); }
+.vocab-card:hover { border-color: var(--c-n4); }
+
+.kanji-card .skill-icon-circle { background: var(--c-n2-soft); color: var(--c-n2); }
+.kanji-card:hover { border-color: var(--c-n2); }
+
+.grammar-card .skill-icon-circle { background: var(--c-n5-soft); color: var(--c-n5); }
+.grammar-card:hover { border-color: var(--c-n5); }
+
+.reading-card .skill-icon-circle { background: var(--c-n1-soft); color: var(--c-n1); }
+.reading-card:hover { border-color: var(--c-n1); }
+
+.skill-info h4 {
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.skill-info p {
+  font-family: var(--font-jp);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.skill-badge-tag {
+  align-self: flex-start;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 99px;
+  background: var(--bg-page);
+  border: 1px solid var(--border-light);
+  color: var(--text-sub);
+}
+
+/* STEP 3: Content Dashboard */
+.content-header-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.6rem;
+}
+
+.content-titles {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.content-titles h2 {
+  font-size: 1.1rem;
+  font-weight: 800;
+  font-family: var(--font-jp);
+}
+
+.search-box {
+  position: relative;
+  flex: 1;
+  max-width: 320px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.65rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.4rem 1.6rem 0.4rem 1.9rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-light);
+  font-size: 0.8rem;
+  outline: none;
+}
+
+.clear-btn {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+/* Units & Sections Horizontal Navigation */
+.units-strip, .sections-strip {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  padding: 0.4rem 0.6rem;
+  margin-bottom: 0.5rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.units-strip::-webkit-scrollbar,
+.sections-strip::-webkit-scrollbar { display: none; }
+
+.units-track, .sections-track {
+  display: flex;
+  gap: 0.35rem;
+  width: max-content;
+}
+
+.unit-tag, .sec-tag {
+  background: var(--bg-page);
+  border: 1px solid var(--border-light);
+  border-radius: 99px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.unit-tag.active, .sec-tag.active {
+  background: var(--text-main);
+  color: #fff;
+  border-color: var(--text-main);
+}
+
+.sec-tag {
+  border-radius: 6px;
+  font-family: var(--font-jp);
+}
+
+.sec-tag.active {
+  background: var(--c-n4-soft);
+  color: var(--c-n4);
+  border-color: var(--c-n4);
+}
+
+.count-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+
+/* Notice Banner */
+.notice-banner {
+  background: var(--bg-card);
+  border: 1px dashed var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 2.5rem 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+/* Table */
+.table-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+}
+
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.vocab-table th {
+  background: #fafafa;
+  padding: 0.5rem 0.65rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-light);
+  text-align: left;
+}
+
+.vocab-table td {
+  padding: 0.55rem 0.65rem;
+  border-bottom: 1px solid var(--border-soft);
+  vertical-align: middle;
+}
+
+.col-no { width: 35px; text-align: center; font-size: 0.75rem; font-weight: 700; color: var(--text-muted); }
+.col-main { width: 25%; font-family: var(--font-jp); font-size: 1.15rem; font-weight: 700; color: #000; }
+.col-sub { width: 28%; font-family: var(--font-jp); font-size: 1.25rem; font-weight: 500; color: #000; }
+.col-meaning { width: 42%; font-family: var(--font-mm); font-size: 0.95rem; font-weight: 500; color: #000; }
+
+/* Stepper */
+.stepper-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.85rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--border-light);
+}
+
+.step-btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  padding: 0.35rem 0.8rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.step-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+.step-indicator { font-size: 0.75rem; font-weight: 700; color: var(--text-muted); }
+
+/* =========================================
+   BEAUTIFUL GRAMMAR CARD DESIGN
+   ========================================= */
+.grammar-cards-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.grammar-item-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 1.1rem 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  position: relative;
+}
+
+.grammar-item-card:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 6px 14px -3px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+
+/* Card Header: Pattern + Burmese Meaning */
+.grammar-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.grammar-pattern-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.grammar-index-badge {
+  font-size: 0.7rem;
+  font-weight: 800;
+  color: var(--text-muted);
+  background: var(--bg-page);
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-light);
+}
+
+.grammar-pattern-title {
+  font-family: var(--font-jp);
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #0f172a;
+  letter-spacing: -0.01em;
+}
+
+.grammar-meaning-badge {
+  font-family: var(--font-mm);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #047857;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+  padding: 0.25rem 0.75rem;
+  border-radius: 99px;
+  line-height: 1.4;
+}
+
+/* Example Sentence Callout Box */
+.grammar-example-box {
+  background: #f8fafc;
+  border-left: 3px solid #3b82f6;
+  border-radius: 0 8px 8px 0;
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.example-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.ex-tag {
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.ex-tag.jp {
+  background: #eff6ff;
+  color: #2563eb;
+}
+
+.ex-tag.mm {
+  background: #f1f5f9;
+  color: #64748b;
+}
+
+.ex-jp-text {
+  font-family: var(--font-jp);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #1e293b;
+  line-height: 1.5;
+}
+
+.ex-mm-text {
+  font-family: var(--font-mm);
+  font-size: 0.875rem;
+  color: #475569;
+  line-height: 1.5;
+}
+
+/* =========================================
+   N2 KANJI CARD MASTER STYLES (Clean & Polished)
+   ========================================= */
+.kanji-cards-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.kanji-master-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.kanji-master-card:hover {
+  border-color: #cbd5e1;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+
+/* Card Header Section */
+.kanji-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.kanji-main-info {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.kanji-num-badge {
+  color: #3b82f6;
+  font-size: 0.95rem;
+  font-weight: 800;
+  border: 1.5px solid #dbeafe;
+  background: #eff6ff;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.kanji-glyph {
+  font-family: var(--font-jp);
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1;
+}
+
+/* On / Kun Readings */
+.kanji-readings-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.reading-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge-on {
+  font-size: 0.65rem;
+  font-weight: 800;
+  background: #dbeafe;
+  color: #1d4ed8;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}
+
+.badge-kun {
+  font-size: 0.65rem;
+  font-weight: 800;
+  background: #dcfce7;
+  color: #15803d;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+}
+
+.reading-text {
+  font-family: var(--font-jp);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+/* Blue Meaning Pill */
+.kanji-meaning-pill {
+  font-family: var(--font-mm);
+  font-size: 1rem;
+  font-weight: 600;
+  background: #2563eb;
+  color: #ffffff;
+  padding: 0.4rem 1.1rem;
+  border-radius: 99px;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+/* Yellow Mnemonic Callout Box */
+.kanji-mnemonic-box {
+    margin-bottom: 1rem;
+  font-family: var(--font-mm);
+    background: #fbffb1;
+    border-left: 4px solid #F59E0B;
+    border-radius: 6px;
+    padding: 12px 16px;
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+/* 1. Radicals inside parentheses: Bright Emerald / Teal */
+.kanji-mnemonic-box .radical {
+  color: #ff0000 !important;
+    font-weight: 700;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
+}
+
+/* 2. Parentheses ( ) color: Slate Gray */
+.kanji-mnemonic-box .bracket {
+  color: #000000;
+  font-weight: 700;
+}
+
+/* 3. Kanji Main Meaning / Core Action Keyword: Bold Indigo Blue */
+.kanji-mnemonic-box .action,
+.kanji-mnemonic-box .core-meaning {
+  color: #2563eb;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: #0017ff;
+  padding: 0 2px;
+}
+
+/* 4. English / Highlighted Component Words (e.g. "pig"): Deep Rose/Red */
+.kanji-mnemonic-box .comp-word {
+  color: #e11d48;
+  font-weight: 700;
+}
+
+/* =========================================
+   VOCABULARY SUB-TABLE (CLEAN BLACK TEXT)
+   ========================================= */
+.kanji-vocab-table-wrap {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.kanji-sub-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.kanji-sub-table th {
+  background: #f8fafc;
+  color: #475569;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.6rem 0.9rem;
+  border-bottom: 1px solid #e2e8f0;
+  text-align: left;
+}
+
+.kanji-sub-table td {
+  padding: 0.65rem 0.9rem;
+  border-bottom: 1px solid #f1f5f9;
+  vertical-align: middle;
+}
+
+.kanji-sub-table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Vocabulary Columns (Pure Crisp Black Text) */
+.kv-kanji {
+  font-family: var(--font-jp);
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #000000;
+  width: 25%;
+}
+
+.kv-kana {
+  font-family: var(--font-jp);
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #000000;
+  width: 30%;
+}
+
+.kv-meaning {
+  font-family: var(--font-mm);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #000000;
+  width: 45%;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .grammar-item-card {
+    padding: 0.85rem 0.95rem;
+  }
+  .grammar-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+  }
+  .grammar-pattern-title {
+    font-size: 1.1rem;
+  }
+  .grammar-meaning-badge {
+    font-size: 0.85rem;
+    padding: 0.2rem 0.6rem;
+  }
+  .grammar-example-box {
+    padding: 0.6rem 0.75rem;
+  }
+  .ex-jp-text {
+    font-size: 0.875rem;
+  }
+  .ex-mm-text {
+    font-size: 0.8rem;
+  }
+
+  /* Mobile responsive */
+
+  .kanji-master-card { padding: 1rem; }
+  .kanji-card-top { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+  .kanji-glyph { font-size: 2.5rem; }
+  .kanji-meaning-pill { align-self: flex-start; font-size: 0.9rem; padding: 0.3rem 0.8rem; }
+  .kv-kanji { font-size: 1rem; }
+  .kv-kana { font-size: 0.95rem; }
+  .kv-meaning { font-size: 0.85rem; }
+
+}
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+  .app-main { padding: 0 0.5rem 2rem; }
+  .hero-banner {
+    flex-direction: column-reverse;
+    padding: 1rem;
+    align-items: flex-start;
+  }
+  .hero-image-wrap {
+    max-width: 220px;
+    margin: 0 auto;
+  }
+  .level-grid {
+    grid-template-columns: 1fr;
+  }
+  .level-card {
+    padding: 0.75rem 1rem;
+  }
+  .col-sub { font-size: 0.95rem !important; }
+}

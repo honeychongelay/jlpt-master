@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT Nihon Master</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+Myanmar:wght@400;500;600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Top Header with Breadcrumbs -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand" id="navHomeLogo">
+        <span class="brand-hanko">道</span>
+        <div class="brand-titles">
+          <h1>日本語マスター</h1>
+          <span class="brand-sub">JLPT Portal</span>
+        </div>
+      </div>
+
+      <!-- Navigation Trail -->
+      <nav class="breadcrumb-trail" id="breadcrumbTrail" style="display: none;">
+        <button class="trail-btn" id="trailHome">Home</button>
+        <span class="trail-sep">/</span>
+        <button class="trail-btn" id="trailLevel">N2</button>
+        <span class="trail-sep" id="trailSkillSep">/</span>
+        <span class="trail-current" id="trailSkill">Vocabulary</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="app-main">
+
+    <!-- ==============================================
+         STEP 1: HOMEPAGE (Level Cards N5 -> N1)
+         ============================================== -->
+    <section class="step-view" id="viewHome">
+      <div class="hero-banner">
+        <div class="hero-text">
+          <span class="cute-tag">🌸 楽しく学ぼう！</span>
+          <h2>Japanese Learning Master</h2>
+          <p>Select your JLPT level to get started.</p>
+        </div>
+        <div class="hero-image-wrap">
+          <img src="hero-mascot.png" alt="Mascots" class="hero-mascot-img" />
+        </div>
+      </div>
+
+      <div class="section-title">
+        <span class="sub-label">レベル選択</span>
+        <h3>Choose Your Level</h3>
+      </div>
+
+      <div class="cards-grid level-grid">
+        <div class="level-card n5-card" data-level="n5">
+          <span class="level-pill">Beginner</span>
+          <h4>N5</h4>
+          <p class="jp-sub">基礎入門</p>
+          <div class="card-arrow">&rarr;</div>
+        </div>
+        <div class="level-card n4-card" data-level="n4">
+          <span class="level-pill">Elementary</span>
+          <h4>N4</h4>
+          <p class="jp-sub">基本文型</p>
+          <div class="card-arrow">&rarr;</div>
+        </div>
+        <div class="level-card n3-card" data-level="n3">
+          <span class="level-pill">Intermediate</span>
+          <h4>N3</h4>
+          <p class="jp-sub">日常会話</p>
+          <div class="card-arrow">&rarr;</div>
+        </div>
+        <div class="level-card n2-card is-ready" data-level="n2">
+          <span class="level-pill ready-pill">Ready • 準備完了</span>
+          <h4>N2</h4>
+          <p class="jp-sub">実務応用</p>
+          <div class="card-arrow">&rarr;</div>
+        </div>
+        <div class="level-card n1-card" data-level="n1">
+          <span class="level-pill">Advanced</span>
+          <h4>N1</h4>
+          <p class="jp-sub">上級専門</p>
+          <div class="card-arrow">&rarr;</div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ==============================================
+         STEP 2: CHOOSE SKILL (Vocab, Kanji, Grammar, Reading)
+         ============================================== -->
+    <section class="step-view" id="viewSkills" style="display: none;">
+      <div class="step-header">
+        <button class="back-btn" id="backToHomeBtn">&larr; Back to Levels</button>
+        <div class="step-heading">
+          <span class="badge-level" id="skillLevelBadge">N2</span>
+          <h3>Choose Skill / 分野選択</h3>
+        </div>
+      </div>
+
+      <div class="cards-grid skills-grid">
+        <!-- Vocab -->
+        <div class="skill-card vocab-card" data-skill="vocab">
+          <div class="skill-icon-circle">語</div>
+          <div class="skill-info">
+            <h4>Vocabulary</h4>
+            <p>語彙・言葉の学習</p>
+          </div>
+          <span class="skill-badge-tag">12 Units</span>
+        </div>
+
+        <!-- Kanji -->
+        <div class="skill-card kanji-card" data-skill="kanji">
+          <div class="skill-icon-circle">字</div>
+          <div class="skill-info">
+            <h4>Kanji</h4>
+            <p>漢字・読み方</p>
+          </div>
+          <span class="skill-badge-tag">Kanji Master</span>
+        </div>
+
+        <!-- Grammar -->
+        <div class="skill-card grammar-card" data-skill="grammar">
+          <div class="skill-icon-circle">文</div>
+          <div class="skill-info">
+            <h4>Grammar</h4>
+            <p>文法・構文パターン</p>
+          </div>
+          <span class="skill-badge-tag">Patterns</span>
+        </div>
+
+        <!-- Reading -->
+        <div class="skill-card reading-card" data-skill="reading">
+          <div class="skill-icon-circle">読</div>
+          <div class="skill-info">
+            <h4>Reading</h4>
+            <p>読解・長文練習</p>
+          </div>
+          <span class="skill-badge-tag">Passages</span>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ==============================================
+         
+         ============================================== -->
+    <section class="step-view" id="viewContent" style="display: none;">
+      
+      <!-- Top Section Info Bar -->
+      <div class="content-header-card">
+        <div class="content-titles">
+          <button class="back-btn" id="backToSkillsBtn">&larr; Change Skill</button>
+          <h2 id="contentHeading">Loading...</h2>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="searchInput" placeholder="Search Japanese or Burmese..." />
+          <button id="clearSearchBtn" class="clear-btn" style="display: none;">&times;</button>
+        </div>
+      </div>
+
+      <!-- Unit Selector (Only rendered if multi-unit skill) -->
+      <div class="units-strip" id="unitsStrip" style="display: none;">
+        <div class="units-track" id="unitsTrack"></div>
+      </div>
+
+      <!-- Section Tabs -->
+      <div class="sections-strip" id="sectionsStrip" style="display: none;">
+        <div class="sections-track" id="sectionsTrack"></div>
+      </div>
+
+      <!-- Item Count Indicator -->
+      <div class="count-tag" id="countTag">Showing 0 words</div>
+
+      <!-- Notice Banner (For empty / missing data) -->
+      <div class="notice-banner" id="noticeBanner" style="display: none;"></div>
+
+      <!-- Vocabulary / Kanji Table -->
+      <div class="table-card" id="tableContainer">
+        <table class="vocab-table">
+          <thead>
+            <tr>
+              <th class="col-no">#</th>
+              <th class="col-main" id="thMain">Kanji</th>
+              <th class="col-sub" id="thSub">Hiragana</th>
+              <th class="col-meaning">Meaning (မြန်မာ)</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+
+      <!-- Beautiful Grammar Cards Container (Added here) -->
+      <div class="grammar-cards-grid" id="grammarContainer" style="display: none;"></div>
+
+      <!-- N2 KANJI CARD CONTAINER (Added) -->
+      <div class="kanji-cards-grid" id="kanjiContainer" style="display: none;"></div>
+
+      <!-- N2 Reading Container -->
+      <div class="reading-workspace" id="readingContainer" style="display: none;"></div>
+      
+      <!-- Stepper Footer -->
+      <footer class="stepper-footer" id="stepperFooter" style="display: none;">
+        <button class="step-btn" id="prevSectionBtn">&larr; Prev Section</button>
+        <span class="step-indicator" id="stepIndicator">Section 1</span>
+        <button class="step-btn" id="nextSectionBtn">Next Section &rarr;</button>
+      </footer>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

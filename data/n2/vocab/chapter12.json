@@ -1,0 +1,707 @@
+{
+  "chapter": 12,
+  "sections": [
+    {
+      "section": 1,
+      "title": "慣用句①気・心・胸",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "気が早い",
+          "hiragana": "きがはやい",
+          "meaning_burmese": "စိတ်စောလွန်းသည်၊ စိတ်လောသည်"
+        },
+        {
+          "no": 2,
+          "kanji": "気が重い",
+          "hiragana": "きがおもい",
+          "meaning_burmese": "စိတ်လေးလံသည်၊ စိတ်မပါဖြစ်သည်"
+        },
+        {
+          "no": 3,
+          "kanji": "気が合う",
+          "hiragana": "きがあう",
+          "meaning_burmese": "စိတ်သဘောထားချင်းတိုက်ဆိုင်သည်"
+        },
+        {
+          "no": 4,
+          "kanji": "気が利く",
+          "hiragana": "きがきく",
+          "meaning_burmese": "အလိုက်သိသည်၊ လိမ္မာပါးနပ်သည်"
+        },
+        {
+          "no": 5,
+          "kanji": "気がつく",
+          "hiragana": "きがつく",
+          "meaning_burmese": "သတိပြုမိသည်၊ သတိရသည်"
+        },
+        {
+          "no": 6,
+          "kanji": "気が強い",
+          "hiragana": "きがつよい",
+          "meaning_burmese": "မာနကြီးသည်၊ ဇွဲမာန်ထက်သန်သည်"
+        },
+        {
+          "no": 7,
+          "kanji": "気が小さい",
+          "hiragana": "きがちいさい",
+          "meaning_burmese": "သတ္တိနည်းသည်၊ စိတ်ထားသေးသိမ်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "気を遣う",
+          "hiragana": "きをつかう",
+          "meaning_burmese": "အားနာရိုသေသည်၊ စိတ်ပူပင်ဂရုစိုက်သည်"
+        },
+        {
+          "no": 9,
+          "kanji": "気が進まない",
+          "hiragana": "きがすすまない",
+          "meaning_burmese": "စိတ်မပါဖြစ်သည်၊ စိတ်မထက်သန်ပါ"
+        },
+        {
+          "no": 10,
+          "kanji": "気にかかる",
+          "hiragana": "きにかかる",
+          "meaning_burmese": "စိတ်ထဲတွင်စွဲထင်စိုးရိမ်နေသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "気にくわない",
+          "hiragana": "きにくわない",
+          "meaning_burmese": "သဘောမကျပါ၊ စိတ်ထဲတွင်မကြိုက်ပါ"
+        },
+        {
+          "no": 12,
+          "kanji": "心が通う",
+          "hiragana": "こころがかよう",
+          "meaning_burmese": "စိတ်ချင်းဆက်နွှယ်နားလည်မှုရှိသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "心が狭い",
+          "hiragana": "こころがせまい",
+          "meaning_burmese": "စိတ်ထားသေးသိမ်သည်၊ သဘောထားကျဉ်းမြောင်းသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "心が動く",
+          "hiragana": "こころがうごく",
+          "meaning_burmese": "စိတ်လှုပ်ရှားတုန်လှုပ်သည်၊ စိတ်ယိုင်သွားသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "心を配る",
+          "hiragana": "こころをつくばる/こころをくばる",
+          "meaning_burmese": "ဂရုစိုက်အလေးထားသည်"
+        },
+        {
+          "no": 16,
+          "kanji": "心を引かれる",
+          "hiragana": "こころをひかれる",
+          "meaning_burmese": "စိတ်ဝင်စားဆွဲဆောင်ခံရသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "心を許す",
+          "hiragana": "こころをゆるす",
+          "meaning_burmese": "စိတ်ချယုံကြည်သည်၊ ရင်ဖွင့်သည်"
+        },
+        {
+          "no": 18,
+          "kanji": "胸が痛む",
+          "hiragana": "むねがいたむ",
+          "meaning_burmese": "ရင်နာရသည်၊ စိတ်ထိခိုက်ခံစားရသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "胸が一杯になる",
+          "hiragana": "むねがいっぱいになる",
+          "meaning_burmese": "ရင်ထဲပြည့်လျှံအောင် ခံစားရသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "胸をはずませる",
+          "hiragana": "むねをはずませる",
+          "meaning_burmese": "ရင်ခုန်စိတ်လှုပ်ရှားသည်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "慣用句②頭・顔",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "頭が痛い",
+          "hiragana": "あたまがいたい",
+          "meaning_burmese": "ခေါင်းခဲရသည်၊ အခက်တွေ့ရသည်"
+        },
+        {
+          "no": 2,
+          "kanji": "頭が固い",
+          "hiragana": "あたまがかたい",
+          "meaning_burmese": "ခေါင်းမာလွန်းသည်၊ အယူအဆဟောင်းကို ဆုပ်ကိုင်ထားသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "頭にくる",
+          "hiragana": "あたまにくる",
+          "meaning_burmese": "ဒေါသထွက်သည်၊ စိတ်တိုသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "頭が下がる",
+          "hiragana": "あたまがさがる",
+          "meaning_burmese": "ဦးညွတ်ရလောက်အောင် လေးစားသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "顔が広い",
+          "hiragana": "かおがひろい",
+          "meaning_burmese": "အသိမိတ်ဆွေများပြားသည်၊ မျက်နှာကျယ်သည်"
+        },
+        {
+          "no": 6,
+          "kanji": "顔を出す",
+          "hiragana": "かおをだす",
+          "meaning_burmese": "ခဏတစ်ဖြုတ်မျက်နှာပြသည်"
+        },
+        {
+          "no": 7,
+          "kanji": "目がない",
+          "hiragana": "めがない",
+          "meaning_burmese": "အလွန်အမင်းကြိုက်နှစ်သက်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "目が離せない",
+          "hiragana": "めがはなせない",
+          "meaning_burmese": "မျက်တောင်မခတ်တမ်းကြည့်နေရသည်၊ မျက်ခြည်မပြတ်စောင့်ကြည့်ရသည်"
+        },
+        {
+          "no": 9,
+          "kanji": "目が回る",
+          "hiragana": "めがまわる",
+          "meaning_burmese": "မျက်စိလည်မူးဝေသည်၊ အလွန်အလုပ်များလှသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "目に浮かぶ",
+          "hiragana": "めにうかぶ",
+          "meaning_burmese": "မျက်စိထဲမြင်ယောင်လာသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "目にする",
+          "hiragana": "めにする",
+          "meaning_burmese": "မျက်စိဖြင့်မြင်တွေ့သည်"
+        },
+        {
+          "no": 12,
+          "kanji": "目に付く",
+          "hiragana": "めにつく",
+          "meaning_burmese": "မျက်စိကျစရာဖြစ်သည်၊ ထင်သာမြင်သာရှိသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "目を疑う",
+          "hiragana": "めをうたがう",
+          "meaning_burmese": "ကိုယ့်မျက်စိကိုယ်မယုံနိုင်အောင်ဖြစ်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "目を向ける",
+          "hiragana": "めをむける",
+          "meaning_burmese": "အာရုံစိုက်ကြည့်ရှုသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "目を通す",
+          "hiragana": "めをとおす",
+          "meaning_burmese": "ဖတ်ရှုစစ်ဆေးကြည့်သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "耳が痛い",
+          "hiragana": "みみがいたい",
+          "meaning_burmese": "နားထောင်ရခက်သည်၊ ကိုယ့်အားနည်းချက်ကိုကြားရ၍ အနေရခက်သည်"
+        },
+        {
+          "no": 17,
+          "kanji": "耳が遠い",
+          "hiragana": "みみがとおい",
+          "meaning_burmese": "နားလေးသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "耳にする",
+          "hiragana": "みみにする",
+          "meaning_burmese": "ကြားသိရသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "耳を傾ける",
+          "hiragana": "みみをかたむける",
+          "meaning_burmese": "စူးစိုက်နားထောင်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "耳を疑う",
+          "hiragana": "みみをうたがう",
+          "meaning_burmese": "ကိုယ့်နားကိုယ်မယုံနိုင်အောင်ဖြစ်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "口がうまい",
+          "hiragana": "くちがうまい",
+          "meaning_burmese": "စကားပြောချိုသာလိမ္မာသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "口が堅い",
+          "hiragana": "くちがかたい",
+          "meaning_burmese": "နှုတ်လုံသည်"
+        },
+        {
+          "no": 23,
+          "kanji": "口が軽い",
+          "hiragana": "くちがかるい",
+          "meaning_burmese": "နှုတ်မလုံပါ"
+        },
+        {
+          "no": 24,
+          "kanji": "口が重い",
+          "hiragana": "くちがおもい",
+          "meaning_burmese": "စကားနည်းသည်"
+        },
+        {
+          "no": 25,
+          "kanji": "口が滑る",
+          "hiragana": "くちがすべる",
+          "meaning_burmese": "မရည်ရွယ်ဘဲ ပါးစပ်ကလွတ်ခနဲပြောမိသည်"
+        },
+        {
+          "no": 26,
+          "kanji": "口が悪い",
+          "hiragana": "くちがわるい",
+          "meaning_burmese": "စကားပြောကြမ်းတမ်းရုန့်ရင်းသည်"
+        },
+        {
+          "no": 27,
+          "kanji": "口にする",
+          "hiragana": "くちにする",
+          "meaning_burmese": "ပါးစပ်မှထုတ်ပြောသည်၊ စားသောက်သည်"
+        },
+        {
+          "no": 28,
+          "kanji": "口に合う",
+          "hiragana": "くちにあう",
+          "meaning_burmese": "ခံတွင်းတွေ့သည်၊ အရသာခံတွင်းလိုက်သည်"
+        },
+        {
+          "no": 29,
+          "kanji": "口を出す",
+          "hiragana": "くちをだす",
+          "meaning_burmese": "ဝင်ရောက်စွက်ဖက်ပြောဆိုသည်"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "慣用句③体",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "手がふさがる",
+          "hiragana": "てがふさがる",
+          "meaning_burmese": "လက်မအားပါ၊ အလုပ်များနေသည်"
+        },
+        {
+          "no": 2,
+          "kanji": "手が空く",
+          "hiragana": "てがあく",
+          "meaning_burmese": "လက်အားသွားသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "手がかかる",
+          "hiragana": "てがかかる",
+          "meaning_burmese": "အလုပ်ရှုပ်စေသည်၊ အချိန်ယူရသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "手が離せない",
+          "hiragana": "てがはなせない",
+          "meaning_burmese": "လက်မလည်အောင် အလုပ်ရှုပ်နေသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "手に入れる",
+          "hiragana": "てにいれる",
+          "meaning_burmese": "ရရှိပိုင်ဆိုင်သည်"
+        },
+        {
+          "no": 6,
+          "kanji": "手にする",
+          "hiragana": "てにする",
+          "meaning_burmese": "လက်ထဲသို့ကိုင်ဆုပ်သည်၊ ရရှိသည်"
+        },
+        {
+          "no": 7,
+          "kanji": "手につかない",
+          "hiragana": "てにつかない",
+          "meaning_burmese": "အလုပ်အပေါ်အာရုံမစိုက်နိုင်ဖြစ်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "手をつける",
+          "hiragana": "てをつける",
+          "meaning_burmese": "စတင်လုပ်ဆောင်သည်"
+        },
+        {
+          "no": 9,
+          "kanji": "手を貸す",
+          "hiragana": "てをかす",
+          "meaning_burmese": "ကူညီပေးသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "手を休める",
+          "hiragana": "てをやすめる",
+          "meaning_burmese": "လက်ခဏနားသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "手を抜く",
+          "hiragana": "てをぬく",
+          "meaning_burmese": "ပေါ့ပေါ့ဆဆလုပ်သည်၊ ခိုးလုပ်သည်"
+        },
+        {
+          "no": 12,
+          "kanji": "腕がいい",
+          "hiragana": "うでがいい",
+          "meaning_burmese": "လက်ရာကောင်းသည်၊ ကျွမ်းကျင်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "腕を磨く",
+          "hiragana": "うでをみがく",
+          "meaning_burmese": "လက်ရည်သွေးသည်၊ ပညာအရည်အသွေးမြှင့်တင်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "腕が上がる",
+          "hiragana": "うでがあがる",
+          "meaning_burmese": "လက်ရည်တက်လာသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "肩を落とす",
+          "hiragana": "かたをおとす",
+          "meaning_burmese": "စိတ်ပျက်လက်ပျက်ဖြစ်သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "腹が立つ",
+          "hiragana": "はらがたつ",
+          "meaning_burmese": "ဒေါသထွက်သည်"
+        },
+        {
+          "no": 17,
+          "kanji": "腹を抱える",
+          "hiragana": "はらをかかえる",
+          "meaning_burmese": "ဗိုက်နှိပ်ပြီး ရယ်မောသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "足が出る",
+          "hiragana": "あしがでる",
+          "meaning_burmese": "ဘတ်ဂျက်ကျော်သွားသည်၊ အရှုံးပေါ်သည်"
+        },
+        {
+          "no": 19,
+          "kanji": "足を伸ばす",
+          "hiragana": "あしをのばす",
+          "meaning_burmese": "ခရီးဆက်သွားသည်၊ ခြေဆန့်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "足を運ぶ",
+          "hiragana": "あしをはこぶ",
+          "meaning_burmese": "ကိုယ်တိုင်ကြွရောက်သည်"
+        },
+        {
+          "no": 21,
+          "kanji": "足を引っ張る",
+          "hiragana": "あしをひっぱる",
+          "meaning_burmese": "နောက်ဆွဲလုပ်သည်၊ နှောင့်ယှက်သည်"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "副詞",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "何かと",
+          "hiragana": "なにかと",
+          "meaning_burmese": "အကြောင်းအမျိုးမျိုးကြောင့်၊ ဒါနဲ့ပဲ"
+        },
+        {
+          "no": 2,
+          "kanji": "何だかんだ",
+          "hiragana": "なんだかんだ",
+          "meaning_burmese": "ဟိုဒင်းဟိုဒါ၊ ဒါနဲ့ပဲ"
+        },
+        {
+          "no": 3,
+          "kanji": "なぜか",
+          "hiragana": "なぜか",
+          "meaning_burmese": "ဘာကြောင့်မှန်းမသိဘဲ"
+        },
+        {
+          "no": 4,
+          "kanji": "何だか",
+          "hiragana": "なんだか",
+          "meaning_burmese": "တစ်ခုခုလိုလို၊ ဘာကြောင့်မှန်းမသိ"
+        },
+        {
+          "no": 5,
+          "kanji": "何しろ",
+          "hiragana": "なにしろ",
+          "meaning_burmese": "ဘာပဲဖြစ်ဖြစ်၊ အဓိကကတော့"
+        },
+        {
+          "no": 6,
+          "kanji": "何とも",
+          "hiragana": "なんとも",
+          "meaning_burmese": "လုံးဝ (မ...)"
+        },
+        {
+          "no": 7,
+          "kanji": "どうか",
+          "hiragana": "どうか",
+          "meaning_burmese": "ကျေးဇူးပြု၍၊ အဆင်ပြေပါစေ"
+        },
+        {
+          "no": 8,
+          "kanji": "どうにか",
+          "hiragana": "どうにか",
+          "meaning_burmese": "တစ်နည်းနည်းဖြင့်၊ မနည်းကြိုးစား၍"
+        },
+        {
+          "no": 9,
+          "kanji": "どうしても",
+          "hiragana": "どうしても",
+          "meaning_burmese": "ဘယ်လိုပဲဖြစ်ဖြစ်၊ လုံးဝ"
+        },
+        {
+          "no": 10,
+          "kanji": "どうせ",
+          "hiragana": "どうせ",
+          "meaning_burmese": "ဘယ်လိုပဲဖြစ်ဖြစ် (စိတ်ပျက်ဖွယ်ရာအခြေအနေ)"
+        },
+        {
+          "no": 11,
+          "kanji": "どうやら",
+          "hiragana": "どうやら",
+          "meaning_burmese": "ကြည့်ရတာတော့၊ ဖြစ်နိုင်ခြေအရ"
+        },
+        {
+          "no": 12,
+          "kanji": "とにかく",
+          "hiragana": "とにかく",
+          "meaning_burmese": "ဘာပဲဖြစ်ဖြစ်၊ မည်သို့ပင်ဖြစ်စေ"
+        },
+        {
+          "no": 13,
+          "kanji": "とても",
+          "hiragana": "とても",
+          "meaning_burmese": "လုံးဝ (မဖြစ်နိုင်ခြင်း)"
+        },
+        {
+          "no": 14,
+          "kanji": "より",
+          "hiragana": "より",
+          "meaning_burmese": "ပို၍ပင်"
+        },
+        {
+          "no": 15,
+          "kanji": "いかに",
+          "hiragana": "いかに",
+          "meaning_burmese": "မည်မျှပင်၊ မည်သို့ပင်"
+        },
+        {
+          "no": 16,
+          "kanji": "いかにも",
+          "hiragana": "いかにも",
+          "meaning_burmese": "အမှန်ပင်၊ အမှန်တကယ်ပင်"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "接続表現",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "それで",
+          "hiragana": "それで",
+          "meaning_burmese": "ဒါကြောင့်မို့၊ အဲ့ဒါနဲ့ပဲ"
+        },
+        {
+          "no": 2,
+          "kanji": "そこで",
+          "hiragana": "そこで",
+          "meaning_burmese": "ထို့ကြောင့်၊ ထို့အတွက်ကြောင့်"
+        },
+        {
+          "no": 3,
+          "kanji": "すると",
+          "hiragana": "すると",
+          "meaning_burmese": "ထိုအခါ၊ ထိုအခိုက်တွင်"
+        },
+        {
+          "no": 4,
+          "kanji": "なぜなら",
+          "hiragana": "なぜなら",
+          "meaning_burmese": "အဘယ်ကြောင့်ဆိုသော်"
+        },
+        {
+          "no": 5,
+          "kanji": "というのも",
+          "hiragana": "というのも",
+          "meaning_burmese": "အကြောင်းမှာမူ"
+        },
+        {
+          "no": 6,
+          "kanji": "つまり",
+          "hiragana": "つまり",
+          "meaning_burmese": "ဆိုလိုသည်မှာ၊ ဆိုရလျှင်"
+        },
+        {
+          "no": 7,
+          "kanji": "いわゆる",
+          "hiragana": "いわゆる",
+          "meaning_burmese": "လူသိများသော၊ ဆိုရိုးရှိသော"
+        },
+        {
+          "no": 8,
+          "kanji": "その上",
+          "hiragana": "そのうえ",
+          "meaning_burmese": "ထို့အပြင်၊ ထို့ထက်ပို၍"
+        },
+        {
+          "no": 9,
+          "kanji": "そればかりか",
+          "hiragana": "そればかりか",
+          "meaning_burmese": "ထိုမျှသာမကဘဲ"
+        },
+        {
+          "no": 10,
+          "kanji": "しかも",
+          "hiragana": "しかも",
+          "meaning_burmese": "ထို့အပြင်၊ အဲ့ဒီအပြင်"
+        },
+        {
+          "no": 11,
+          "kanji": "また",
+          "hiragana": "また",
+          "meaning_burmese": "ထို့အတူ၊ နောက်ထပ်"
+        },
+        {
+          "no": 12,
+          "kanji": "しかし",
+          "hiragana": "しかし",
+          "meaning_burmese": "သို့သော်ငြားလည်း"
+        },
+        {
+          "no": 13,
+          "kanji": "ところが",
+          "hiragana": "ところが",
+          "meaning_burmese": "ဒါပေမဲ့ (မထင်မှတ်ဘဲ)"
+        },
+        {
+          "no": 14,
+          "kanji": "それでも",
+          "hiragana": "それでも",
+          "meaning_burmese": "ထိုသို့ဖြစ်လင့်ကစား"
+        },
+        {
+          "no": 15,
+          "kanji": "それにもかかわらず",
+          "hiragana": "それにもかかわらず",
+          "meaning_burmese": "ထိုသို့ဖြစ်နေသော်ငြားလည်း"
+        },
+        {
+          "no": 16,
+          "kanji": "そうはいっても",
+          "hiragana": "そうはいっても",
+          "meaning_burmese": "ထိုသို့ပြောလင့်ကစား"
+        },
+        {
+          "no": 17,
+          "kanji": "それにしては",
+          "hiragana": "それにしては",
+          "meaning_burmese": "ထိုသို့ဆိုသော်လည်း (မမျှော်လင့်ဘဲ)"
+        },
+        {
+          "no": 18,
+          "kanji": "一方",
+          "hiragana": "いっぽう",
+          "meaning_burmese": "အခြားတစ်ဖက်တွင်မူ"
+        },
+        {
+          "no": 19,
+          "kanji": "ただ",
+          "hiragana": "ただ",
+          "meaning_burmese": "ဒါပေမဲ့၊ အနည်းငယ်တော့"
+        },
+        {
+          "no": 20,
+          "kanji": "ただし",
+          "hiragana": "ただし",
+          "meaning_burmese": "သို့သော်၊ ကန့်သတ်ချက်အနေဖြင့်"
+        },
+        {
+          "no": 21,
+          "kanji": "なお",
+          "hiragana": "なお",
+          "meaning_burmese": "ထို့အပြင်၊ ဖြည့်စွက်ရလျှင်"
+        },
+        {
+          "no": 22,
+          "kanji": "または",
+          "hiragana": "または",
+          "meaning_burmese": "သို့မဟုတ်"
+        },
+        {
+          "no": 23,
+          "kanji": "それとも",
+          "hiragana": "それとも",
+          "meaning_burmese": "သို့တည်းမဟုတ်"
+        },
+        {
+          "no": 24,
+          "kanji": "ところで",
+          "hiragana": "ところで",
+          "meaning_burmese": "စကားမစပ်"
+        },
+        {
+          "no": 25,
+          "kanji": "さて",
+          "hiragana": "さて",
+          "meaning_burmese": "ကဲ၊ သို့ဖြစ်လျှင်"
+        },
+        {
+          "no": 26,
+          "kanji": "それでは",
+          "hiragana": "それでは",
+          "meaning_burmese": "သို့ဖြစ်ပါ၍၊ ကဲဒါဆိုရင်"
+        }
+      ]
+    }
+  ]
+}

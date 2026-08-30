@@ -1,0 +1,821 @@
+{
+  "chapter": 1,
+  "sections": [
+    {
+      "section": 1,
+      "title": "家族",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "一家",
+          "hiragana": "いっか",
+          "meaning_burmese": "မိသားစုတစ်စုလုံး"
+        },
+        {
+          "no": 2,
+          "kanji": "ありがたい",
+          "hiragana": "ありがたい",
+          "meaning_burmese": "ကျေးဇူးတင်ထိုက်သော၊ အဖိုးတန်သော"
+        },
+        {
+          "no": 3,
+          "kanji": "向き合う",
+          "hiragana": "むきあう",
+          "meaning_burmese": "မျက်နှာချင်းဆိုင်သည်၊ ရင်ဆိုင်ဖြေရှင်းသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "つくづく",
+          "hiragana": "つくづく",
+          "meaning_burmese": "နက်နက်ရှိုင်းရှိုင်း၊ အမှန်တကယ်"
+        },
+        {
+          "no": 5,
+          "kanji": "養う",
+          "hiragana": "やしなう",
+          "meaning_burmese": "ရှာဖွေကျွေးမွေးသည်၊ ထောက်ပံ့သည်"
+        },
+        {
+          "no": 6,
+          "kanji": "役目",
+          "hiragana": "やくめ",
+          "meaning_burmese": "တာဝန်၊ ဝတ္တရား"
+        },
+        {
+          "no": 7,
+          "kanji": "甘える",
+          "hiragana": "あまえる",
+          "meaning_burmese": "ချွဲသည်၊ မှီခိုကပ်ရပ်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "世間知らず",
+          "hiragana": "せけんしらず",
+          "meaning_burmese": "လောကအကြောင်းမသိနားမလည်သူ၊ အတွေ့အကြုံနုနယ်သူ"
+        },
+        {
+          "no": 9,
+          "kanji": "しつけ",
+          "hiragana": "しつけ",
+          "meaning_burmese": "အဆုံးအမ၊ ယဉ်ကျေးအောင်ဆုံးမသွန်သင်မှု"
+        },
+        {
+          "no": 10,
+          "kanji": "言いつける",
+          "hiragana": "いいつける",
+          "meaning_burmese": "တိုင်တောသည်၊ အမိန့်ပေးသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "自立",
+          "hiragana": "じりつ",
+          "meaning_burmese": "မိမိခြေထောက်ပေါ်မိမိရပ်တည်ခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "言い出す",
+          "hiragana": "いいだす",
+          "meaning_burmese": "စတင်ပြောဆိုသည်၊ စကားစသည်"
+        },
+        {
+          "no": 13,
+          "kanji": "意思",
+          "hiragana": "いし",
+          "meaning_burmese": "ဆန္ဒ၊ သဘောထား"
+        },
+        {
+          "no": 14,
+          "kanji": "尊重",
+          "hiragana": "そんちょう",
+          "meaning_burmese": "လေးစားတန်ဖိုးထားခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "説得",
+          "hiragana": "せっとく",
+          "meaning_burmese": "ဖျောင်းဖျနားချခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "納得",
+          "hiragana": "なっとく",
+          "meaning_burmese": "သဘောပေါက်လက်ခံခြင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "逆らう",
+          "hiragana": "さからう",
+          "meaning_burmese": "ဆန့်ကျင်သည်၊ အာခံသည်"
+        },
+        {
+          "no": 18,
+          "kanji": "反省",
+          "hiragana": "はんせい",
+          "meaning_burmese": "ကိုယ့်ကိုယ်ကိုယ်ပြန်လည်သုံးသပ်နောင်တရခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "放っておく",
+          "hiragana": "ほうっておく",
+          "meaning_burmese": "ပစ်ထားသည်၊ လျစ်လျူရှုထားသည်"
+        },
+        {
+          "no": 20,
+          "kanji": "介護",
+          "hiragana": "かいご",
+          "meaning_burmese": "သက်ကြီးရွယ်အို (သို့) လူမမာပြုစုစောင့်ရှောက်ခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "ホームヘルパー",
+          "hiragana": "ホームヘルパー",
+          "meaning_burmese": "အိမ်အရောက်ပြုစုစောင့်ရှောက်သူ"
+        },
+        {
+          "no": 22,
+          "kanji": "世代",
+          "hiragana": "せだい",
+          "meaning_burmese": "မျိုးဆက်၊ အသက်အရွယ်အပိုင်းအခြား"
+        },
+        {
+          "no": 23,
+          "kanji": "継ぐ",
+          "hiragana": "つぐ",
+          "meaning_burmese": "ဆက်ခံသည်၊ ဆက်လက်ထိန်းသိမ်းသည်"
+        },
+        {
+          "no": 24,
+          "kanji": "妊娠",
+          "hiragana": "にんしん",
+          "meaning_burmese": "ကိုယ်ဝန်ဆောင်ခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "出産",
+          "hiragana": "しゅっさん",
+          "meaning_burmese": "ကလေးမွေးဖွားခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "産む",
+          "hiragana": "うむ",
+          "meaning_burmese": "မွေးဖွားသည်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "友達",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "友人",
+          "hiragana": "ゆうじん",
+          "meaning_burmese": "သူငယ်ချင်း၊ မိတ်ဆွေ"
+        },
+        {
+          "no": 2,
+          "kanji": "仲",
+          "hiragana": "なか",
+          "meaning_burmese": "ဆက်ဆံရေး၊ ခင်မင်ရင်းနှီးမှု"
+        },
+        {
+          "no": 3,
+          "kanji": "縁",
+          "hiragana": "えん",
+          "meaning_burmese": "ကံကြမ္မာဖန်တီးမှု၊ ဆက်နွှယ်မှု"
+        },
+        {
+          "no": 4,
+          "kanji": "ニックネーム",
+          "hiragana": "ニックネーム",
+          "meaning_burmese": "အမည်ပြောင်၊ ချစ်စနိုးခေါ်သောအမည်"
+        },
+        {
+          "no": 5,
+          "kanji": "大半",
+          "hiragana": "たいはん",
+          "meaning_burmese": "အများစု၊ အများအားဖြင့်"
+        },
+        {
+          "no": 6,
+          "kanji": "恵まれる",
+          "hiragana": "めぐまれる",
+          "meaning_burmese": "ကံကောင်းသည်၊ ပိုင်ဆိုင်ရရှိသည်"
+        },
+        {
+          "no": 7,
+          "kanji": "頼る",
+          "hiragana": "たよる",
+          "meaning_burmese": "အားကိုးသည်၊ အားထားသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "頼もしい",
+          "hiragana": "たのもしい",
+          "meaning_burmese": "အားကိုးထိုက်သော၊ ယုံကြည်စိတ်ချရသော"
+        },
+        {
+          "no": 9,
+          "kanji": "見習う",
+          "hiragana": "みならう",
+          "meaning_burmese": "အတုယူသည်၊ အတုယူသင်ယူသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "打ち明ける",
+          "hiragana": "うちあける",
+          "meaning_burmese": "ရင်ဖွင့်ပြောပြသည်၊ လျှို့ဝှက်ချက်ဖွင့်ဟသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "励ます",
+          "hiragana": "はげます",
+          "meaning_burmese": "အားပေးသည်၊ အားတက်စေသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "あえて",
+          "hiragana": "あえて",
+          "meaning_burmese": "ရဲရဲဝံ့ဝံ့၊ မဖြစ်မနေ"
+        },
+        {
+          "no": 13,
+          "kanji": "なぐさめる",
+          "hiragana": "なぐさめる",
+          "meaning_burmese": "နှစ်သိမ့်ပေးသည်၊ ဖြေသိမ့်ပေးသည်"
+        },
+        {
+          "no": 14,
+          "kanji": "察する",
+          "hiragana": "さっする",
+          "meaning_burmese": "ရိပ်မိသည်၊ စာနာနားလည်ပေးသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "思いやり",
+          "hiragana": "おもいやり",
+          "meaning_burmese": "စာနာထောက်ထားတတ်သောစိတ်"
+        },
+        {
+          "no": 16,
+          "kanji": "何気ない",
+          "hiragana": "なにげない",
+          "meaning_burmese": "သာမန်ပေါ့ပေါ့ပါးပါး၊ ရည်ရွယ်ချက်မရှိသော"
+        },
+        {
+          "no": 17,
+          "kanji": "からかう",
+          "hiragana": "からかう",
+          "meaning_burmese": "စနောက်သည်၊ ကျီစယ်သည်"
+        },
+        {
+          "no": 18,
+          "kanji": "幹事",
+          "hiragana": "かんじ",
+          "meaning_burmese": "ပွဲစီစဉ်သူ၊ တာဝန်ခံ"
+        },
+        {
+          "no": 19,
+          "kanji": "呼び出す",
+          "hiragana": "よびだす",
+          "meaning_burmese": "ခေါ်ထုတ်သည်၊ အခေါ်လွှတ်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "盛り上がる",
+          "hiragana": "もりあがる",
+          "meaning_burmese": "အရှိန်ရလာသည်၊ အသက်ဝင်မြိုင်ဆိုင်လာသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "あきれる",
+          "hiragana": "あきれる",
+          "meaning_burmese": "အံ့အားသင့်အံ့သြငြီးငွေ့မိသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "ふざける",
+          "hiragana": "ふざける",
+          "meaning_burmese": "နောက်ပြောင်ကျီစယ်သည်၊ အဆော့လွန်သည်"
+        },
+        {
+          "no": 23,
+          "kanji": "久しい",
+          "hiragana": "ひさしい",
+          "meaning_burmese": "ကြာမြင့်လှပြီဖြစ်သော"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "知人・付き合い",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "初対面",
+          "hiragana": "しょたいめん",
+          "meaning_burmese": "ပထမဆုံးအကြိမ်တွေ့ဆုံခြင်း"
+        },
+        {
+          "no": 2,
+          "kanji": "自己紹介",
+          "hiragana": "じこしょうかい",
+          "meaning_burmese": "ကိုယ်ရေးကိုယ်တာမိတ်ဆက်ခြင်း"
+        },
+        {
+          "no": 3,
+          "kanji": "おじぎ",
+          "hiragana": "おじぎ",
+          "meaning_burmese": "ဦးညွတ်အရိုအသေပေးခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "近所付き合い",
+          "hiragana": "きんじょづきあい",
+          "meaning_burmese": "အိမ်နီးချင်းဆက်ဆံရေး"
+        },
+        {
+          "no": 5,
+          "kanji": "大家",
+          "hiragana": "おおや",
+          "meaning_burmese": "အိမ်ရှင်"
+        },
+        {
+          "no": 6,
+          "kanji": "飼い主",
+          "hiragana": "かいぬし",
+          "meaning_burmese": "အိမ်မွေးတိရစ္ဆာန်ပိုင်ရှင်"
+        },
+        {
+          "no": 7,
+          "kanji": "交わす",
+          "hiragana": "かわす",
+          "meaning_burmese": "အပြန်အလှန်ဖလှယ်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "呼び止める",
+          "hiragana": "よびとめる",
+          "meaning_burmese": "လှမ်းခေါ်ရပ်တန့်စေသည်"
+        },
+        {
+          "no": 9,
+          "kanji": "振り返る",
+          "hiragana": "ふりかえる",
+          "meaning_burmese": "လှည့်ကြည့်သည်၊ ပြန်ပြောင်းစဉ်းစားသည်"
+        },
+        {
+          "no": 10,
+          "kanji": "再会",
+          "hiragana": "さいかい",
+          "meaning_burmese": "ပြန်လည်တွေ့ဆုံခြင်း"
+        },
+        {
+          "no": 11,
+          "kanji": "覚え",
+          "hiragana": "おぼえ",
+          "meaning_burmese": "မှတ်ဉာဏ်၊ အမှတ်ရမှု"
+        },
+        {
+          "no": 12,
+          "kanji": "心当たり",
+          "hiragana": "こころあたり",
+          "meaning_burmese": "ရိပ်မိသိရှိခြင်း၊ စိတ်ထဲတွင်သတိရမိခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "結びつく",
+          "hiragana": "むすびつく",
+          "meaning_burmese": "ဆက်စပ်မှုရှိသည်၊ တွဲစပ်မြင်ယောင်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "とっさに",
+          "hiragana": "とっさに",
+          "meaning_burmese": "ချက်ချင်းလက်ငင်း၊ ချက်ချင်းဆိုသလို"
+        },
+        {
+          "no": 15,
+          "kanji": "てっきり",
+          "hiragana": "てっきり",
+          "meaning_burmese": "ဧကန်မလွဲထင်မှတ်ခဲ့သည်"
+        },
+        {
+          "no": 16,
+          "kanji": "思い込む",
+          "hiragana": "おもいこむ",
+          "meaning_burmese": "တထစ်ချမှတ်ယူထားသည်"
+        },
+        {
+          "no": 17,
+          "kanji": "コミュニケーション",
+          "hiragana": "コミュニケーション",
+          "meaning_burmese": "အချင်းချင်းဆက်သွယ်ပြောဆိုမှု"
+        },
+        {
+          "no": 18,
+          "kanji": "ネットワーク",
+          "hiragana": "ネットワーク",
+          "meaning_burmese": "အဆက်အသွယ်ကွန်ရက်"
+        },
+        {
+          "no": 19,
+          "kanji": "直接",
+          "hiragana": "ちょくせつ",
+          "meaning_burmese": "တိုက်ရိုက်"
+        },
+        {
+          "no": 20,
+          "kanji": "接する",
+          "hiragana": "せっする",
+          "meaning_burmese": "ဆက်ဆံသည်၊ ထိစပ်နေသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "招く",
+          "hiragana": "まねく",
+          "meaning_burmese": "ဖိတ်ခေါ်သည်၊ ဖြစ်ပေါ်စေသည်"
+        },
+        {
+          "no": 22,
+          "kanji": "気配り",
+          "hiragana": "きくばり",
+          "meaning_burmese": "ဂရုတစိုက်ရှိမှု၊ လိုလေသေးမရှိဂရုစိုက်ခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "込める",
+          "hiragana": "こめる",
+          "meaning_burmese": "ထည့်သွင်းသည်၊ စိတ်နှစ်သည်"
+        },
+        {
+          "no": 24,
+          "kanji": "同期",
+          "hiragana": "どうき",
+          "meaning_burmese": "လုပ်သက်တူ၊ တစ်ချိန်တည်းဝင်သူ"
+        },
+        {
+          "no": 25,
+          "kanji": "ぐち",
+          "hiragana": "ぐち",
+          "meaning_burmese": "ညည်းတွားသံ၊ မကျေနပ်ချက်ပြောဆိုခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "大いに",
+          "hiragana": "おおいに",
+          "meaning_burmese": "အလွန်အမင်း၊ အပြည့်အဝ"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "恋人",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "カップル",
+          "hiragana": "カップル",
+          "meaning_burmese": "ချစ်သူစုံတွဲ"
+        },
+        {
+          "no": 2,
+          "kanji": "愛",
+          "hiragana": "あい",
+          "meaning_burmese": "အချစ်၊ မေတ္တာ"
+        },
+        {
+          "no": 3,
+          "kanji": "同士",
+          "hiragana": "どうし",
+          "meaning_burmese": "အချင်းချင်း၊ အတူတူ"
+        },
+        {
+          "no": 4,
+          "kanji": "お互い",
+          "hiragana": "おたがい",
+          "meaning_burmese": "အပြန်အလှန်"
+        },
+        {
+          "no": 5,
+          "kanji": "つり合う",
+          "hiragana": "つりあう",
+          "meaning_burmese": "လိုက်ဖက်သည်၊ ညီမျှသည်"
+        },
+        {
+          "no": 6,
+          "kanji": "むしろ",
+          "hiragana": "むしろ",
+          "meaning_burmese": "ထိုသို့ထက်စာရင်၊ ပို၍ပင်"
+        },
+        {
+          "no": 7,
+          "kanji": "いわば",
+          "hiragana": "いわば",
+          "meaning_burmese": "ဆိုရမည်ဆိုလျှင်၊ ဥပမာအားဖြင့်"
+        },
+        {
+          "no": 8,
+          "kanji": "視線",
+          "hiragana": "しせん",
+          "meaning_burmese": "အကြည့်၊ မျက်လုံးအကြည့်"
+        },
+        {
+          "no": 9,
+          "kanji": "見つめる",
+          "hiragana": "みつめる",
+          "meaning_burmese": "စူးစိုက်ကြည့်သည်"
+        },
+        {
+          "no": 10,
+          "kanji": "そらす",
+          "hiragana": "そらす",
+          "meaning_burmese": "အကြည့်လွှဲသည်၊ ရှောင်လွှဲသည်"
+        },
+        {
+          "no": 11,
+          "kanji": "ちらっと",
+          "hiragana": "ちらっと",
+          "meaning_burmese": "ခပ်ဖျတ်ဖျတ်တစ်ချက်လှမ်းကြည့်သည်"
+        },
+        {
+          "no": 12,
+          "kanji": "もしかすると",
+          "hiragana": "もしかすると",
+          "meaning_burmese": "ဖြစ်နိုင်ခြေရှိသည်မှာ၊ ဖြစ်ကောင်းဖြစ်နိုင်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "探る",
+          "hiragana": "さぐる",
+          "meaning_burmese": "အကဲခတ်စုံစမ်းသည်၊ ရှာဖွေစမ်းသပ်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "示す",
+          "hiragana": "しめす",
+          "meaning_burmese": "ပြသသည်၊ ဖော်ပြသည်"
+        },
+        {
+          "no": 15,
+          "kanji": "口実",
+          "hiragana": "こうじつ",
+          "meaning_burmese": "အကြောင်းပြချက်၊ ဆင်ခြေ"
+        },
+        {
+          "no": 16,
+          "kanji": "うつむく",
+          "hiragana": "うつむく",
+          "meaning_burmese": "ခေါင်းငုံ့သည်"
+        },
+        {
+          "no": 17,
+          "kanji": "こそこそ",
+          "hiragana": "こそこそ",
+          "meaning_burmese": "ခိုးကြောင်ခိုးဝှက်"
+        },
+        {
+          "no": 18,
+          "kanji": "ささやく",
+          "hiragana": "ささやく",
+          "meaning_burmese": "တိုးတိုးလေးပြောသည်၊ လေတိုးသံကဲ့သို့ပြောသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "禁物",
+          "hiragana": "きんもつ",
+          "meaning_burmese": "လုံးဝရှောင်ကြဉ်ရမည့်အရာ"
+        },
+        {
+          "no": 20,
+          "kanji": "許す",
+          "hiragana": "ゆるす",
+          "meaning_burmese": "ခွင့်လွှတ်သည်၊ ခွင့်ပြုသည်"
+        },
+        {
+          "no": 21,
+          "kanji": "合コン",
+          "hiragana": "ごうコン",
+          "meaning_burmese": "မိတ်ဆွေဖွဲ့တွေ့ဆုံပွဲ"
+        },
+        {
+          "no": 22,
+          "kanji": "アプローチ",
+          "hiragana": "アプローチ",
+          "meaning_burmese": "ချဉ်းကပ်ဆက်သွယ်ခြင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "運命",
+          "hiragana": "うんめい",
+          "meaning_burmese": "ကံကြမ္မာ"
+        },
+        {
+          "no": 24,
+          "kanji": "決意",
+          "hiragana": "けつい",
+          "meaning_burmese": "ပိုင်းဖြတ်ချက်၊ ဆုံးဖြတ်ချက်"
+        },
+        {
+          "no": 25,
+          "kanji": "プロポーズ",
+          "hiragana": "プロポーズ",
+          "meaning_burmese": "လက်ထပ်ခွင့်တောင်းခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "誓う",
+          "hiragana": "ちかう",
+          "meaning_burmese": "ကတိသစ္စာပြုသည်"
+        },
+        {
+          "no": 27,
+          "kanji": "花嫁",
+          "hiragana": "はなよめ",
+          "meaning_burmese": "သတို့သမီး"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "関係悪化",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "ささいな",
+          "hiragana": "ささいな",
+          "meaning_burmese": "သေးမွှားသော၊ အရေးမပါသော"
+        },
+        {
+          "no": 2,
+          "kanji": "避ける",
+          "hiragana": "さける",
+          "meaning_burmese": "ရှောင်ကြဉ်သည်၊ ရှောင်လွှဲသည်"
+        },
+        {
+          "no": 3,
+          "kanji": "誤解",
+          "hiragana": "ごかい",
+          "meaning_burmese": "အထင်လွဲမှားခြင်း"
+        },
+        {
+          "no": 4,
+          "kanji": "勘違い",
+          "hiragana": "かんちがい",
+          "meaning_burmese": "အထင်မှားယူဆမှားခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "言い訳",
+          "hiragana": "いいわけ",
+          "meaning_burmese": "ဆင်ခြေပေးခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "きっぱり",
+          "hiragana": "きっぱり",
+          "meaning_burmese": "ပြတ်ပြတ်သားသား"
+        },
+        {
+          "no": 7,
+          "kanji": "ばかにする",
+          "hiragana": "ばかにする",
+          "meaning_burmese": "အထင်သေးသည်၊ မထီမဲ့မြင်ပြုသည်"
+        },
+        {
+          "no": 8,
+          "kanji": "いやみ",
+          "hiragana": "いやみ",
+          "meaning_burmese": "လှောင်ပြောင်စောင်းမြောင်းပြောဆိုခြင်း"
+        },
+        {
+          "no": 9,
+          "kanji": "責める",
+          "hiragana": "せめる",
+          "meaning_burmese": "အပြစ်တင်သည်"
+        },
+        {
+          "no": 10,
+          "kanji": "けなす",
+          "hiragana": "けなす",
+          "meaning_burmese": "နှိမ့်ချပြောဆိုသည်၊ ကဲ့ရဲ့သည်"
+        },
+        {
+          "no": 11,
+          "kanji": "だまる",
+          "hiragana": "だまる",
+          "meaning_burmese": "တိတ်ဆိတ်နေသည်၊ နှုတ်ဆိတ်နေသည်"
+        },
+        {
+          "no": 12,
+          "kanji": "にらむ",
+          "hiragana": "にらむ",
+          "meaning_burmese": "စူးစိုက်ကြည့်သည်၊ မျက်ထောင့်နီဖြင့်ကြည့်သည်"
+        },
+        {
+          "no": 13,
+          "kanji": "裏切る",
+          "hiragana": "うらぎる",
+          "meaning_burmese": "သစ္စာဖောက်သည်"
+        },
+        {
+          "no": 14,
+          "kanji": "だます",
+          "hiragana": "だます",
+          "meaning_burmese": "လှည့်စားလိမ်လည်သည်"
+        },
+        {
+          "no": 15,
+          "kanji": "せい",
+          "hiragana": "せい",
+          "meaning_burmese": "အပြစ်ကြောင့် (ဆိုးကျိုးဖြစ်စေသောအကြောင်းရင်း)"
+        },
+        {
+          "no": 16,
+          "kanji": "行為",
+          "hiragana": "こうい",
+          "meaning_burmese": "အပြုအမူ၊ လုပ်ရပ်"
+        },
+        {
+          "no": 17,
+          "kanji": "口論",
+          "hiragana": "こうろん",
+          "meaning_burmese": "စကားများရန်ဖြစ်ခြင်း"
+        },
+        {
+          "no": 18,
+          "kanji": "怒鳴る",
+          "hiragana": "どなる",
+          "meaning_burmese": "အော်ဟစ်ကြိမ်းမောင်းသည်"
+        },
+        {
+          "no": 19,
+          "kanji": "殴る",
+          "hiragana": "なぐる",
+          "meaning_burmese": "ထိုးကြိတ်သည်"
+        },
+        {
+          "no": 20,
+          "kanji": "貸し借り",
+          "hiragana": "かしかり",
+          "meaning_burmese": "အငှားအချေးပြုလုပ်ခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "ばらす",
+          "hiragana": "ばらす",
+          "meaning_burmese": "လျှို့ဝှက်ချက်ပေါက်ကြားစေသည်၊ ဖြုတ်တောက်သည်"
+        },
+        {
+          "no": 22,
+          "kanji": "気まずい",
+          "hiragana": "きまずい",
+          "meaning_burmese": "မျက်နှာပူစရာဖြစ်သော၊ စိတ်မသက်မသာဖြစ်သော"
+        },
+        {
+          "no": 23,
+          "kanji": "今さら",
+          "hiragana": "いまさら",
+          "meaning_burmese": "ယခုမှစ၍ (နောက်ကျလွန်းနေပြီဖြစ်သော)"
+        },
+        {
+          "no": 24,
+          "kanji": "台無し",
+          "hiragana": "だいなし",
+          "meaning_burmese": "လုံးဝပျက်စီးသွားခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "うらむ",
+          "hiragana": "うらむ",
+          "meaning_burmese": "နာကျည်းမုန်းတီးသည်"
+        },
+        {
+          "no": 26,
+          "kanji": "追い出す",
+          "hiragana": "おいだす",
+          "meaning_burmese": "မောင်းထုတ်သည်"
+        },
+        {
+          "no": 27,
+          "kanji": "仲間外れ",
+          "hiragana": "なかまはずれ",
+          "meaning_burmese": "အဖွဲ့မှဖယ်ထုတ်ခံရခြင်း"
+        },
+        {
+          "no": 28,
+          "kanji": "あいつ",
+          "hiragana": "あいつ",
+          "meaning_burmese": "ထိုသူကောင်၊ ထိုလူ"
+        },
+        {
+          "no": 29,
+          "kanji": "他人",
+          "hiragana": "たにん",
+          "meaning_burmese": "သူစိမ်း၊ အခြားသူ"
+        }
+      ]
+    }
+  ]
+}

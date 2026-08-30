@@ -1,0 +1,839 @@
+{
+  "chapter": 7,
+  "sections": [
+    {
+      "section": 1,
+      "title": "競技",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "競技",
+          "hiragana": "きょうぎ",
+          "meaning_burmese": "အားကစားပြိုင်ပွဲ၊ ပြိုင်ပွဲဝင်အားကစားနည်း"
+        },
+        {
+          "no": 2,
+          "kanji": "競う",
+          "hiragana": "きそう",
+          "meaning_burmese": "ယှဉ်ပြိုင်သည်၊ အပြိုင်အဆိုင်လုပ်သည်"
+        },
+        {
+          "no": 3,
+          "kanji": "戦う",
+          "hiragana": "たたかう",
+          "meaning_burmese": "တိုက်ခိုက်သည်၊ ယှဉ်ပြိုင်တိုက်ခိုက်သည်"
+        },
+        {
+          "no": 4,
+          "kanji": "勝負",
+          "hiragana": "しょうぶ",
+          "meaning_burmese": "အနိုင်အရှုံးအဆုံးအဖြတ်၊ ပြိုင်ဆိုင်မှု"
+        },
+        {
+          "no": 5,
+          "kanji": "勝敗",
+          "hiragana": "しょうはい",
+          "meaning_burmese": "အနိုင်အရှုံးရလဒ်"
+        },
+        {
+          "no": 6,
+          "kanji": "勝利",
+          "hiragana": "しょうり",
+          "meaning_burmese": "အောင်ပွဲ၊ အောင်နိုင်မှု"
+        },
+        {
+          "no": 7,
+          "kanji": "破る",
+          "hiragana": "やぶる",
+          "meaning_burmese": "အနိုင်ယူချေမှုန်းသည်၊ ချိုးဖောက်သည်"
+        },
+        {
+          "no": 8,
+          "kanji": "やっつける",
+          "hiragana": "やっつける",
+          "meaning_burmese": "အပြတ်အသတ်ချေမှုန်းသည်၊ အနိုင်ယူသည်"
+        },
+        {
+          "no": 9,
+          "kanji": "敗れる",
+          "hiragana": "やぶれる",
+          "meaning_burmese": "အရေးနိမ့်သည်၊ ရှုံးနိမ့်သည်"
+        },
+        {
+          "no": 10,
+          "kanji": "攻める",
+          "hiragana": "せめる",
+          "meaning_burmese": "ထိုးစစ်ဆင်သည်၊ တိုက်စစ်ဆင်သည်"
+        },
+        {
+          "no": 11,
+          "kanji": "逆転",
+          "hiragana": "ぎゃくてん",
+          "meaning_burmese": "အခြေအနေပြောင်းပြန်လှန်နိုင်မှု၊ အနိုင်ပြန်လည်ရယူခြင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "開会",
+          "hiragana": "かいかい",
+          "meaning_burmese": "အခမ်းအနား/ပွဲတော် ဖွင့်လှစ်ခြင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "中断",
+          "hiragana": "ちゅうだん",
+          "meaning_burmese": "ယာယီရပ်ဆိုင်းခြင်း၊ ပြတ်တောက်ခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "延長",
+          "hiragana": "えんちょう",
+          "meaning_burmese": "အချိန်တိုးမြှင့်ခြင်း၊ သက်တမ်းတိုးခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "勇ましい",
+          "hiragana": "いさましい",
+          "meaning_burmese": "ရဲရင့်တက်ကြွသော၊ အားတက်ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 16,
+          "kanji": "勢い",
+          "hiragana": "いきおい",
+          "meaning_burmese": "အရှိန်အဟုန်၊ အားမာန်"
+        },
+        {
+          "no": 17,
+          "kanji": "さすが",
+          "hiragana": "さすが",
+          "meaning_burmese": "ထင်ထားသည့်အတိုင်းပင်၊ အမှန်ပင်"
+        },
+        {
+          "no": 18,
+          "kanji": "観客",
+          "hiragana": "かんきゃく",
+          "meaning_burmese": "ပွဲကြည့်ပရိသတ်"
+        },
+        {
+          "no": 19,
+          "kanji": "敵",
+          "hiragana": "てき",
+          "meaning_burmese": "ရန်သူ၊ ပြိုင်ဘက်"
+        },
+        {
+          "no": 20,
+          "kanji": "グラウンド",
+          "hiragana": "グラウンド",
+          "meaning_burmese": "အားကစားကွင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "順位",
+          "hiragana": "じゅんい",
+          "meaning_burmese": "အဆင့်၊ အဆင့်သတ်မှတ်ချက်"
+        },
+        {
+          "no": 22,
+          "kanji": "トレーナー",
+          "hiragana": "トレーナー",
+          "meaning_burmese": "နည်းပြ၊ ချွေးထုတ်အားကစားအင်္ကျီ"
+        },
+        {
+          "no": 23,
+          "kanji": "指導",
+          "hiragana": "しどう",
+          "meaning_burmese": "လမ်းညွှန်သင်ပြခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "取り入れる",
+          "hiragana": "とりいれる",
+          "meaning_burmese": "ထည့်သွင်းကျင့်သုံးသည်၊ လက်ခံကျင့်သုံးသည်"
+        },
+        {
+          "no": 25,
+          "kanji": "ハードな",
+          "hiragana": "ハードな",
+          "meaning_burmese": "ပင်ပန်းကြမ်းတမ်းသော၊ ပြင်းထန်သော"
+        },
+        {
+          "no": 26,
+          "kanji": "通用",
+          "hiragana": "つうよう",
+          "meaning_burmese": "လက်ခံအသုံးပြုနိုင်ခြင်း၊ အသုံးဝင်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "技",
+          "hiragana": "わざ",
+          "meaning_burmese": "ကျွမ်းကျင်မှုအတတ်ပညာ၊ ကစားကွက်"
+        },
+        {
+          "no": 28,
+          "kanji": "今に",
+          "hiragana": "いまに",
+          "meaning_burmese": "မကြာမီ၊ မကြာခင်မှာပင်"
+        }
+      ]
+    },
+    {
+      "section": 2,
+      "title": "ファッション",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "格好",
+          "hiragana": "かっこう",
+          "meaning_burmese": "ပုံပန်းသဏ္ဌာန်၊ ဝတ်စားဆင်ယင်မှုပုံစံ"
+        },
+        {
+          "no": 2,
+          "kanji": "持ち物",
+          "hiragana": "もちもの",
+          "meaning_burmese": "မိမိပိုင်ပစ္စည်း၊ လက်ဆွဲပစ္စည်း"
+        },
+        {
+          "no": 3,
+          "kanji": "身につける",
+          "hiragana": "みにつける",
+          "meaning_burmese": "ဝတ်ဆင်သည်၊ ကျွမ်းကျင်မှုဆည်းပူးသည်"
+        },
+        {
+          "no": 4,
+          "kanji": "センス",
+          "hiragana": "センス",
+          "meaning_burmese": "ခံစားနားလည်နိုင်စွမ်း၊ အမြင်ရသ (Sense)"
+        },
+        {
+          "no": 5,
+          "kanji": "ダサい",
+          "hiragana": "ダサい",
+          "meaning_burmese": "ခေတ်မမီသော၊ ကြည့်မကောင်းသော"
+        },
+        {
+          "no": 6,
+          "kanji": "いまひとつ",
+          "hiragana": "いまひとつ",
+          "meaning_burmese": "တစ်ခုခုလိုသလိုဖြစ်နေသော၊ အနည်းငယ်အားမရသော"
+        },
+        {
+          "no": 7,
+          "kanji": "スタイル",
+          "hiragana": "スタイル",
+          "meaning_burmese": "ကိုယ်လုံးကိုယ်ပေါက်၊ ပုံစံဒီဇိုင်း (Style)"
+        },
+        {
+          "no": 8,
+          "kanji": "足元",
+          "hiragana": "あしもと",
+          "meaning_burmese": "ခြေဖဝါးနား၊ ဖိနပ်အဆင်တန်ဆာ"
+        },
+        {
+          "no": 9,
+          "kanji": "ウエスト",
+          "hiragana": "ウエスト",
+          "meaning_burmese": "ခါး၊ ခါးအရွယ်အစား"
+        },
+        {
+          "no": 10,
+          "kanji": "見た目",
+          "hiragana": "みため",
+          "meaning_burmese": "အပြင်ပန်းပုံသဏ္ဌာန်"
+        },
+        {
+          "no": 11,
+          "kanji": "人目",
+          "hiragana": "ひとめ",
+          "meaning_burmese": "လူအများ၏အကြည့်၊ လူမြင်ကွင်း"
+        },
+        {
+          "no": 12,
+          "kanji": "色彩",
+          "hiragana": "しきさい",
+          "meaning_burmese": "အရောင်အသွေး၊ ကာလာ"
+        },
+        {
+          "no": 13,
+          "kanji": "華やかな",
+          "hiragana": "はなやかな",
+          "meaning_burmese": "တောက်ပခမ်းနားသော၊ လှပတင့်တယ်သော"
+        },
+        {
+          "no": 14,
+          "kanji": "鮮やかな",
+          "hiragana": "あざやかな",
+          "meaning_burmese": "ကြည်လင်တောက်ပသော၊ ထင်ရှားစိုပြည်သော"
+        },
+        {
+          "no": 15,
+          "kanji": "統一",
+          "hiragana": "とういつ",
+          "meaning_burmese": "တစ်သားတည်းဖြစ်စေခြင်း၊ ပုံစံတူညီစေခြင်း"
+        },
+        {
+          "no": 16,
+          "kanji": "フリーサイズ",
+          "hiragana": "フリーサイズ",
+          "meaning_burmese": "ဆိုဒ်မရွေးဝတ်ဆင်နိုင်သောအရွယ်အစား"
+        },
+        {
+          "no": 17,
+          "kanji": "ぶかぶか",
+          "hiragana": "ぶかぶか",
+          "meaning_burmese": "ပွယောင်းယောင်းဖြစ်သော၊ အလွန်ချောင်သော"
+        },
+        {
+          "no": 18,
+          "kanji": "生地",
+          "hiragana": "きじ",
+          "meaning_burmese": "အထည်စ၊ အဝတ်အသား"
+        },
+        {
+          "no": 19,
+          "kanji": "綿",
+          "hiragana": "めん",
+          "meaning_burmese": "ချည်ထည်၊ ဝါဂွမ်း"
+        },
+        {
+          "no": 20,
+          "kanji": "オーダーメイド",
+          "hiragana": "オーダーメイド",
+          "meaning_burmese": "စိတ်ကြိုက်ချုပ်လုပ်ထားသောအထည်"
+        },
+        {
+          "no": 21,
+          "kanji": "サングラス",
+          "hiragana": "サングラス",
+          "meaning_burmese": "နေကာမျက်မှန်"
+        },
+        {
+          "no": 22,
+          "kanji": "取れる",
+          "hiragana": "とれる",
+          "meaning_burmese": "(ကြယ်သီး) ပြုတ်ထွက်သည်"
+        },
+        {
+          "no": 23,
+          "kanji": "浴衣",
+          "hiragana": "ゆかた",
+          "meaning_burmese": "ယုခတ (နွေရာသီဝတ် ဂျပန်ရိုးရာဝတ်စုံ)"
+        }
+      ]
+    },
+    {
+      "section": 3,
+      "title": "エンターテインメント",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "イベント",
+          "hiragana": "イベント",
+          "meaning_burmese": "ပွဲလမ်းသဘင်၊ အစီအစဉ်"
+        },
+        {
+          "no": 2,
+          "kanji": "アイドル",
+          "hiragana": "アイドル",
+          "meaning_burmese": "အိုင်ဒေါ၊ လူကြိုက်များသောအဆိုတော်/သရုပ်ဆောင်"
+        },
+        {
+          "no": 3,
+          "kanji": "ステージ",
+          "hiragana": "ステージ",
+          "meaning_burmese": "စင်မြင့်၊ ဇာတ်ခုံ"
+        },
+        {
+          "no": 4,
+          "kanji": "興奮",
+          "hiragana": "こうふん",
+          "meaning_burmese": "စိတ်လှုပ်ရှားတက်ကြွခြင်း"
+        },
+        {
+          "no": 5,
+          "kanji": "続々",
+          "hiragana": "ぞくぞく",
+          "meaning_burmese": "တသီတတန်းကြီး၊ တစ်စုပြီးတစ်စု"
+        },
+        {
+          "no": 6,
+          "kanji": "演劇",
+          "hiragana": "えんげき",
+          "meaning_burmese": "ပြဇာတ်"
+        },
+        {
+          "no": 7,
+          "kanji": "劇場",
+          "hiragana": "げきじょう",
+          "meaning_burmese": "ပြဇာတ်ရုံ"
+        },
+        {
+          "no": 8,
+          "kanji": "役者",
+          "hiragana": "やくしゃ",
+          "meaning_burmese": "သရုပ်ဆောင်၊ ဇာတ်မင်းသား/မင်းသမီး"
+        },
+        {
+          "no": 9,
+          "kanji": "主役",
+          "hiragana": "しゅやく",
+          "meaning_burmese": "အဓိကဇာတ်ဆောင်"
+        },
+        {
+          "no": 10,
+          "kanji": "セリフ",
+          "hiragana": "セリフ",
+          "meaning_burmese": "ဇာတ်ညွှန်းစကား၊ စကားအသုံးအနှုန်း"
+        },
+        {
+          "no": 11,
+          "kanji": "演技",
+          "hiragana": "えんぎ",
+          "meaning_burmese": "သရုပ်ဆောင်ချက်၊ သရုပ်ဆောင်မှု"
+        },
+        {
+          "no": 12,
+          "kanji": "オーケストラ",
+          "hiragana": "オーケストラ",
+          "meaning_burmese": "သံစုံတီးဝိုင်း"
+        },
+        {
+          "no": 13,
+          "kanji": "リズム",
+          "hiragana": "リズム",
+          "meaning_burmese": "စည်းဝါး၊ တေးသွားစည်းချက်"
+        },
+        {
+          "no": 14,
+          "kanji": "鑑賞",
+          "hiragana": "かんしょう",
+          "meaning_burmese": "အနုပညာရသခံစားကြည့်ရှုခြင်း"
+        },
+        {
+          "no": 15,
+          "kanji": "芸術家",
+          "hiragana": "げいじゅつか",
+          "meaning_burmese": "အနုပညာရှင်"
+        },
+        {
+          "no": 16,
+          "kanji": "監督",
+          "hiragana": "かんとく",
+          "meaning_burmese": "ဒါရိုက်တာ၊ ကြီးကြပ်သူ"
+        },
+        {
+          "no": 17,
+          "kanji": "あらすじ",
+          "hiragana": "あらすじ",
+          "meaning_burmese": "ဇာတ်လမ်းအကျဉ်းချုပ်"
+        },
+        {
+          "no": 18,
+          "kanji": "ありふれた",
+          "hiragana": "ありふれた",
+          "meaning_burmese": "ရိုးအီနေသော၊ တွေ့နေကျဖြစ်သော"
+        },
+        {
+          "no": 19,
+          "kanji": "ばかばかしい",
+          "hiragana": "ばかばかしい",
+          "meaning_burmese": "အဓိပ္ပာယ်မရှိသော၊ ရယ်ဖွယ်ကောင်းသော"
+        },
+        {
+          "no": 20,
+          "kanji": "退屈",
+          "hiragana": "たいくつ",
+          "meaning_burmese": "ပျင်းရိငြီးငွေ့ဖွယ်ကောင်းခြင်း"
+        },
+        {
+          "no": 21,
+          "kanji": "人物",
+          "hiragana": "じんぶつ",
+          "meaning_burmese": "ဇာတ်ကောင်၊ ပုဂ္ဂိုလ်"
+        },
+        {
+          "no": 22,
+          "kanji": "場面",
+          "hiragana": "ばめん",
+          "meaning_burmese": "ဇာတ်ဝင်ခန်း၊ အခင်းအကျင်း"
+        },
+        {
+          "no": 23,
+          "kanji": "展開",
+          "hiragana": "てんかい",
+          "meaning_burmese": "ဇာတ်လမ်းတိုးတက်ပြောင်းလဲမှု၊ ပေါ်ပေါက်လာမှု"
+        },
+        {
+          "no": 24,
+          "kanji": "テンポ",
+          "hiragana": "テンポ",
+          "meaning_burmese": "အရှိန်အဟုန်၊ အမြန်နှုန်း (Tempo)"
+        },
+        {
+          "no": 25,
+          "kanji": "評判",
+          "hiragana": "ひょうばん",
+          "meaning_burmese": "နာမည်ကျော်ကြားမှု၊ လူပြောများမှု"
+        },
+        {
+          "no": 26,
+          "kanji": "評価",
+          "hiragana": "ひょうか",
+          "meaning_burmese": "အကဲဖြတ်သတ်မှတ်ခြင်း"
+        },
+        {
+          "no": 27,
+          "kanji": "感想",
+          "hiragana": "かんそう",
+          "meaning_burmese": "ခံစားချက်၊ အမြင်သဘောထား"
+        },
+        {
+          "no": 28,
+          "kanji": "賞",
+          "hiragana": "しょう",
+          "meaning_burmese": "ဆုတံဆိပ်"
+        }
+      ]
+    },
+    {
+      "section": 4,
+      "title": "本",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "書物",
+          "hiragana": "しょもつ",
+          "meaning_burmese": "စာအုပ်စာပေ"
+        },
+        {
+          "no": 2,
+          "kanji": "絵本",
+          "hiragana": "えほん",
+          "meaning_burmese": "ရုပ်ပြပုံပြင်စာအုပ်"
+        },
+        {
+          "no": 3,
+          "kanji": "作品",
+          "hiragana": "さくひん",
+          "meaning_burmese": "လက်ရာ၊ ဖန်တီးမှုလက်ရာ"
+        },
+        {
+          "no": 4,
+          "kanji": "著者",
+          "hiragana": "ちょしゃ",
+          "meaning_burmese": "စာရေးဆရာ၊ ကျမ်းပြုသူ"
+        },
+        {
+          "no": 5,
+          "kanji": "書き手",
+          "hiragana": "かきて",
+          "meaning_burmese": "စာရေးသူ"
+        },
+        {
+          "no": 6,
+          "kanji": "ペンネーム",
+          "hiragana": "ペンネーム",
+          "meaning_burmese": "ကလောင်အမည်"
+        },
+        {
+          "no": 7,
+          "kanji": "主人公",
+          "hiragana": "しゅじんこう",
+          "meaning_burmese": "ဇာတ်လိုက်၊ အဓိကဇာတ်ကောင်"
+        },
+        {
+          "no": 8,
+          "kanji": "ロマン",
+          "hiragana": "ロマン",
+          "meaning_burmese": "စွန့်စားခန်းဆန်သောအိပ်မက်၊ ရိုမန်တစ်ခံစားချက်"
+        },
+        {
+          "no": 9,
+          "kanji": "伝記",
+          "hiragana": "でんき",
+          "meaning_burmese": "အတ္ထုပ္ပတ္တိစာအုပ်"
+        },
+        {
+          "no": 10,
+          "kanji": "人生",
+          "hiragana": "じんせい",
+          "meaning_burmese": "လူ့ဘဝ၊ သက်တမ်း"
+        },
+        {
+          "no": 11,
+          "kanji": "神話",
+          "hiragana": "しんわ",
+          "meaning_burmese": "ဒဏ္ဍာရီ၊ နတ်ဒဏ္ဍာရီ"
+        },
+        {
+          "no": 12,
+          "kanji": "中世",
+          "hiragana": "ちゅうせい",
+          "meaning_burmese": "အလယ်ခေတ်"
+        },
+        {
+          "no": 13,
+          "kanji": "文明",
+          "hiragana": "ぶんめい",
+          "meaning_burmese": "ယဉ်ကျေးမှုအဆင့်အတန်း၊ ယဉ်ကျေးမှုထွန်းကားခြင်း"
+        },
+        {
+          "no": 14,
+          "kanji": "忠実な",
+          "hiragana": "ちゅうじつな",
+          "meaning_burmese": "သစ္စာရှိသော၊ မူရင်းအတိုင်းတိကျသော"
+        },
+        {
+          "no": 15,
+          "kanji": "奇妙な",
+          "hiragana": "きみょうな",
+          "meaning_burmese": "ထူးဆန်းအံ့သြဖွယ်ဖြစ်သော"
+        },
+        {
+          "no": 16,
+          "kanji": "背景",
+          "hiragana": "はいけい",
+          "meaning_burmese": "နောက်ခံအခြေအနေ၊ နောက်ခံမြင်ကွင်း"
+        },
+        {
+          "no": 17,
+          "kanji": "実際",
+          "hiragana": "じっさい",
+          "meaning_burmese": "လက်တွေ့အရှိတရား"
+        },
+        {
+          "no": 18,
+          "kanji": "文句",
+          "hiragana": "もんく",
+          "meaning_burmese": "စာသားအသုံးအနှုန်း၊ မကျေနပ်ချက်ပြောဆိုခြင်း"
+        },
+        {
+          "no": 19,
+          "kanji": "果たして",
+          "hiragana": "はたして",
+          "meaning_burmese": "အမှန်တကယ်ပင်၊ နောက်ဆုံးတွင်တော့"
+        },
+        {
+          "no": 20,
+          "kanji": "発想",
+          "hiragana": "はっそう",
+          "meaning_burmese": "အတွေးအခေါ်အကြံဉာဏ်သစ်"
+        },
+        {
+          "no": 21,
+          "kanji": "由来",
+          "hiragana": "ゆらい",
+          "meaning_burmese": "မြစ်ဖျားခံရာ၊ မူလဇာစ်မြစ်"
+        },
+        {
+          "no": 22,
+          "kanji": "空想",
+          "hiragana": "くうそう",
+          "meaning_burmese": "စိတ်ကူးယဉ်မှု၊ စိတ်ကူးသက်သက်"
+        },
+        {
+          "no": 23,
+          "kanji": "連想",
+          "hiragana": "れんそう",
+          "meaning_burmese": "တွေးတောဆက်စပ်မြင်ယောင်ခြင်း"
+        },
+        {
+          "no": 24,
+          "kanji": "解釈",
+          "hiragana": "かいしゃく",
+          "meaning_burmese": "အဓိပ္ပာယ်ဖွင့်ဆိုရှင်းပြခြင်း"
+        },
+        {
+          "no": 25,
+          "kanji": "発行",
+          "hiragana": "はっこう",
+          "meaning_burmese": "ပုံနှိပ်ထုတ်ဝေခြင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "生み出す",
+          "hiragana": "うみだす",
+          "meaning_burmese": "ဖန်တီးမွေးဖွားပေးသည်"
+        },
+        {
+          "no": 27,
+          "kanji": "読書家",
+          "hiragana": "どくしょか",
+          "meaning_burmese": "စာဖတ်ဝါသနာကြီးသူ"
+        }
+      ]
+    },
+    {
+      "section": 5,
+      "title": "趣味・好み",
+      "vocab": [
+        {
+          "no": 1,
+          "kanji": "習い事",
+          "hiragana": "ならいごと",
+          "meaning_burmese": "ဝါသနာအရသင်ယူသောအရာ (စန္ဒယား/ပန်းချီ စသည်)"
+        },
+        {
+          "no": 2,
+          "kanji": "こだわる",
+          "hiragana": "こだわる",
+          "meaning_burmese": "အထူးအလေးထားသည်၊ စွဲစွဲမြဲမြဲအာရုံစိုက်သည်"
+        },
+        {
+          "no": 3,
+          "kanji": "こだわり",
+          "hiragana": "こだわり",
+          "meaning_burmese": "အထူးစိတ်ဝင်စားစွဲလမ်းမှု၊ ကိုယ်ပိုင်သတ်မှတ်ချက်"
+        },
+        {
+          "no": 4,
+          "kanji": "凝る",
+          "hiragana": "こる",
+          "meaning_burmese": "အလွန်အမင်းဝါသနာပါစွဲလမ်းသည်"
+        },
+        {
+          "no": 5,
+          "kanji": "熱中",
+          "hiragana": "ねっちゅう",
+          "meaning_burmese": "စိတ်နှစ်ခွင်လုံးမြှုပ်နှံထားခြင်း"
+        },
+        {
+          "no": 6,
+          "kanji": "コレクション",
+          "hiragana": "コレクション",
+          "meaning_burmese": "စုဆောင်းသိမ်းဆည်းထားသောအရာများ"
+        },
+        {
+          "no": 7,
+          "kanji": "多彩な",
+          "hiragana": "たさいな",
+          "meaning_burmese": "စုံလင်ကွဲပြားသော၊ စုံလင်ကြွယ်ဝသော"
+        },
+        {
+          "no": 8,
+          "kanji": "素人",
+          "hiragana": "しろうと",
+          "meaning_burmese": "အတွေ့အကြုံမရှိသေးသူ၊ အပျော်တမ်းသမား"
+        },
+        {
+          "no": 9,
+          "kanji": "初心者",
+          "hiragana": "しょしんしゃ",
+          "meaning_burmese": "အစပြုသူ၊ စတင်လေ့လာသူ"
+        },
+        {
+          "no": 10,
+          "kanji": "本格的な",
+          "hiragana": "ほんかくてきな",
+          "meaning_burmese": "စစ်မှန်သော၊ အဆင့်မီသော"
+        },
+        {
+          "no": 11,
+          "kanji": "名人",
+          "hiragana": "めいじん",
+          "meaning_burmese": "ထူးချွန်ကျွမ်းကျင်သူ၊ ဆရာကြီး"
+        },
+        {
+          "no": 12,
+          "kanji": "共通",
+          "hiragana": "きょうつう",
+          "meaning_burmese": "တူညီမှုရှိခြင်း၊ တူညီသောအချက်"
+        },
+        {
+          "no": 13,
+          "kanji": "ブーム",
+          "hiragana": "ブーム",
+          "meaning_burmese": "ခေတ်စားလူကြိုက်များမှုရေစီးကြောင်း (Boom)"
+        },
+        {
+          "no": 14,
+          "kanji": "アウトドア",
+          "hiragana": "アウトドア",
+          "meaning_burmese": "ပြင်ပလှုပ်ရှားမှု (Outdoor)"
+        },
+        {
+          "no": 15,
+          "kanji": "編み物",
+          "hiragana": "あみもの",
+          "meaning_burmese": "သိုးမွှေးထိုးထည်၊ ချည်ထိုးထည်"
+        },
+        {
+          "no": 16,
+          "kanji": "手品",
+          "hiragana": "てじな",
+          "meaning_burmese": "မျက်လှည့်ပြကွက်"
+        },
+        {
+          "no": 17,
+          "kanji": "占い",
+          "hiragana": "うらない",
+          "meaning_burmese": "ဗေဒင်ဟောကိန်း၊ ဗေဒင်ယတြာ"
+        },
+        {
+          "no": 18,
+          "kanji": "手話",
+          "hiragana": "しゅわ",
+          "meaning_burmese": "လက်ဟန်ခြေဟန်စကား"
+        },
+        {
+          "no": 19,
+          "kanji": "伝統",
+          "hiragana": "でんとう",
+          "meaning_burmese": "ရိုးရာဓလေ့"
+        },
+        {
+          "no": 20,
+          "kanji": "作法",
+          "hiragana": "さほう",
+          "meaning_burmese": "ယဉ်ကျေးမှုထုံးတမ်း၊ လိုက်နာရမည့်စည်းကမ်း"
+        },
+        {
+          "no": 21,
+          "kanji": "撮影",
+          "hiragana": "さつえい",
+          "meaning_burmese": "ဓာတ်ပုံ/ဗီဒီယို ရိုက်ကူးခြင်း"
+        },
+        {
+          "no": 22,
+          "kanji": "レンズ",
+          "hiragana": "レンズ",
+          "meaning_burmese": "မှန်ဘီလူး (Lens)"
+        },
+        {
+          "no": 23,
+          "kanji": "宝くじ",
+          "hiragana": "たからくじ",
+          "meaning_burmese": "ထီ၊ ထီလက်မှတ်"
+        },
+        {
+          "no": 24,
+          "kanji": "当たる",
+          "hiragana": "あたる",
+          "meaning_burmese": "ထီပေါက်သည်၊ ထိမှန်သည်"
+        },
+        {
+          "no": 25,
+          "kanji": "コツ",
+          "hiragana": "コツ",
+          "meaning_burmese": "ကျွမ်းကျင်စေသောလျှို့ဝှက်ချက်၊ နည်းလမ်းကောင်း"
+        },
+        {
+          "no": 26,
+          "kanji": "瞬間",
+          "hiragana": "しゅんかん",
+          "meaning_burmese": "မျက်စိတစ်မှိတ်လျှပ်တစ်ပြက်အချိန်"
+        },
+        {
+          "no": 27,
+          "kanji": "組み合わせる",
+          "hiragana": "くみあわせる",
+          "meaning_burmese": "ပေါင်းစပ်ညှိနှိုင်းသည်၊ တွဲစပ်သည်"
+        },
+        {
+          "no": 28,
+          "kanji": "身近",
+          "hiragana": "みぢか",
+          "meaning_burmese": "နီးစပ်သော၊ မိမိအနီးအနားရှိ"
+        }
+      ]
+    }
+  ]
+}
